@@ -1,0 +1,38 @@
+---
+title: Belajar Dari "Napoleon"
+date: '2020-01-31'
+draft: false
+series: []
+categories:
+- Sekularisme
+- Sejarah
+- Syarah
+tags:
+- Sekularisme
+- Sejarah
+- Syarah
+authors: Dr. Adian Husaini
+sumber: https://www.facebook.com/mustanironline/posts/1273613072778640
+---
+**Penulis: Dr. Adian Husaini**
+
+Oleh: Dr. Adian Husaini
+(Peneliti INSISTS)
+
+Kondisi kebebasan nyaris tanpa batas (anarkhi) dalam negara demokrasi – menurut Socrates (469-399 SM) -- akhirnya akan memunculkan bentuk tirani (tyranny). Socrates, seperti diceritakan muridnya, Plato (427-347 SM), dalam karyanya ‘The Republic’, memandang demokrasi merupakan bentuk pemerintahan yang tidak ideal; lebih rendah nilainya dibandingkan ‘aristokrasi’ (negara dipimpin para pecinta hikmah/kebenaran), ‘timokrasi’ (negara dipimpin para ksatria pecinta kehormatan), dan ‘oligarchy’ (negara dipimpin oleh sedikit orang). Di negara demokrasi (pemerintahan oleh rakyat – the rule of the people), kata Socrates, semua orang ingin berbuat menurut kehendaknya sendiri, yang akhirnya menghancurkan negara mereka sendiri. Kebebasan menjadi sempurna. Ketika rakyat lelah dengan kebebasan tanpa aturan, maka mereka akan mengangkat seorang tiran untuk memulihkan aturan. (… when men tire of the lawlessness of a liberty… they appoint a strong man to restore order). (Lihat, Eric H. Warmington, (ed.), Great Dialogues of Plato, (New York: The New American Library), hal. 123).
+
+Adalah menarik untuk membandingkan keadaan Indonesia saat ini dengan kondisi Perancis pada saat-saat negara itu mengalami Revolusi tahun 1789 dan setelah kejatuhan Napoleon. Menjelang Revolusi, Perancis adalah negara autokrasi di bawah kekuasaan Raja Louis ke-14 yang berpenduduk sekitar 26 juta jiwa. Kekuasaan terpusat di tangan raja dan kaum elite negara. Ada dua kelompok yang sangat diistimewakan ketika itu. Pertama, kaum agamawan (clergy), yang diwakili oleh Geraja Katolik, dan kaum bangsawan (nobility). Gereja mendapatkan berbagai keistimewaan, seperti memungut pajak hasil bumi, mencatat kelahiran, perkawinan, dan kematian, melakukan penyensoran terhadap buku-buku yang dinilai melawan ajaran Gereja, mengoperasikan sekolah-sekolah. Walaupun tanah-tanah Gereja banyak menghasilkan keuntungan, namun mereka tidak membayar pajak apa pun. Karena itu, banyak dijumpai, tokoh-tokoh agama yang hidup dalam kemewahan. Kelompok bangsawan yang jumlahnya hanya sekitar 350 ribu juga mendapatkan berbagai keistimewaan. Mereka dikecualikan dari hampir semua jenis pajak. Mereka menguasai sekitar ¼ sampai 1/3 tanah Perancis.
+
+Krisis ekonomi menjelang tahun 1789, dimanfaatkan dengan baik oleh kalangan liberal dan kelompok bourgeoisie Perancis untuk melakukan revolusi dan meruntuhkan monarkhi. Dan itu terjadi pada 14 Juli 1789, saat masyarakat Perancis berhasil meruntuhkan penjara Bastile, yang menjadi simbol dari kekuasaan Rejim Lama.
+
+Revolusi Perancis mengusung jargon yang sangat terkenal: “liberty, egality, dan fraternity” (kebebasan, persamaan, dan persaudaraan). Namun, revolusi itu selama beberapa tahun tidak melahirkan stabilitas dan kebaikan bagi rakyat Perancis. Masa-masa teror sempat terjadi selama beberapa tahun yang memakan korban sekitar 40 ribu orang. Saling bunuh dan teror terjadi antar rezim yang berganti-ganti kekuasaan. Rezim Thermidorean, misalnya, pada 1795, melakukan aksi “kontra-revolusi” yang membantai pengikut rezim sebelumnya.
+
+Di saat-saat berkembangnya anarkhi dan ketidakpastian itulah, muncul seorang Jenderal militer, bernama Napoleon Bonaparte, yang mengambil alih kekuasaan di Perancis pada tahun 1799. Napoleon lahir tanggal 15 Agustus 1769 di Pulau Corsica. Ia masih termasuk keluarga bangsawan kecil. Tahun 1796, ia memimpin pasukan Perancis di Itali. Di sinilah ia meraih reputasi yang hebat dalam kemiliteran. Tahun 1799, ia menjadi jenderal terkemuka di Perancis. Ia bergabung dalam satu konspirasi untuk menumbangkan penguasa lama, dan mendirikan sistem pemerintahan baru dengan kekuasaan dipegang oleh tiga konsul. Sebagai konsul pertama, Napoleon memonopoli kekuasaan. Tahun 1802, ia menjadi konsul pertama seumur hidup, yang berhak menentukan penggantinya. Dan pada 2 Desember 1804, dalam satu seremoni agung di Katedral Notre Dame di Paris, Napoleon menobatkan dirinya sebagai Kaisar Perancis (emperor of the French). Napoleon memang cinta pada kekuasaan, yang ia ibaratkan, seperti seorang musisi mencintai biolanya.
+
+Napoleon melakukan perombakan sistem pemerintahan di Perancis. Ia mengembalikan Perancis ke dalam sistem pemerintahan yang disebut sebagai “enlightened despotism” (despotisme yang tercerahkan). Ia menjadikan pemerintahan berjalan lebih efektif, dengan melakukan berbagai kebijakan, seperti: efisiensi dan penyeragaman administrasi pemerintahan, menolak feodalisme, menentang persekusi keagamaan, dan menghilangkan diskriminasi warga negara. Juga, ia memilih kebijakan yang menjadikan negara mengontrol perdagangan dan industri. Menurut Napoleon, sistem “enlightened despotism” merupakan alat untuk menjamin stabilitas politik dan memperkuat negara. Napoleon juga memelihara dan melaksanakan sejumlah hasil yang dicapai dalam revolusi Perancis, seperti: persamaan di depan hukum, jenjang karir berdasarkan kemampuan dan prestasi (meritokrasi), penekanan pada pendidikan sekular, dan pengurangan kekuasaan Gereja (clerical power). Namun, Napoleon menekan kebebasan politik.
+
+Berbagai cara dilakukan Napoleon untuk mengkonsentrasikan kekuasaan, sehingga menjadi efektif. Untuk meraih dukungan kaum Katolik, ia melakukan negosiasi dengan Paus, yang hasilnya adalah pengesahan Concordat 1801, berupa pengakuan Katolik sebagai agama mayoritas rakyat Perancis. Napoleon menolak permintaan Paus untuk menjadikan Katolik sebagai agama negara. Ia pun melakukan berbagai cara untuk membungkam penentangnya, dari kalangan bekas keluarga kerajaan maupun pendukung republik. Namun, ia pun melakukan berbagai perbaikan di bidang hukum, ekonomi, dan pendidikan. Ia mendirikan University of France. Untuk menekan laju inflasi, misalnya, ia mendirikan Bank of France. Ia juga membiarkan para petani menguasai lahan para tuan tanah, yang mereka peroleh di masa Revolusi.
+
+Di tangan Napoleon, Perancis kemudian menjadi kekuatan besar di Eropa. Antara tahun 1805-1807, Perancis mampu menaklukkan Austria, Russia, dan Prussia (cikal bakal Jerman). Tahun 1810, Napoleon mendominasi Eropa Daratan, kecuali Semenanjung Balkan. Napoleon berhasil membawa Perancis menjadi negara besar yang sayangnya kemudian dimanfaatkan untuk aktivitas imperialisme. Ekspansi yang berlebihan akhirnya mengantarkan kehancuran tentara Perancis, terutama setelah kekalahan besar di Rusia pada tahun 1812 yang membawa kematian ratusan ribu tentara Napoleon. Akhirnya, tahun 1814 Paris diduduki Tentara Sekutu Austria, Russia, Prussia, dan Swedia, dan Napoleon berhasil ditangkap dan diasingkan ke Pulau Elba. Namun, setahun kemudian, sang jenderal kembali ke Paris sebagai ‘hero’ dan bertempur kembali melawan pasukan Sekutu, sebelum akhirnya dikalahkan kembali. (Uraian tentang Revolusi Perancis dan Napoleon diringkaskan dari buku Western Civilization A Brief History, karya Marvin Perry, (Boston: Houghton Mifflin Company, 1997).
+
+Akankah “Napoleon” akan muncul di Indonesia? Di tengah situasi “anarkhis” dan kepemimpinan yang lemah, bukan tidak mungkin sebagian merindukan tampilnya sosok Napoleon. Tapi, perlu diwaspadai, sosok semacam ini pun, ujungnya – jika tanpa iman dan taqwa – akan membawa pada kesengsaraan! Wallahu A’lam. (***)

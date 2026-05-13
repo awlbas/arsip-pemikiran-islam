@@ -1,5 +1,4 @@
 .DS_Store
-.gitignore
 node_modules
 public
 prof
@@ -9,3 +8,5 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+content/Works/
+content/Clippings_backup_*/

@@ -8,16 +8,16 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Arsip Pemikiran Islam",
+    pageTitleSuffix: " | Arsip Pemikiran Islam",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    locale: "id-ID",
+    baseUrl: "arsip-pemikiran-islam.pages.dev",
+    ignorePatterns: ["private", "templates", "Templates", ".obsidian", "Works"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
