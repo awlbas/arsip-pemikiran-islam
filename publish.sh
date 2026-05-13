@@ -21,8 +21,11 @@ rsync -a --delete \
   --exclude="Clippings/Private/" \
   "$VAULT/" "$QUARTZ/content/"
 
-echo "📦 Commit dan push ke GitHub..."
+echo "🔍 Update Algolia index..."
 cd "$QUARTZ"
+npx quartz build
+
+echo "📦 Commit dan push ke GitHub..."
 git add -A
 
 if git diff --cached --quiet; then
