@@ -1,15 +1,13 @@
 ---
 title: Negara Madinah
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: Dr Hamid Fahmy Zarkasyi
+source: https://www.facebook.com/rushside.ridho/posts/10216048619907455
 tags:
 - Pemikiran
-authors: Dr Hamid Fahmy Zarkasyi
-sumber: https://www.facebook.com/rushside.ridho/posts/10216048619907455
+draft: false
 ---
+
 **Penulis: Dr Hamid Fahmy Zarkasyi**
 
 Oleh: Dr Hamid Fahmy Zarkasyi

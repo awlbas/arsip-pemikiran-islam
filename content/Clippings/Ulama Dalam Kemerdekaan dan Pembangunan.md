@@ -1,17 +1,14 @@
 ---
 title: Ulama Dalam Kemerdekaan dan Pembangunan
 date: '2020-01-28'
-draft: false
-series: []
-categories:
-- Sejarah
-- Indonesia
+author: Dr. Adian Husaini
+source: https://www.facebook.com/fansadianhusaini/posts/1960088497425554
 tags:
 - Sejarah
 - Indonesia
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/fansadianhusaini/posts/1960088497425554
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini

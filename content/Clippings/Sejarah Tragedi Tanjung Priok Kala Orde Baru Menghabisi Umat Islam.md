@@ -1,16 +1,13 @@
 ---
 title: Sejarah Tragedi Tanjung Priok - Kala Orde Baru Menghabisi Umat Islam
 date: '2020-01-17'
-draft: false
-series: []
-categories:
-- Sejarah
-- Indonesia
+author: Admin
 tags:
 - Sejarah
 - Indonesia
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 tirto.id - Tanggal 12 September 1984, tepat hari ini 35 tahun silam, adalah titi mangsa yang begitu kelabu bagi umat muslim. Di Tanjung Priok, Jakarta Utara, darah tumpah. Dari percik pemantik beberapa hari sebelumnya, polemik berpuncak pada tetesan darah pada 12 September 1984. Pecahlah kerusuhan yang melibatkan massa Islam dengan aparat pemerintah Orde Baru (Orba). Korban tewas nyaris seluruhnya meregang nyawa lantaran diterjang timah panas dari senapan tentara.

@@ -1,17 +1,14 @@
 ---
 title: Apa Prestasi Islam?
 date: '2019-12-16'
-draft: false
-series: []
-categories:
-- Jawab
-- Khasanah
+author: Dr. Adian Husaini
+source: https://www.facebook.com/fansadianhusaini/posts/2054840671283669
 tags:
 - Jawab
 - Khasanah
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/fansadianhusaini/posts/2054840671283669
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini

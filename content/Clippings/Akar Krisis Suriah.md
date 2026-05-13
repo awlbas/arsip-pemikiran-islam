@@ -1,17 +1,14 @@
 ---
 title: Akar Krisis Suriah
 date: '2019-12-18'
-draft: false
-series: []
-categories:
-- Politik Luar Negeri
-- Suriah
+author: Admin
+source: https://www.facebook.com/majalahalwaie/posts/437113667010999
 tags:
 - Politik Luar Negeri
 - Suriah
-authors: Admin
-sumber: https://www.facebook.com/majalahalwaie/posts/437113667010999
+draft: false
 ---
+
 **Penulis: Admin**
 
 Propaganda, ‘Jangan Jadikan Indonesia Seperti Suriah’, merupakan warning terhadap berbagai aksi terorisme yang terjadi di Indonesia. Walau butuh pendalaman, keterkaitan berbagai aksi tersebut dengan ISIS di Suriah merupakan hal yang ‘dimaklumi’. Pasalnya, aksi ISIS di Suriah—walau melabeli dirinya dengan Islam—jauh dari nilai-nilai keislaman. Inilah yang gencar dikemukakan oleh Polri, termasuk BIN, dalam menilai potensi ancaman terorisme di Indonesia. Bahkan Jokowi pun, ketika mewanti-wanti aparat desa dalam menangkal radikalisme dan terorisme, mengkaitkannya dengan apa yang terjadi di Suriah (Republika.com).

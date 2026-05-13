@@ -1,13 +1,12 @@
 ---
 title: Apa yang Membuat Anda Indonesia?
-source: https://www.youtube.com/watch?v=JGC6s5xtRiY
 author: Anhar Gonggong
-published: null
-created: null
-description: null
+source: https://www.youtube.com/watch?v=JGC6s5xtRiY
 tags:
 - tanpa-kategori
+draft: false
 ---
+
 ### BAGIAN 1: RINGKASAN EKSEKUTIF (SUMMARY)
 
 - **Krisis Demokrasi Berakar dari Warisan Ganda:** Kegagalan demokrasi Indonesia saat ini berakar dari penjajahan dua sistem yang berjalan beriringan: feodalisme lokal dan imperialisme Belanda, yang membentuk struktur sosial opresif dan korup sejak ratusan tahun lalu.

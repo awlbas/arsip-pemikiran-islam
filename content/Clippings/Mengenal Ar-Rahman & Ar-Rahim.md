@@ -1,14 +1,13 @@
 ---
 title: Mengenal Ar-Rahman & Ar-Rahim
 date: '2020-01-30'
-draft: false
-series: []
-categories: []
+author: Abdul Wahab Ahmad
+source: https://www.facebook.com/wahabjember/posts/10205262360554750
 tags:
 - tanpa-kategori
-authors: Abdul Wahab Ahmad
-sumber: https://www.facebook.com/wahabjember/posts/10205262360554750
+draft: false
 ---
+
 **Penulis: Abdul Wahab Ahmad**
 
 Oleh: Abdul Wahab Ahmad

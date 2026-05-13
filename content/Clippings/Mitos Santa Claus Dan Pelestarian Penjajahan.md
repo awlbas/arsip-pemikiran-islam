@@ -1,17 +1,14 @@
 ---
 title: Mitos Santa Claus Dan Pelestarian Penjajahan
 date: '2020-02-05'
-draft: false
-series: []
-categories:
-- Sejarah
-- Pemikiran
+author: Dr. Adian Husaini
+source: https://www.facebook.com/mustanironline/posts/1271238349682779
 tags:
 - Sejarah
 - Pemikiran
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/mustanironline/posts/1271238349682779
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini

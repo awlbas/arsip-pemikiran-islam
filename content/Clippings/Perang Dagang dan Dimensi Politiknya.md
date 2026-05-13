@@ -1,15 +1,13 @@
 ---
 title: Perang Dagang dan Dimensi Politiknya
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Ekonomi
+author: Admin
+source: https://www.facebook.com/ust.rokhmat.s.labib/posts/2178378435552677
 tags:
 - Ekonomi
-authors: Admin
-sumber: https://www.facebook.com/ust.rokhmat.s.labib/posts/2178378435552677
+draft: false
 ---
+
 **Penulis: Admin**
 
 Dr. Ibrahim at-Tamimi

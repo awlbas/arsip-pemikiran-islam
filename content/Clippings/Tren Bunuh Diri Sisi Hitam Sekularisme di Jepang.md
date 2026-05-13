@@ -1,15 +1,13 @@
 ---
 title: Tren Bunuh Diri - Sisi Hitam Sekularisme di Jepang
 date: '2020-02-17'
-draft: false
-series: []
-categories:
-- Sekularisme
+author: Admin
+source: https://www.facebook.com/MuslimahTimurJauh/posts/2383441241729579
 tags:
 - Sekularisme
-authors: Admin
-sumber: https://www.facebook.com/MuslimahTimurJauh/posts/2383441241729579
+draft: false
 ---
+
 **Penulis: Admin**
 
 Berita

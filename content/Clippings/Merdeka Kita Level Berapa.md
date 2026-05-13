@@ -1,14 +1,13 @@
 ---
 title: Merdeka Kita Level Berapa?
 date: '2024-02-20'
-draft: false
-series: []
-categories: []
+author: Admin
+source: https://www.facebook.com/famhar68/posts/pfbid08kARu4osrk2Q64isnnwjoCBD6ZiUNLhbgkSNiMbU7dibZWKNo1F49Ja3GE5ANoJyl
 tags:
 - tanpa-kategori
-authors: Admin
-sumber: https://www.facebook.com/famhar68/posts/pfbid08kARu4osrk2Q64isnnwjoCBD6ZiUNLhbgkSNiMbU7dibZWKNo1F49Ja3GE5ANoJyl
+draft: false
 ---
+
 **Penulis: Admin**
 
 _Prof. Dr. Fahmi Amhar_

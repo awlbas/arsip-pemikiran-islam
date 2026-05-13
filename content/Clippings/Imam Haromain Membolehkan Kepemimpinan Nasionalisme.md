@@ -1,15 +1,13 @@
 ---
 title: Imam Haromain Membolehkan Kepemimpinan Nasionalisme
 date: '2020-01-16'
-draft: false
-series: []
-categories:
-- Jawab
+author: www.abulwafaromli.com
+source: https://www.facebook.com/UstadzAbulwafaRomli/posts/1324806451024280
 tags:
 - Jawab
-authors: www.abulwafaromli.com
-sumber: https://www.facebook.com/UstadzAbulwafaRomli/posts/1324806451024280
+draft: false
 ---
+
 **Penulis: www.abulwafaromli.com**
 
 Oleh : www.abulwafaromli.com

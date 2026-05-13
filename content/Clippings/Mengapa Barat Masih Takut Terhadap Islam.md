@@ -1,17 +1,14 @@
 ---
 title: Mengapa Barat Masih Takut Terhadap Islam
 date: '2019-07-24'
-draft: false
-series: []
-categories:
-- Sejarah
-- Pemikiran
+author: Adian Husaini Ada sebuah tulisan menarik di Harian
+source: https://www.facebook.com/mustanironline/posts/1290115494461731
 tags:
 - Sejarah
 - Pemikiran
-authors: Adian Husaini Ada sebuah tulisan menarik di Harian
-sumber: https://www.facebook.com/mustanironline/posts/1290115494461731
+draft: false
 ---
+
 **Penulis: Adian Husaini Ada sebuah tulisan menarik di Harian**
 
 Oleh: Adian Husaini Ada sebuah tulisan menarik di Harian 

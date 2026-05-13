@@ -1,14 +1,12 @@
 ---
 title: Mewujudkan Indonesia Baldatun Thayyibatun wa Rabbun Ghafur
 date: '2019-02-27'
-draft: false
-series: []
-categories:
-- Solusi
+author: Admin
 tags:
 - Solusi
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Meski saat ini carut-marut, ada harapan negeri ini menjadi lebih baik.  Segenap kaum Muslim selalu berharap agar Indonesia bisa menjadi sebuah negeri yang penuh dengan kemakmuran dan berlimpah ampunan Allah ‘Azza wa Jalla (baldatun thayyibatun wa rabbun ghafur). 

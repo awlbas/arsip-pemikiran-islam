@@ -1,15 +1,13 @@
 ---
 title: Pengetahuan Hakiki Tentang Pengetahuan
 date: '2019-05-28'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: Admin
+source: https://www.instagram.com/p/BxaLjZuBv9H/
 tags:
 - Pemikiran
-authors: Admin
-sumber: https://www.instagram.com/p/BxaLjZuBv9H/
+draft: false
 ---
+
 **Penulis: Admin**
 
 © Doni Riw

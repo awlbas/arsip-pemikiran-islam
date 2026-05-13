@@ -1,15 +1,13 @@
 ---
 title: Manhaj Hadits Syaikh Tqiyyuddin Al-Nabhani
 date: '2019-12-27'
-draft: false
-series: []
-categories:
-- Biografi
+author: Yuana Ryan Tresna
+source: https://www.facebook.com/yuanaryantID/posts/123683735679853
 tags:
 - Biografi
-authors: Yuana Ryan Tresna
-sumber: https://www.facebook.com/yuanaryantID/posts/123683735679853
+draft: false
 ---
+
 **Penulis: Yuana Ryan Tresna**
 
 Oleh: Yuana Ryan Tresna

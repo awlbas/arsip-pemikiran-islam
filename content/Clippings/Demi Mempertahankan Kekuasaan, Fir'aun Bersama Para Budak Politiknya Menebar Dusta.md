@@ -2,14 +2,12 @@
 title: Demi Mempertahankan Kekuasaan, Fir'aun Bersama Para Budak Politiknya Menebar
   Dusta
 date: '2019-05-15'
-draft: false
-series: []
-categories:
-- 2014-2019
+author: Ahmad Sastra
 tags:
 - 2014-2019
-authors: Ahmad Sastra
+draft: false
 ---
+
 **Penulis: Ahmad Sastra**
 
 Oleh : Ahmad Sastra

@@ -1,15 +1,13 @@
 ---
 title: Al-Ghazali, Perang Salib, Dan Kebangkitan Islam
 date: '2020-01-15'
-draft: false
-series: []
-categories:
-- Biografi
+author: Dr. Adian Husaini
+source: https://www.facebook.com/mustanironline/posts/1587344944738783
 tags:
 - Biografi
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/mustanironline/posts/1587344944738783
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini

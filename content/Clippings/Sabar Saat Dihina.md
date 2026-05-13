@@ -1,15 +1,13 @@
 ---
 title: Sabar Saat Dihina
 date: '2019-07-01'
-draft: false
-series: []
-categories:
-- Fiqih
+author: karena itu jika yang dihina adalah Islam atau
+source: https://mtaufiknt.wordpress.com/2019/06/15/sabar-saat-dihina/
 tags:
 - Fiqih
-authors: karena itu jika yang dihina adalah Islam atau
-sumber: https://mtaufiknt.wordpress.com/2019/06/15/sabar-saat-dihina/
+draft: false
 ---
+
 **Penulis: karena itu jika yang dihina adalah Islam atau**
 
 وسمع الشعبى رَجُلاً وقعَ فيه، فما ترك شيئاً

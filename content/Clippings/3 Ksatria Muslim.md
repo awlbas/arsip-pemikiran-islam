@@ -1,19 +1,15 @@
 ---
 title: 3 Ksatria Muslim
 date: '2020-01-30'
-draft: false
-series: []
-categories:
-- Sejarah
-- Khasanah
-- Nafsiyah
+author: Admin
+source: https://www.facebook.com/rushside.ridho/posts/10215496736910725
 tags:
 - Sejarah
 - Khasanah
 - Nafsiyah
-authors: Admin
-sumber: https://www.facebook.com/rushside.ridho/posts/10215496736910725
+draft: false
 ---
+
 **Penulis: Admin**
 
 Jika hari ini kita mengetahui sejarah bahwa Hindustan, Andalusia, ataupun Asia Tengah pernah berdiri peradaban Islam maka salah satu yang berandil dalam futuhat negeri-negeri tersebut terjadi pada masa kepemimpinan Abdul Malik bin Marwan dan Walid bin Abdul Malik dari Bani Umayyah. Terlepas dari kesedihan dan kengerian pada masa itu yang terjadi pada para sahabat, tabi'in, dan dzuriyat Nabi di negeri Irak, Mekah, dan Madinah.

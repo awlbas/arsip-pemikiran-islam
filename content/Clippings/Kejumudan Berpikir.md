@@ -1,19 +1,15 @@
 ---
 title: Kejumudan Berpikir
 date: '2019-07-11'
-draft: false
-series: []
-categories:
-- Pemikiran
-- Sejarah
-- Khasanah
+author: Arief B. Iskandar
+source: https://www.facebook.com/penulisinspiratif/posts/2182385352078470
 tags:
 - Pemikiran
 - Sejarah
 - Khasanah
-authors: Arief B. Iskandar
-sumber: https://www.facebook.com/penulisinspiratif/posts/2182385352078470
+draft: false
 ---
+
 **Penulis: Arief B. Iskandar**
 
 Oleh: Arief B. Iskandar

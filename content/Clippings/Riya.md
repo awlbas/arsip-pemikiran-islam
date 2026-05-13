@@ -1,17 +1,14 @@
 ---
 title: Riya
 date: '2020-01-23'
-draft: false
-series: []
-categories:
-- Jawab
-- Nafsiyah
+author: Admin
+source: https://www.facebook.com/LisanZamroni/posts/2705166813043422
 tags:
 - Jawab
 - Nafsiyah
-authors: Admin
-sumber: https://www.facebook.com/LisanZamroni/posts/2705166813043422
+draft: false
 ---
+
 **Penulis: Admin**
 
 Beredar video, pengadangan/pelarangan seorang aparat terhadap pawai Muharram sambut tahun baru 1441 Hijriah, yang membawa panji tauhid.

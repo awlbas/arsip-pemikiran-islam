@@ -1,13 +1,11 @@
 ---
-title: 'Akidah yang Berpengaruh'
-source: "https://www.facebook.com/ramaneranu/posts/pfbid02KmpSbE1mtEzJ8p6LHHoDcLyLwJkA6gAzmYP8v5Qm9DpVXv8eVwuBDMz8suwMBJLxl"
-author:
-published:
-created: 2026-04-30
-description:
+title: Akidah yang Berpengaruh
+source: https://www.facebook.com/ramaneranu/posts/pfbid02KmpSbE1mtEzJ8p6LHHoDcLyLwJkA6gAzmYP8v5Qm9DpVXv8eVwuBDMz8suwMBJLxl
 tags:
-  - "clippings"
+- clippings
+draft: false
 ---
+
 Tatkala orang Islam yang tampak alim dan saleh sering mempersoalkan aliran akidah yang benar, kita mungkin bertanya-tanya, “apa pentingnya akidah bagi manusia?”
 
 Ya, akidah memang harus benar. Namun, apakah akidah hanyalah sesuatu yang ada untuk dipercayai dan jadi bahan perdebatan tanpa fungsi praktis?

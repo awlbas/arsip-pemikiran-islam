@@ -1,15 +1,13 @@
 ---
 title: Banjir? Apa Kabar Kaum Kapitalis Serakah?
 date: '2020-01-08'
-draft: false
-series: []
-categories:
-- Kapitalisme
+author: Admin
+source: https://www.iwanjanuar.com/banjir-apa-kabar-kaum-kapitalis-serakah/
 tags:
 - Kapitalisme
-authors: Admin
-sumber: https://www.iwanjanuar.com/banjir-apa-kabar-kaum-kapitalis-serakah/
+draft: false
 ---
+
 **Penulis: Admin**
 
 Kado tahun baru 2020 itu bernama banjir.  Guyuran air yang biasa menggenangi kawasan Jakarta saja, kini rata melanda Jabodetabek. Daerah yang kabarnya tak pernah terkena banjir kini ditenggelamkan juga. Tagar banjir pun segera menjadi salah satu trending topik di medsos, utamanya di twitterland.

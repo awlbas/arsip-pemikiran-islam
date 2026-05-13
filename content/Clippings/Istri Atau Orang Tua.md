@@ -1,15 +1,13 @@
 ---
 title: Istri Atau Orang Tua?
 date: '2024-02-20'
-draft: false
-series: []
-categories:
-- Rizki
+author: Admin
+source: https://www.facebook.com/permalink.php?story_fbid=pfbid02LLtw53SKLpvN6DHzUGNx4YS6sTU1D8pw7Ccg2KFe2Nw6zMHgG4iwZTRUd5Y9wtcHl&id=100068293605343
 tags:
 - Rizki
-authors: Admin
-sumber: https://www.facebook.com/permalink.php?story_fbid=pfbid02LLtw53SKLpvN6DHzUGNx4YS6sTU1D8pw7Ccg2KFe2Nw6zMHgG4iwZTRUd5Y9wtcHl&id=100068293605343
+draft: false
 ---
+
 **Penulis: Admin**
 
 Anak lelaki sekarang terlalu lama dinafkahi oleh orang tuanya. Disekolahin, dikuliahin, dibiayain nikahnya, dll, hingga orang tuanya tidak sempat lagi punya saving untuk hari tuanya.

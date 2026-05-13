@@ -1,15 +1,13 @@
 ---
 title: Saat Taat, Kita Diuji Tanda Cinta Sang Kekasih
 date: '2020-01-23'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: KH. Hafidz Abdurrahman
+source: https://www.facebook.com/hafidz.abdurrahman.984/posts/2111749015801515
 tags:
 - Nafsiyah
-authors: KH. Hafidz Abdurrahman
-sumber: https://www.facebook.com/hafidz.abdurrahman.984/posts/2111749015801515
+draft: false
 ---
+
 **Penulis: KH. Hafidz Abdurrahman**
 
 Oleh: KH. Hafidz Abdurrahman

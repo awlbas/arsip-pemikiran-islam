@@ -1,15 +1,13 @@
 ---
 title: Sikap TIdak Peduli
 date: '2019-12-27'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: Adian Husaini
+source: https://www.facebook.com/mustanironline/posts/1477742969032315
 tags:
 - Pemikiran
-authors: Adian Husaini
-sumber: https://www.facebook.com/mustanironline/posts/1477742969032315
+draft: false
 ---
+
 **Penulis: Adian Husaini**
 
 Oleh: Adian Husaini

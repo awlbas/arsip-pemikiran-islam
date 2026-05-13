@@ -1,15 +1,13 @@
 ---
 title: Main-Main Dengan Istilah Khilafah Dan Kafir (Bagian 1)
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Jawab
+author: Admin
+source: https://www.facebook.com/iwanjanuar/posts/10213682629285845
 tags:
 - Jawab
-authors: Admin
-sumber: https://www.facebook.com/iwanjanuar/posts/10213682629285845
+draft: false
 ---
+
 **Penulis: Admin**
 
 Yahya Cholil Staquf di sela-sela Musyawarah Nasional Alim Ulama dan 

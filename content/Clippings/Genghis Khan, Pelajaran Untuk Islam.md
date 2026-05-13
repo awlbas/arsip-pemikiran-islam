@@ -1,17 +1,14 @@
 ---
 title: Genghis Khan, Pelajaran Untuk Islam
 date: '2020-02-05'
-draft: false
-series: []
-categories:
-- Sejarah
-- Nafsiyah
+author: Ust. Fahmi Salim
+source: https://www.facebook.com/studiislamkaaffah/posts/1229259963916822
 tags:
 - Sejarah
 - Nafsiyah
-authors: Ust. Fahmi Salim
-sumber: https://www.facebook.com/studiislamkaaffah/posts/1229259963916822
+draft: false
 ---
+
 **Penulis: Ust. Fahmi Salim**
 
 Ketika umat Islam diserang tentara Tatar, hampir seluruh wilayah Islam berhasil dijajah. Di antara yang terawal adalah wilayah Khurasan yang bertetangga dengan Mongol.

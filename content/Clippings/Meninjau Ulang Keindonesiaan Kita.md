@@ -1,15 +1,13 @@
 ---
 title: Meninjau Ulang Keindonesiaan Kita
 date: '2017-12-13'
-draft: false
-series: []
-categories:
-- Jawab
+author: Titok Priastomo
+source: http://kampusislami.com/meninjau-ulang-keindonesiaan-kita/
 tags:
 - Jawab
-authors: Titok Priastomo
-sumber: http://kampusislami.com/meninjau-ulang-keindonesiaan-kita/
+draft: false
 ---
+
 **Penulis: Titok Priastomo**
 
 Oleh : Titok Priastomo

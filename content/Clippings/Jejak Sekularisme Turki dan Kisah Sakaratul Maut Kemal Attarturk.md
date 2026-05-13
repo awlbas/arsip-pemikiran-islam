@@ -1,15 +1,13 @@
 ---
 title: Jejak Sekularisme Turki dan Kisah Sakaratul Maut Kemal Attarturk
 date: '2019-07-04'
-draft: false
-series: []
-categories:
-- Sejarah
+author: Admin
+source: https://www.hidayatullah.com/kajian/sejarah/read/2013/03/19/1345/jejak-sekularisme-turki-dan-kisah-sakaratul-maut-kemal-attarturk.html
 tags:
 - Sejarah
-authors: Admin
-sumber: https://www.hidayatullah.com/kajian/sejarah/read/2013/03/19/1345/jejak-sekularisme-turki-dan-kisah-sakaratul-maut-kemal-attarturk.html
+draft: false
 ---
+
 **Penulis: Admin**
 
 ISLAM adalah agama rahmatan lil ‘alamin. Mengatur urusan individu, 

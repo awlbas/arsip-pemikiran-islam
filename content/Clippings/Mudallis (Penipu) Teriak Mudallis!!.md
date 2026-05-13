@@ -1,15 +1,13 @@
 ---
 title: Mudallis (Penipu) Teriak Mudallis!!
 date: '2023-06-22'
-draft: false
-series: []
-categories:
-- Dalil Khilafah
+author: Admin
+source: https://www.facebook.com/utsman.ismail/posts/pfbid02bCD5Q7EbTVYa3pD1WfxT6tXvRhKTj1rxEsKERTkxFaBmVHg2tkJwjciqvf8szV8gl
 tags:
 - Dalil Khilafah
-authors: Admin
-sumber: https://www.facebook.com/utsman.ismail/posts/pfbid02bCD5Q7EbTVYa3pD1WfxT6tXvRhKTj1rxEsKERTkxFaBmVHg2tkJwjciqvf8szV8gl
+draft: false
 ---
+
 **Penulis: Admin**
 
 Ketika para fuqaha menyatakan bahwa Nashbul Imam (Mengangkat seorang Khalifah) dan Iqamatul Khilafah (menegakkan Khilafah) adalah Fardhu Kifayah mereka tidak bicara di atas ruang hampa tanpa ada makna. Fardhu Kifayah adalah istilah yang telah diketahui manthuq maupun mafhumnya. 

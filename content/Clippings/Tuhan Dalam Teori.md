@@ -1,14 +1,12 @@
 ---
 title: Tuhan Dalam Teori
 date: '2019-02-27'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: Dr. Hamid Fahmy Zarkasyi
 tags:
 - Pemikiran
-authors: Dr. Hamid Fahmy Zarkasyi
+draft: false
 ---
+
 **Penulis: Dr. Hamid Fahmy Zarkasyi**
 
 Oleh: Dr. Hamid Fahmy Zarkasyi

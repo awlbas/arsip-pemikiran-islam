@@ -1,15 +1,13 @@
 ---
 title: Mencari Founding Fathers Sejati
 date: '2024-02-20'
-draft: false
-series: []
-categories:
-- Sejarah
+author: Admin
+source: https://www.facebook.com/permalink.php?story_fbid=pfbid0XGRcBwZ6FKyLf1Qcv1Q7bPiprdmXwvcqQQ2ZpT4uacNndCNbPDkcjer1rRZZxCSPl&id=100080668104452
 tags:
 - Sejarah
-authors: Admin
-sumber: https://www.facebook.com/permalink.php?story_fbid=pfbid0XGRcBwZ6FKyLf1Qcv1Q7bPiprdmXwvcqQQ2ZpT4uacNndCNbPDkcjer1rRZZxCSPl&id=100080668104452
+draft: false
 ---
+
 **Penulis: Admin**
 
 Sesungguhnya, umur suatu Republik yang baru menginjak 78 tahun belum ada apa-apanya dibandingkan entitas-entitas negara lain di wilayah ini yang pernah eksis sebelum Republik. Beberapa di antara mereka ada yang mampu bertahan bahkan hampir 400 tahun. Sebutlah salah satu contoh seperti Aceh Darussalam. Sebagaimana Republik, Kesultanan Aceh mempunyai founding fathers, yakni peletak dasar berdirinya entitas politik dan masyarakat Islam yang luar biasa di ujung Sumatra sana.

@@ -1,14 +1,12 @@
 ---
 title: Kafir
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Ibrah
+author: karena itu, penting untuk
 tags:
 - Ibrah
-authors: karena itu, penting untuk
+draft: false
 ---
+
 **Penulis: karena itu, penting untuk**
 
 [Ust. HM. Ismail Yusanto, MM]

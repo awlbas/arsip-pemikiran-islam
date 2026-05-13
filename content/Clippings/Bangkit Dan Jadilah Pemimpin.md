@@ -1,15 +1,13 @@
 ---
 title: Bangkit Dan Jadilah Pemimpin
 date: '2020-01-31'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: Dr. Adian Husaini
+source: https://www.facebook.com/mustanironline/posts/1283227695150511
 tags:
 - Nafsiyah
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/mustanironline/posts/1283227695150511
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini

@@ -1,17 +1,14 @@
 ---
 title: Reformasi Tempoe Doloe
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Khilafah
-- Sejarah
+author: Admin
+source: https://www.facebook.com/rushside.ridho/posts/10215992645428128
 tags:
 - Khilafah
 - Sejarah
-authors: Admin
-sumber: https://www.facebook.com/rushside.ridho/posts/10215992645428128
+draft: false
 ---
+
 **Penulis: Admin**
 
 Khalifah dalam konteks Fiqih dalam bahasa sederhana adalah pemimpin 

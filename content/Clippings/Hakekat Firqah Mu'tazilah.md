@@ -1,15 +1,13 @@
 ---
 title: Hakekat Firqah Mu'tazilah
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Akidah
+author: Allah, lalu dia mendapat petunjuk".
+source: https://www.facebook.com/UstadzAbulwafaRomli/posts/1186532824851644:0
 tags:
 - Akidah
-authors: Allah, lalu dia mendapat petunjuk".
-sumber: https://www.facebook.com/UstadzAbulwafaRomli/posts/1186532824851644:0
+draft: false
 ---
+
 **Penulis: Allah, lalu dia mendapat petunjuk".**
 
 Bismillaahir Rohmaanir Rohiim

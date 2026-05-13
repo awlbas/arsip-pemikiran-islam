@@ -1,15 +1,13 @@
 ---
 title: Menantang Ide Khilafah
 date: '2017-12-14'
-draft: false
-series: []
-categories:
-- Jawab
+author: Prof. Fahmi Amhar
+source: https://mediaumat.news/menantang-ide-khilafah/
 tags:
 - Jawab
-authors: Prof. Fahmi Amhar
-sumber: https://mediaumat.news/menantang-ide-khilafah/
+draft: false
 ---
+
 **Penulis: Prof. Fahmi Amhar**
 
 Oleh Prof. Fahmi Amhar

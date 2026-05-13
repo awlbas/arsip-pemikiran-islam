@@ -1,14 +1,12 @@
 ---
 title: Sombong
 date: '2019-02-27'
-draft: false
-series: []
-categories:
-- Ibrah
+author: Arief B. Iskandar
 tags:
 - Ibrah
-authors: Arief B. Iskandar
+draft: false
 ---
+
 **Penulis: Arief B. Iskandar**
 
 Oleh: Arief B. Iskandar

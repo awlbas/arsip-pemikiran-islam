@@ -1,17 +1,14 @@
 ---
 title: Melawan Distorsi Istilah Kafir
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Jawab
-- Pemikiran
+author: Admin
+source: https://www.facebook.com/yans.prasetiadi/posts/1709433582599243
 tags:
 - Jawab
 - Pemikiran
-authors: Admin
-sumber: https://www.facebook.com/yans.prasetiadi/posts/1709433582599243
+draft: false
 ---
+
 **Penulis: Admin**
 
 Hingga hari ini perdebatan mengenai istilah ‘kafir’ yang ingin 

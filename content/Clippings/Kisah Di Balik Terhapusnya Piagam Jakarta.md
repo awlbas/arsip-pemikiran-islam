@@ -1,17 +1,14 @@
 ---
 title: Kisah Di Balik Terhapusnya Piagam Jakarta
 date: '2019-07-02'
-draft: false
-series: []
-categories:
-- Sejarah
-- Indonesia
+author: Artawijaya – salam-online.com
+source: https://www.facebook.com/OpiniBerita/posts/649753028795810
 tags:
 - Sejarah
 - Indonesia
-authors: Artawijaya – salam-online.com
-sumber: https://www.facebook.com/OpiniBerita/posts/649753028795810
+draft: false
 ---
+
 **Penulis: Artawijaya – salam-online.com**
 
 Ada khianat dan dusta, di balik terhapusnya kalimat, “dengan kewajiban 

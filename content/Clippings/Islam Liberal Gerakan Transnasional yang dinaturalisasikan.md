@@ -1,17 +1,14 @@
 ---
 title: Islam Liberal - Gerakan Transnasional yang dinaturalisasikan
 date: '2019-12-27'
-draft: false
-series: []
-categories:
-- Sejarah
-- Pemikiran
+author: Admin
+source: https://insists.id/islamliberal-gerakan-transnasional/?fbclid=IwAR30asF34xtC-I1fFT6DDVfEzEWKbgVem--a0oyHsn9xTKb5cEYXOxfi0G4
 tags:
 - Sejarah
 - Pemikiran
-authors: Admin
-sumber: https://insists.id/islamliberal-gerakan-transnasional/?fbclid=IwAR30asF34xtC-I1fFT6DDVfEzEWKbgVem--a0oyHsn9xTKb5cEYXOxfi0G4
+draft: false
 ---
+
 **Penulis: Admin**
 
 Mohammad Syam’un Salim – Staff Media & Penerbitan INSISTS

@@ -1,14 +1,12 @@
 ---
 title: Baby
 date: '2023-06-06'
-draft: false
-series: []
-categories:
-- Akidah
+author: Admin
 tags:
 - Akidah
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 In a mother’s womb were two babies. One asked the other:

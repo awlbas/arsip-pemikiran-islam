@@ -1,19 +1,15 @@
 ---
 title: Bukan Sepenuhnya Salah VOC
 date: '2019-12-27'
-draft: false
-series: []
-categories:
-- Sejarah
-- Kapitalisme
-- Indonesia
+author: Admin
+source: https://www.facebook.com/rushside.ridho/posts/10217463561680115
 tags:
 - Sejarah
 - Kapitalisme
 - Indonesia
-authors: Admin
-sumber: https://www.facebook.com/rushside.ridho/posts/10217463561680115
+draft: false
 ---
+
 **Penulis: Admin**
 
 Membaca penjajahan dari sisi lain

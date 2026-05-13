@@ -1,14 +1,12 @@
 ---
 title: Mengapa Mereka Enggan Mendekati Pintu Penguasa?
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Tarikh
+author: Admin
 tags:
 - Tarikh
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Mereka sangat hati-hati. Selalu takut murka Allah Ta’ala. Mereka 

@@ -1,9 +1,11 @@
 ---
-draft: No
+title: ''
 date: '2025-11-12'
-last edited time: 27 Desember 2025 06.22
-tags: My Note
+tags:
+- My Note
+draft: false
 ---
+
 - Slide 1 - Key point
 	Menjelaskan key point 1. sebenernya kita ini siapa? 2. apa potensi terbesar dalam diri kita? 3. kenapa kita memulai proses ini?
 - Slide 2 - Why question

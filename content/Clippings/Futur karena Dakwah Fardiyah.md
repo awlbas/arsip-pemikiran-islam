@@ -1,13 +1,12 @@
 ---
 title: Futur karena Dakwah Fardiyah
 date: '2023-06-26'
-draft: false
-series: []
-categories: []
+author: Ustaz Iwan Januar
 tags:
 - tanpa-kategori
-authors: Ustaz Iwan Januar
+draft: false
 ---
+
 **Penulis: Ustaz Iwan Januar**
 
 Penulis: Ustaz Iwan Januar

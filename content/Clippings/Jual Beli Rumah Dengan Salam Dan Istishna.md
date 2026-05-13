@@ -1,14 +1,12 @@
 ---
 title: Jual Beli Rumah Dengan Salam Dan Istishna
 date: '2019-10-15'
-draft: false
-series: []
-categories:
-- Fiqih
+author: Admin
 tags:
 - Fiqih
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Saya menelaah pertanyaan ustadz Yahya Abdurrahman dan saya merasa heran. Sebab saya telah menjawab pertanyaannya dan dua pertanyaan dari yang lain, saya gabungkan dalam satu jawaban dan disebarkan di laman saya. Telah sampai kepada saya tiga pertanyaan yang saya lihat mirip:

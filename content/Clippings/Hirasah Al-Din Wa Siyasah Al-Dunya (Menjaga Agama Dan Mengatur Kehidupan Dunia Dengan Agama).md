@@ -2,17 +2,14 @@
 title: Hirasah Al-Din Wa Siyasah Al-Dunya (Menjaga Agama Dan Mengatur Kehidupan Dunia
   Dengan Agama)
 date: '2019-07-01'
-draft: false
-series: []
-categories:
-- Jawab
-- Dalil Khilafah
+author: Utsman Zahid as-Sidany
+source: https://www.facebook.com/utsman.ismail/posts/10205796605351366
 tags:
 - Jawab
 - Dalil Khilafah
-authors: Utsman Zahid as-Sidany
-sumber: https://www.facebook.com/utsman.ismail/posts/10205796605351366
+draft: false
 ---
+
 **Penulis: Utsman Zahid as-Sidany**
 
 Oleh: Utsman Zahid as-Sidany

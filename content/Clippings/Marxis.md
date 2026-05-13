@@ -1,17 +1,14 @@
 ---
 title: Marxis
 date: '2019-07-04'
-draft: false
-series: []
-categories:
-- Pemikiran
-- Komunisme
+author: Admin
+source: https://www.facebook.com/rushside.ridho/posts/10215901482069101
 tags:
 - Pemikiran
 - Komunisme
-authors: Admin
-sumber: https://www.facebook.com/rushside.ridho/posts/10215901482069101
+draft: false
 ---
+
 **Penulis: Admin**
 
 Anak-anak umur sekitar 6 tahun pernah dipekerjakan pada awal era 

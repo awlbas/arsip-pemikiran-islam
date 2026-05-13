@@ -1,17 +1,14 @@
 ---
 title: Perempuan, Price, Value dan Islam
 date: '2019-07-08'
-draft: false
-series: []
-categories:
-- Pemikiran
-- Kapitalisme
+author: Admin
+source: https://www.iwanjanuar.com/perempuan-price-value-dan-islam/*
 tags:
 - Pemikiran
 - Kapitalisme
-authors: Admin
-sumber: https://www.iwanjanuar.com/perempuan-price-value-dan-islam/*
+draft: false
 ---
+
 **Penulis: Admin**
 
 *Segala sesuatu ada harganya! *

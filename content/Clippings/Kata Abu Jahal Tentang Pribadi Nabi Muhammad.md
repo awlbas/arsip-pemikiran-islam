@@ -1,13 +1,12 @@
 ---
 title: Kata Abu Jahal Tentang Pribadi Nabi Muhammad
 date: '2023-07-06'
-draft: false
-series: []
-categories: []
+author: Admin
 tags:
 - tanpa-kategori
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Al-Masur bin Mukhramah, keponakan Abu Jahal, anak dari saudari perempuannya, bertanya kepada Abu Jahal tentang pribadi Muhammad bin Abdullah –shallallahu ‘alaihi wa sallam-, “Wahai pamanku, apakah kalian menuduh Muhammad itu berdusta sebelum ia mengatakan apa yang dia katakan sekarang ini -yakni risalah kenabian-?”

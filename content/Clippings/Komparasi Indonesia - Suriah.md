@@ -1,15 +1,13 @@
 ---
 title: Komparasi Indonesia - Suriah
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Jawab
+author: Admin
+source: https://www.facebook.com/famhar68/posts/10215937784609903
 tags:
 - Jawab
-authors: Admin
-sumber: https://www.facebook.com/famhar68/posts/10215937784609903
+draft: false
 ---
+
 **Penulis: Admin**
 
 Prof. Dr. Fahmi Amhar

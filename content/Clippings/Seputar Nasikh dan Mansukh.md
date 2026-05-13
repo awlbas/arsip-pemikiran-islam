@@ -1,21 +1,16 @@
 ---
 title: Seputar Nasikh dan Mansukh
 date: '2019-12-18'
-draft: false
-series: []
-categories:
-- Jawab
-- Dakwah
-- Ushul Fiqih
-- Dalil Khilafah
+author: Admin
+source: https://www.facebook.com/majalahalwaie/posts/428552184533814
 tags:
 - Jawab
 - Dakwah
 - Ushul Fiqih
 - Dalil Khilafah
-authors: Admin
-sumber: https://www.facebook.com/majalahalwaie/posts/428552184533814
+draft: false
 ---
+
 **Penulis: Admin**
 
 Soal:

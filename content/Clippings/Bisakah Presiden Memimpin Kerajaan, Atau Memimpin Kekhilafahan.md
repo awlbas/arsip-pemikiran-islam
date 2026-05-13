@@ -1,17 +1,14 @@
 ---
 title: Bisakah Presiden Memimpin Kerajaan, Atau Memimpin Kekhilafahan?
 date: '2020-01-23'
-draft: false
-series: []
-categories:
-- Jawab
-- Dalil Khilafah
+author: Wahyudi al Maroky
+source: https://www.facebook.com/roky.almaroky/posts/110632600298782
 tags:
 - Jawab
 - Dalil Khilafah
-authors: Wahyudi al Maroky
-sumber: https://www.facebook.com/roky.almaroky/posts/110632600298782
+draft: false
 ---
+
 **Penulis: Wahyudi al Maroky**
 
 Oleh Wahyudi al Maroky

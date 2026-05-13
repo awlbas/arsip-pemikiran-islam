@@ -1,15 +1,13 @@
 ---
 title: Nurani Homo
 date: '2019-10-21'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: Dr. Hamid Fahmy Zarkasyi - Direktur INSISTS
+source: https://www.facebook.com/mustanironline/posts/1502707029869242
 tags:
 - Pemikiran
-authors: Dr. Hamid Fahmy Zarkasyi - Direktur INSISTS
-sumber: https://www.facebook.com/mustanironline/posts/1502707029869242
+draft: false
 ---
+
 **Penulis: Dr. Hamid Fahmy Zarkasyi - Direktur INSISTS**
 
 Oleh: Dr. Hamid Fahmy Zarkasyi - Direktur INSISTS

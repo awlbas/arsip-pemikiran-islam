@@ -1,14 +1,13 @@
 ---
 title: Apakah Nabi shalllalahu alaihi wasallam pernah salah?
 date: '2023-06-22'
-draft: false
-series: []
-categories: []
+author: Admin
+source: https://www.facebook.com/photo/?fbid=3894272397260161
 tags:
 - tanpa-kategori
-authors: Admin
-sumber: https://www.facebook.com/photo/?fbid=3894272397260161
+draft: false
 ---
+
 **Penulis: Admin**
 
 Pertanyaan ini tidak bisa dijawab dengan singkat "pernah/tidak pernah". 

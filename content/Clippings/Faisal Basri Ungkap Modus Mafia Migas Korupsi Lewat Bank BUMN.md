@@ -1,15 +1,13 @@
 ---
 title: Faisal Basri Ungkap Modus Mafia Migas Korupsi Lewat Bank BUMN
 date: '2019-12-18'
-draft: false
-series: []
-categories:
-- Kapitalisme
+author: Admin
+source: https://kumparan.com/kumparanbisnis/faisal-basri-ungkap-modus-mafia-migas-korupsi-lewat-bank-bumn-1rxt9CD1zQb
 tags:
 - Kapitalisme
-authors: Admin
-sumber: https://kumparan.com/kumparanbisnis/faisal-basri-ungkap-modus-mafia-migas-korupsi-lewat-bank-bumn-1rxt9CD1zQb
+draft: false
 ---
+
 **Penulis: Admin**
 
 Ekonom Senior Indef Faisal Basri mengungkapkan sejumlah modus korupsi. Salah satunya yang dilakukan seorang mafia migas melalui bank BUMN.

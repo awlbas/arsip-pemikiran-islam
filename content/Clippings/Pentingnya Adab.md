@@ -1,14 +1,12 @@
 ---
 title: Pentingnya Adab
 date: '2019-02-27'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: Arief B. Iskandar
 tags:
 - Nafsiyah
-authors: Arief B. Iskandar
+draft: false
 ---
+
 **Penulis: Arief B. Iskandar**
 
 Oleh: Arief B. Iskandar

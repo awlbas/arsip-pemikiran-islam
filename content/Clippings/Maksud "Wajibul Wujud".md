@@ -1,13 +1,11 @@
 ---
-title: null
-draft: false
-series: []
-categories: null
+title: ''
+source: https://www.facebook.com/azizi.fathoni.5/posts/pfbid037GQruFBzFWcxcK4hYYfrrDbMstuMBKLT1v8jXK3A7E5EgvfQPfyaByH1zUeqPYu6l
 tags:
 - tanpa-kategori
-authors: null
-sumber: https://www.facebook.com/azizi.fathoni.5/posts/pfbid037GQruFBzFWcxcK4hYYfrrDbMstuMBKLT1v8jXK3A7E5EgvfQPfyaByH1zUeqPYu6l
+draft: false
 ---
+
 Asy Syaikh Al Mujahid Taqiyuddin An Nabhani rahimahuLLaah menyatakan dalam kitabnya, Nizhamul Islam:
 
 وحين ننظر إلى المحدود نجده ليسَ أَزَلِياً وإلا لما كان محدوداً فلا بدَّ مِنْ أن يكون المحدود مخلوقاً لغيره، وهذا الغير هو خالق الإنسان والحياة والكون، وهو إِمَّا أَنْ يكون مخلوقاً لغيره، أو خالقاً لنفسه، أو أزلياً واجب الوجود. أما أنَّه مخلوق لغيره فباطل، لأنَّهُ يكون محدوداً، وأما أنَّه خالق لنفسه فباطل أيضاً، لأنه يكون مخلوقاً لنفسه وخالقاً لنفسه في آن واحد، وهذا باطل أيضاً، فلا بُدَّ أنْ يكونَ الخالق أزلياً واجب الوجود وهو الله تعالى.

@@ -1,14 +1,12 @@
 ---
 title: Al-Hajjaj Bin Yusuf
 date: '2019-05-23'
-draft: false
-series: []
-categories:
-- Tarikh
+author: Ust Salim A Fillah
 tags:
 - Tarikh
-authors: Ust Salim A Fillah
+draft: false
 ---
+
 **Penulis: Ust Salim A Fillah**
 
 Oleh: Ust Salim A Fillah

@@ -1,17 +1,14 @@
 ---
 title: Aktor Pemicu Perang Diponegoro
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Sejarah
-- Indonesia
+author: Admin
+source: https://www.facebook.com/famhar68/posts/10215680176129852
 tags:
 - Sejarah
 - Indonesia
-authors: Admin
-sumber: https://www.facebook.com/famhar68/posts/10215680176129852
+draft: false
 ---
+
 **Penulis: Admin**
 
 •Diponegoro menggampar Danurejo IV dengan selop karena patih 

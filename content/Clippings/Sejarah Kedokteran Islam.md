@@ -1,21 +1,16 @@
 ---
 title: Sejarah Kedokteran Islam
 date: '2020-01-28'
-draft: false
-series: []
-categories:
-- Khilafah
-- Sejarah
-- Solusi
-- Khasanah
+author: dr. Putri Firdayanti (Anggota HELP-S)
+source: https://www.facebook.com/studiislamkaaffah/posts/1405115556331261
 tags:
 - Khilafah
 - Sejarah
 - Solusi
 - Khasanah
-authors: dr. Putri Firdayanti (Anggota HELP-S)
-sumber: https://www.facebook.com/studiislamkaaffah/posts/1405115556331261
+draft: false
 ---
+
 **Penulis: dr. Putri Firdayanti (Anggota HELP-S)**
 
 Islam adalah peradaban emas yang lahir sejak turunnya ajaran Islam yang dibawa oleh Nabi Muhammad SAW. Pondasi peradabannya adalah penyembahan hanya kepada Allah SWT. Sementara dalam pengaturan kehidupan, peradaban Islam berpedoman kepada Syari’at Islam yang diberlakukan dalam sistem Khilafah. Aqidah, Syari’at dan Khilafah inilah yang melahirkan peradaban dan generasi emas.

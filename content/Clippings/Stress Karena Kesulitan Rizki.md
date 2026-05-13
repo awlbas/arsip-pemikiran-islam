@@ -1,14 +1,12 @@
 ---
 title: Stress Karena Kesulitan Rizki
 date: '2021-02-17'
-draft: false
-series: []
-categories:
-- Rizki
+author: Admin
 tags:
 - Rizki
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 KH. Hafidz Abdurrahman

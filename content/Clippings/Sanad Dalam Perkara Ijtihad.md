@@ -1,15 +1,13 @@
 ---
 title: Sanad Dalam Perkara Ijtihad
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Ibrah
+author: Admin
+source: https://www.facebook.com/famhar68/posts/10211318392967999
 tags:
 - Ibrah
-authors: Admin
-sumber: https://www.facebook.com/famhar68/posts/10211318392967999
+draft: false
 ---
+
 **Penulis: Admin**
 
 (c) Fahmi Amhar

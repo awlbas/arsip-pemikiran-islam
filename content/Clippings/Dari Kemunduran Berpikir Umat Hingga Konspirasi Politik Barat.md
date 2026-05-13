@@ -1,17 +1,14 @@
 ---
 title: Dari Kemunduran Berpikir Umat Hingga Konspirasi Politik Barat
 date: '2020-03-16'
-draft: false
-series: []
-categories:
-- Khilafah
-- Sejarah
+author: Arief B. Iskandar
+source: https://mediaumat.news/di-balik-keruntuhan-khilafah-3-maret-1924/
 tags:
 - Khilafah
 - Sejarah
-authors: Arief B. Iskandar
-sumber: https://mediaumat.news/di-balik-keruntuhan-khilafah-3-maret-1924/
+draft: false
 ---
+
 **Penulis: Arief B. Iskandar**
 
 Oleh: Arief B. Iskandar

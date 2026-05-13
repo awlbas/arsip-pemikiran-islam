@@ -1,17 +1,14 @@
 ---
 title: Digging Up The Past
 date: '2019-12-06'
-draft: false
-series: []
-categories:
-- Sejarah
-- Indonesia
+author: Ustadz M. Ismail Yusanto
+source: https://www.facebook.com/bdwi.54/posts/10215655103798134
 tags:
 - Sejarah
 - Indonesia
-authors: Ustadz M. Ismail Yusanto
-sumber: https://www.facebook.com/bdwi.54/posts/10215655103798134
+draft: false
 ---
+
 **Penulis: Ustadz M. Ismail Yusanto**
 
 (Inspirasi untuk Hari Santri Nasional)

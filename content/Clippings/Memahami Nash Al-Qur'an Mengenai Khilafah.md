@@ -1,16 +1,13 @@
 ---
 title: Memahami Nash Al-Qur'an Mengenai Khilafah
 date: '2019-07-02'
-draft: false
-series: []
-categories:
-- Jawab
-- Dalil Khilafah
+author: Ust Ahmad Abdurrahman Al-Khaddami
 tags:
 - Jawab
 - Dalil Khilafah
-authors: Ust Ahmad Abdurrahman Al-Khaddami
+draft: false
 ---
+
 **Penulis: Ust Ahmad Abdurrahman Al-Khaddami**
 
 (Tanggapan terhadap Nadirsyah Hosen dan yang Semisalnya)

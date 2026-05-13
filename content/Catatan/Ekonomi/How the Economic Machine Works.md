@@ -1,9 +1,11 @@
 ---
-draft: No
+title: ''
 date: '2025-11-12'
-last edited time: 27 Desember 2025 06.22
-tags: My Note
+tags:
+- My Note
+draft: false
 ---
+
 ### How the Economic Machine Works: “A Transactions-Based Approach”
 
 - **Ekonomi** sederhananya terbentuk dari kumpulan banyaknya transaksi-transaksi yang terjadi.

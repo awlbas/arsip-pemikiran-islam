@@ -1,15 +1,13 @@
 ---
 title: Mencari Tafsir Versi Indonesia
 date: '2020-01-22'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: Dr. Adian Husaini
+source: https://www.facebook.com/fansadianhusaini/posts/1990060611095009
 tags:
 - Pemikiran
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/fansadianhusaini/posts/1990060611095009
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini

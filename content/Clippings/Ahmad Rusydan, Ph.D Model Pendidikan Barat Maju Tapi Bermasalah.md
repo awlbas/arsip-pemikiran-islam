@@ -1,13 +1,12 @@
 ---
 title: Ahmad Rusydan, Ph.D - Model Pendidikan Barat Maju Tapi Bermasalah
 date: '2023-07-06'
-draft: false
-series: []
-categories: []
+author: Admin
 tags:
 - tanpa-kategori
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Pengantar Redaksi:

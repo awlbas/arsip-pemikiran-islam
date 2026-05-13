@@ -1,15 +1,13 @@
 ---
 title: Legenda-legenda Barat
 date: '2019-07-04'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: Adian Husaini
+source: https://www.facebook.com/mustanironline/posts/1299423956864218
 tags:
 - Pemikiran
-authors: Adian Husaini
-sumber: https://www.facebook.com/mustanironline/posts/1299423956864218
+draft: false
 ---
+
 **Penulis: Adian Husaini**
 
 Oleh: Adian Husaini

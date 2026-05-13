@@ -1,19 +1,15 @@
 ---
 title: Menyoal Asumsi Dr. Nadirsyah Hosen tentang status
 date: '2019-06-17'
-draft: false
-series: []
-categories:
-- Jawab
-- Sejarah
-- Khalifah
+author: Admin
+source: https://www.facebook.com/harif.supriady/posts/2866546790028230
 tags:
 - Jawab
 - Sejarah
 - Khalifah
-authors: Admin
-sumber: https://www.facebook.com/harif.supriady/posts/2866546790028230
+draft: false
 ---
+
 **Penulis: Admin**
 
 Cuitan2 #gegabah

@@ -1,15 +1,13 @@
 ---
 title: Kejadian-kejadian di zaman Dark Ages
 date: '2019-07-04'
-draft: false
-series: []
-categories:
-- Sejarah
+author: Admin
+source: https://www.facebook.com/rushside.ridho/posts/10212975601083905
 tags:
 - Sejarah
-authors: Admin
-sumber: https://www.facebook.com/rushside.ridho/posts/10212975601083905
+draft: false
 ---
+
 **Penulis: Admin**
 
 1. Dibunuhnya Copernicus karena menyebut bahwa matahari adalah pusat

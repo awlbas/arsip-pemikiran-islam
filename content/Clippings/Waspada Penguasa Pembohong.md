@@ -1,15 +1,13 @@
 ---
 title: Waspada Penguasa Pembohong
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Ibrah
+author: Admin
+source: https://www.facebook.com/yans.prasetiadi/posts/1696211673921434
 tags:
 - Ibrah
-authors: Admin
-sumber: https://www.facebook.com/yans.prasetiadi/posts/1696211673921434
+draft: false
 ---
+
 **Penulis: Admin**
 
 إِنَّهُ سَتَكُونُ بَعْدِي أُمَرَاءُ مَنْ صَدَّقَهُمْ بِكَذِبِهِمْ وَ

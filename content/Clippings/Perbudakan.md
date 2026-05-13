@@ -1,17 +1,14 @@
 ---
 title: Perbudakan
 date: '2020-01-22'
-draft: false
-series: []
-categories:
-- Fiqih
-- Solusi
+author: Admin
+source: https://www.facebook.com/yuanaryantID/posts/106024127445814
 tags:
 - Fiqih
 - Solusi
-authors: Admin
-sumber: https://www.facebook.com/yuanaryantID/posts/106024127445814
+draft: false
 ---
+
 **Penulis: Admin**
 
 Pada kajian hadits ahkam Bulughul Maram kitab al-Buyu' beberapa bulan lalu (22/10) masuk pembahasan budak (hadits ke-10 di Kitab al-Buyu')

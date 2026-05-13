@@ -1,15 +1,13 @@
 ---
 title: Hari Raya
 date: '2019-07-02'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: Arief B. Iskandar
+source: https://www.facebook.com/penulisinspiratif/posts/2278591182457886
 tags:
 - Nafsiyah
-authors: Arief B. Iskandar
-sumber: https://www.facebook.com/penulisinspiratif/posts/2278591182457886
+draft: false
 ---
+
 **Penulis: Arief B. Iskandar**
 
 Oleh: Arief B. Iskandar

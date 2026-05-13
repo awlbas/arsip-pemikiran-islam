@@ -1,14 +1,13 @@
 ---
 title: Kata al-Walid bin al-Mughirah Tentang Alquran
 date: '2023-07-06'
-draft: false
-series: []
-categories: []
+author: Admin
+source: https://kisahmuslim.com/5824-kata-al-walid-bin-al-mughirah-tentang-alquran.html?fbclid=IwAR1X_Btk5z7IAz8eDXpEUD-cRqr98m4MccG4AxINmOOKZOMbM5G7jbL9FoU
 tags:
 - tanpa-kategori
-authors: Admin
-sumber: https://kisahmuslim.com/5824-kata-al-walid-bin-al-mughirah-tentang-alquran.html?fbclid=IwAR1X_Btk5z7IAz8eDXpEUD-cRqr98m4MccG4AxINmOOKZOMbM5G7jbL9FoU
+draft: false
 ---
+
 **Penulis: Admin**
 
 Al-Walid bin al-Mughirah adalah tokoh kafir Quraisy. Ia seorang yang terpandang lagi memiliki kekayaan. Dan memiliki putra yang terpandang pula, yaitu Khalid bin al-Walid radhiallahu ‘anhu. Putranya adalah tokoh sebelum ia memeluk Islam. Dan menjadi tokoh pula setelah memeluk Islam. Sedangkan al-Walid tetap dalam kekufurannya. Dan menjadi musuh utama dakwah Islam.

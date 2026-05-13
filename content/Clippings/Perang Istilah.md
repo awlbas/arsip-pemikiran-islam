@@ -1,15 +1,13 @@
 ---
 title: Perang Istilah
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: H. Dwi Condro Triono, Ph.D
+source: https://www.facebook.com/ahnafqais.attamimi/posts/1184167695080578
 tags:
 - Pemikiran
-authors: H. Dwi Condro Triono, Ph.D
-sumber: https://www.facebook.com/ahnafqais.attamimi/posts/1184167695080578
+draft: false
 ---
+
 **Penulis: H. Dwi Condro Triono, Ph.D**
 
 Oleh: H. Dwi Condro Triono, Ph.D

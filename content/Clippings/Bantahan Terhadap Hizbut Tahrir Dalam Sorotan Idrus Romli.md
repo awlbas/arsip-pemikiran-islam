@@ -1,17 +1,14 @@
 ---
 title: Bantahan Terhadap - "Hizbut Tahrir Dalam Sorotan" Idrus Romli
 date: '2019-07-02'
-draft: false
-series: []
-categories:
-- Jawab
-- Hizbut Tahrir
+author: KH Hafidz Abdurrahman, MA.
+source: https://www.facebook.com/penulisinspiratif/posts/2240794296237575
 tags:
 - Jawab
 - Hizbut Tahrir
-authors: KH Hafidz Abdurrahman, MA.
-sumber: https://www.facebook.com/penulisinspiratif/posts/2240794296237575
+draft: false
 ---
+
 **Penulis: KH Hafidz Abdurrahman, MA.**
 
 Oleh: KH Hafidz Abdurrahman, MA.

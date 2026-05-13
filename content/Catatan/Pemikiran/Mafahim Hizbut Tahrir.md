@@ -1,9 +1,11 @@
 ---
-draft: No
+title: ''
 date: '2025-11-12'
-last edited time: 27 Desember 2025 06.22
-tags: My Note
+tags:
+- My Note
+draft: false
 ---
+
 ### Fakta kemunduran
 
 Jumud, tidak ada inovasi dalam sains atau teknologi, Usaha-usaha pembaruan seperti percetakan (printing press) sempat dilarang oleh ulama karena dianggap mengancam otoritas tradisional.

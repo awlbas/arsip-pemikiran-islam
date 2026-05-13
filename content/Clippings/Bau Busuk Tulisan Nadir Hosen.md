@@ -1,21 +1,16 @@
 ---
 title: Bau Busuk Tulisan Nadir Hosen
 date: '2019-06-18'
-draft: false
-series: []
-categories:
-- Khilafah
-- Jawab
-- Sejarah
-- Khalifah
+author: ormas tertentu. Apa motifnya kalau bukan dengki?
+source: https://www.facebook.com/utsman.ismail/posts/10205757173805602
 tags:
 - Khilafah
 - Jawab
 - Sejarah
 - Khalifah
-authors: ormas tertentu. Apa motifnya kalau bukan dengki?
-sumber: https://www.facebook.com/utsman.ismail/posts/10205757173805602
+draft: false
 ---
+
 **Penulis: ormas tertentu. Apa motifnya kalau bukan dengki?**
 
 Khilafah yg diajarkan dan didakwahkan oleh Hizbut Tahrir, dan 

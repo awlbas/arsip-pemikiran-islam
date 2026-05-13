@@ -1,15 +1,13 @@
 ---
 title: Kepastian Kekalahan Orang-orang Kafir dan Penentang Dakwah
 date: '2019-12-10'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: Admin
+source: https://www.facebook.com/yuanartid/posts/2987825644566794
 tags:
 - Nafsiyah
-authors: Admin
-sumber: https://www.facebook.com/yuanartid/posts/2987825644566794
+draft: false
 ---
+
 **Penulis: Admin**
 
 Para penentang dakwah pada setiap zaman akan senantiasa ada. Allah Swt berfirman,

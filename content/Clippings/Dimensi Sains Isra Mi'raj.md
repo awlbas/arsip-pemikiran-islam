@@ -1,15 +1,13 @@
 ---
 title: Dimensi Sains Isra Mi'raj
 date: '2019-07-02'
-draft: false
-series: []
-categories:
-- Khasanah
+author: karena itu, dalam memperingati
+source: https://www.facebook.com/famhar68/posts/10215949922193335
 tags:
 - Khasanah
-authors: karena itu, dalam memperingati
-sumber: https://www.facebook.com/famhar68/posts/10215949922193335
+draft: false
 ---
+
 **Penulis: karena itu, dalam memperingati**
 
 Prof. Dr. Fahmi Amhar

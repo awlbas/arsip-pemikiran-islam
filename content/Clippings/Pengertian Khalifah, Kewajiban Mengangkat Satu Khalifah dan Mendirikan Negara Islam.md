@@ -2,17 +2,14 @@
 title: Pengertian Khalifah, Kewajiban Mengangkat Satu Khalifah dan Mendirikan Negara
   Islam
 date: '2017-12-12'
-draft: false
-series: []
-categories:
-- Khilafah
-- Khalifah
+author: Admin
+source: https://web.facebook.com/azizi.fathoni.kurniantoro/posts/1627471037310930
 tags:
 - Khilafah
 - Khalifah
-authors: Admin
-sumber: https://web.facebook.com/azizi.fathoni.kurniantoro/posts/1627471037310930
+draft: false
 ---
+
 **Penulis: Admin**
 
 DALAM PENJELASAN AL-AZHAR UNTUK KAUM MUSLIMIN OLEH TIM ULAMA 

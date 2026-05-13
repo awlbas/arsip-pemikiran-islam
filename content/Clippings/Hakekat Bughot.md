@@ -1,15 +1,13 @@
 ---
 title: Hakekat Bughot
 date: '2019-07-22'
-draft: false
-series: []
-categories:
-- Fiqih
+author: Ustadz Abulwafa Romli
+source: https://www.facebook.com/UstadzAbulwafaRomli/posts/1283163878521871
 tags:
 - Fiqih
-authors: Ustadz Abulwafa Romli
-sumber: https://www.facebook.com/UstadzAbulwafaRomli/posts/1283163878521871
+draft: false
 ---
+
 **Penulis: Ustadz Abulwafa Romli**
 
 Oleh : Ustadz Abulwafa Romli

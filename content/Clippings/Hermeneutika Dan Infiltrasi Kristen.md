@@ -1,15 +1,13 @@
 ---
 title: Hermeneutika Dan Infiltrasi Kristen
 date: '2020-01-21'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: Adian Husaini
+source: https://www.facebook.com/mustanironline/posts/1469184983221447
 tags:
 - Pemikiran
-authors: Adian Husaini
-sumber: https://www.facebook.com/mustanironline/posts/1469184983221447
+draft: false
 ---
+
 **Penulis: Adian Husaini**
 
 Oleh: Adian Husaini

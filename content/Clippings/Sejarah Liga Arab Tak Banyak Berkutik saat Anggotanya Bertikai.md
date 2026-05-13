@@ -1,15 +1,13 @@
 ---
 title: Sejarah Liga Arab - Tak Banyak Berkutik saat Anggotanya Bertikai
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Sejarah
+author: Tony Firman
+source: https://tirto.id/sejarah-liga-arab-tak-banyak-berkutik-saat-anggotanya-bertikai-djuQ
 tags:
 - Sejarah
-authors: Tony Firman
-sumber: https://tirto.id/sejarah-liga-arab-tak-banyak-berkutik-saat-anggotanya-bertikai-djuQ
+draft: false
 ---
+
 **Penulis: Tony Firman**
 
 *Salah satu tujuan Liga Arab adalah menjadi penengah konflik di antara anggota. Nyatanya, organisasi ini cuma macan ompong.*

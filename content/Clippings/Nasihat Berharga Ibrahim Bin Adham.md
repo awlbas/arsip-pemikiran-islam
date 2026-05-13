@@ -1,14 +1,12 @@
 ---
 title: Nasihat Berharga Ibrahim Bin Adham
 date: '2023-06-06'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: Al-Faqir Arief B. Iskandar
 tags:
 - Nafsiyah
-authors: Al-Faqir Arief B. Iskandar
+draft: false
 ---
+
 **Penulis: Al-Faqir Arief B. Iskandar**
 
 Oleh: Al-Faqir Arief B. Iskandar

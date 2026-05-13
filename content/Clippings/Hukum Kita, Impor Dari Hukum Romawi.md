@@ -1,15 +1,13 @@
 ---
 title: Hukum Kita, Impor Dari Hukum Romawi
 date: '2020-02-06'
-draft: false
-series: []
-categories:
-- Jawab
+author: Admin
+source: https://www.facebook.com/ChandraPurnaIrawan/posts/1132097840298868
 tags:
 - Jawab
-authors: Admin
-sumber: https://www.facebook.com/ChandraPurnaIrawan/posts/1132097840298868
+draft: false
 ---
+
 **Penulis: Admin**
 
 Oleh,

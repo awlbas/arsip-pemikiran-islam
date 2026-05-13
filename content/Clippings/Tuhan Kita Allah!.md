@@ -1,17 +1,14 @@
 ---
 title: Tuhan Kita - Allah!
 date: '2019-07-25'
-draft: false
-series: []
-categories:
-- Pemikiran
-- Pluralisme
+author: Dr. Adian Husain
+source: https://www.facebook.com/mustanironline/posts/1288755811264366
 tags:
 - Pemikiran
 - Pluralisme
-authors: Dr. Adian Husain
-sumber: https://www.facebook.com/mustanironline/posts/1288755811264366
+draft: false
 ---
+
 **Penulis: Dr. Adian Husain**
 
 Oleh: Dr. Adian Husain

@@ -1,15 +1,13 @@
 ---
 title: Kapitalisme - Perbudakan Zaman Ini
 date: '2019-09-16'
-draft: false
-series: []
-categories:
-- Kapitalisme
+author: Admin
+source: https://mediaumat.news/kapitalisme-perbudakan-zaman-ini/
 tags:
 - Kapitalisme
-authors: Admin
-sumber: https://mediaumat.news/kapitalisme-perbudakan-zaman-ini/
+draft: false
 ---
+
 **Penulis: Admin**
 
 “Lebih dari 40 juta orang di dunia, seperempat di antara mereka adalah anak-anak, berada dalam perbudakan,” kata Pelapor Khusus PBB Urmila Bhoola, pada sesi ke 42 Dewan HAM di kantor PBB di Jenewa. Pernyataannya itu dituangkan dalam sebuah laporan yang disiapkannya tentang “perbudakan modern”. “Bahwasannya 60 persen dari jutaan mereka yang diperbudak itu dipaksa untuk bekerja di sektor swasta, sedang 98 persen perempuan dan anak perempuan menjadi korban kekerasan seksual” (situs web Anatolia, 9/9/2019).

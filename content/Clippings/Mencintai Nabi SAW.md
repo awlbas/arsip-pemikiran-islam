@@ -1,14 +1,12 @@
 ---
 title: Mencintai Nabi SAW
 date: '2019-11-28'
-draft: false
-series: []
-categories:
-- Dalil Khilafah
+author: Admin
 tags:
 - Dalil Khilafah
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Seorang Muslim tentu mencintai Nabi saw. Sebab dalam Islam, cinta kepada Nabi saw. merupakan keharusan. Kecintaan kepada Nabi saw. merupakan salah satu pembuktian keimanan seorang Muslim. Kecintaan kepada Nabi saw. sekaligus merupakan bagian dari bekal yang bisa mengantarkan seorang Muslim untuk bisa masuk surga bersama-sama dengan beliau di akhirat kelak. Anas bin Malik ra. menuturkan:

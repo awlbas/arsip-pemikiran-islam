@@ -1,15 +1,13 @@
 ---
 title: Orientalis Barat Memiliki Dua Tujuan Dalam Menghancurkan Islam.
 date: '2019-05-29'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: Admin
+source: https://www.instagram.com/p/BsmRmp8nNix/
 tags:
 - Pemikiran
-authors: Admin
-sumber: https://www.instagram.com/p/BsmRmp8nNix/
+draft: false
 ---
+
 **Penulis: Admin**
 
 1.

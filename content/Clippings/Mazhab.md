@@ -1,15 +1,13 @@
 ---
 title: Mazhab
 date: '2024-02-20'
-draft: false
-series: []
-categories:
-- Ushul Fiqih
+author: M. Shiddiq Al-Jawi
+source: https://www.facebook.com/erwin.wahyu/posts/pfbid0JrJ1QnUJR2qKrzkNsMUBmbL6aLjos4yRxZg5YEWQBPbz7cRYHZ5ATMFbpULtAtFVl
 tags:
 - Ushul Fiqih
-authors: M. Shiddiq Al-Jawi
-sumber: https://www.facebook.com/erwin.wahyu/posts/pfbid0JrJ1QnUJR2qKrzkNsMUBmbL6aLjos4yRxZg5YEWQBPbz7cRYHZ5ATMFbpULtAtFVl
+draft: false
 ---
+
 **Penulis: M. Shiddiq Al-Jawi**
 
 Oleh: M. Shiddiq Al-Jawi

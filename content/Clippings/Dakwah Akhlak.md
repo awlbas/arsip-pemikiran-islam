@@ -1,14 +1,13 @@
 ---
 title: Dakwah Akhlak
 date: '2022-02-22'
-draft: false
-series: []
-categories: []
+author: Admin
+source: https://www.facebook.com/100000085565403/posts/5207425455936922/
 tags:
 - tanpa-kategori
-authors: Admin
-sumber: https://www.facebook.com/100000085565403/posts/5207425455936922/
+draft: false
 ---
+
 **Penulis: Admin**
 
 Sejak lama kita katakan, "Jika kunci keberhasilan dakwah Nabi saw adalah akhlak luhur semata, maka -seharusnya-seluruh orang Quraisy-lah yg sejak awal akan memeluk Islam dan membela Rasulullah saw." Sebab, mereka itu orang yg paling mengenal keseharian beliau sejak kecil, tahu betul kualitas pribadi beliau, hingga mereka menggelari beliau sbg "Al Amin".

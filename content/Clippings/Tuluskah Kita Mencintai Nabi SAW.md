@@ -1,15 +1,13 @@
 ---
 title: Tuluskah Kita Mencintai Nabi SAW?
 date: '2020-02-06'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: Arief B. Iskandar
+source: https://www.facebook.com/hariratul.jannah.37/posts/1071633163011051
 tags:
 - Nafsiyah
-authors: Arief B. Iskandar
-sumber: https://www.facebook.com/hariratul.jannah.37/posts/1071633163011051
+draft: false
 ---
+
 **Penulis: Arief B. Iskandar**
 
 Oleh : Arief B. Iskandar

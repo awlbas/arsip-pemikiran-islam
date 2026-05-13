@@ -1,15 +1,13 @@
 ---
 title: Inilah Rumah Sakit Modern Pertama Di Era Kekhilafahan
 date: '2019-07-04'
-draft: false
-series: []
-categories:
-- Khasanah
+author: Admin
+source: https://www.facebook.com/andri.maulana.9279/posts/2059887827435975
 tags:
 - Khasanah
-authors: Admin
-sumber: https://www.facebook.com/andri.maulana.9279/posts/2059887827435975
+draft: false
 ---
+
 **Penulis: Admin**
 
 Sebelum Islam datang dan mencapai masa kejayaannya, dunia ternyata 

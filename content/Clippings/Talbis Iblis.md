@@ -1,15 +1,13 @@
 ---
 title: Talbis Iblis
 date: '2019-07-04'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: Dr. Adian Husaini
+source: https://www.facebook.com/mustanironline/posts/1306599442813336
 tags:
 - Pemikiran
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/mustanironline/posts/1306599442813336
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini 

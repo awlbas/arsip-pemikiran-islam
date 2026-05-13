@@ -1,15 +1,13 @@
 ---
 title: Ketika Orang Alim Menuju Siksa
 date: '2019-07-02'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: Admin
+source: https://www.facebook.com/ahnafqais.attamimi/posts/1237999846364029
 tags:
 - Nafsiyah
-authors: Admin
-sumber: https://www.facebook.com/ahnafqais.attamimi/posts/1237999846364029
+draft: false
 ---
+
 **Penulis: Admin**
 
 [Ust. Iwan Januar]

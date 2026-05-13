@@ -1,14 +1,12 @@
 ---
 title: Jangan Meremehkan Bendera
 date: '2019-11-28'
-draft: false
-series: []
-categories:
-- Jawab
+author: Abulwafa Romli
 tags:
 - Jawab
-authors: Abulwafa Romli
+draft: false
 ---
+
 **Penulis: Abulwafa Romli**
 
 Oleh : Abulwafa Romli

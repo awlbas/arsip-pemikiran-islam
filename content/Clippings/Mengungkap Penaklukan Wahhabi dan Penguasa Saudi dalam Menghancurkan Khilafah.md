@@ -1,17 +1,14 @@
 ---
 title: Mengungkap Penaklukan Wahhabi dan Penguasa Saudi dalam Menghancurkan Khilafah
 date: '2019-07-17'
-draft: false
-series: []
-categories:
-- Khilafah
-- Sejarah
+author: sejarah yang menyesal
+source: https://www.facebook.com/andri.maulana.9279/posts/2023871267704298
 tags:
 - Khilafah
 - Sejarah
-authors: sejarah yang menyesal
-sumber: https://www.facebook.com/andri.maulana.9279/posts/2023871267704298
+draft: false
 ---
+
 **Penulis: sejarah yang menyesal**
 
 KH. M. Shiddiq Al-Jawi Hafidzahullahu 

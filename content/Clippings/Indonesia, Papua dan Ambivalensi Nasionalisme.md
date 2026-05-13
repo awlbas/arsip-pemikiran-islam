@@ -1,17 +1,14 @@
 ---
 title: Indonesia, Papua dan Ambivalensi Nasionalisme
 date: '2019-08-23'
-draft: false
-series: []
-categories:
-- Pemikiran
-- Indonesia
+author: Admin
+source: https://www.instagram.com/p/B1Wd-JZhCnj/
 tags:
 - Pemikiran
 - Indonesia
-authors: Admin
-sumber: https://www.instagram.com/p/B1Wd-JZhCnj/
+draft: false
 ---
+
 **Penulis: Admin**
 
 Era modern, 

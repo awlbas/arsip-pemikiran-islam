@@ -2,17 +2,14 @@
 title: Bisyarah Tegaknya Khilafah di Akhir Zaman (Bag. III) - Kritik Atas Nadirsyah
   - Hadits Bisyarah Khilafah
 date: '2019-07-01'
-draft: false
-series: []
-categories:
-- Jawab
-- Dalil Khilafah
+author: Admin
+source: http://www.irfanabunaveed.net/2019/06/bisyarah-tegaknya-khilafah-di-akhir_9.html
 tags:
 - Jawab
 - Dalil Khilafah
-authors: Admin
-sumber: http://www.irfanabunaveed.net/2019/06/bisyarah-tegaknya-khilafah-di-akhir_9.html
+draft: false
 ---
+
 **Penulis: Admin**
 
 Irfan Abu Naveed

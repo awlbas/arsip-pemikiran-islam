@@ -1,17 +1,14 @@
 ---
 title: Berita Majalah Times (1924-1931) Tentang Khalifah Terakhir Utsmani
 date: '2019-07-02'
-draft: false
-series: []
-categories:
-- Sejarah
-- Khalifah
+author: Admin
+source: https://www.facebook.com/abu.zaid.904/posts/10213446246543199
 tags:
 - Sejarah
 - Khalifah
-authors: Admin
-sumber: https://www.facebook.com/abu.zaid.904/posts/10213446246543199
+draft: false
 ---
+
 **Penulis: Admin**
 
 Kaum muslimin hendaknya tidak melupakan hari kelam dalam sejarah 

@@ -1,15 +1,13 @@
 ---
 title: Perang Istilah [Bagian Dua]
 date: '2019-03-09'
-draft: false
-series: []
-categories:
-- Jawab
+author: Admin
+source: https://www.facebook.com/utsman.ismail/posts/10205397138124935
 tags:
 - Jawab
-authors: Admin
-sumber: https://www.facebook.com/utsman.ismail/posts/10205397138124935
+draft: false
 ---
+
 **Penulis: Admin**
 
 Masih begitu hangat pro kontra tentang hasil Bahsul Masa’il (BM) di 

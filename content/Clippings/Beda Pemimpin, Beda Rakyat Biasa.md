@@ -1,16 +1,13 @@
 ---
 title: Beda Pemimpin, Beda Rakyat Biasa
 date: '2019-02-27'
-draft: false
-series: []
-categories:
-- Sirah
-- Dakwah
+author: Dr Budi Handrianto
 tags:
 - Sirah
 - Dakwah
-authors: Dr Budi Handrianto
+draft: false
 ---
+
 **Penulis: Dr Budi Handrianto**
 
 Oleh: Dr Budi Handrianto

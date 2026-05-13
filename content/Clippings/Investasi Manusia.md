@@ -1,18 +1,14 @@
 ---
 title: Investasi Manusia
 date: '2019-07-11'
-draft: false
-series: []
-categories:
-- Dakwah
-- Pemikiran
-- Pendidikan
+author: Admin
 tags:
 - Dakwah
 - Pemikiran
 - Pendidikan
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Ada satu pepatah bangsa Cina yang penting untuk kita renungkan; _“if

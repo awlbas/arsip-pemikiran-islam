@@ -1,17 +1,14 @@
 ---
 title: Demokrasi, Syirik?
 date: '2019-07-04'
-draft: false
-series: []
-categories:
-- Pemikiran
-- Demokrasi
+author: Arief B. Iskandar
+source: https://www.facebook.com/suji.anto.3975/posts/2031580036895161
 tags:
 - Pemikiran
 - Demokrasi
-authors: Arief B. Iskandar
-sumber: https://www.facebook.com/suji.anto.3975/posts/2031580036895161
+draft: false
 ---
+
 **Penulis: Arief B. Iskandar**
 
 Oleh: Arief B. Iskandar

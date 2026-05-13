@@ -1,14 +1,12 @@
 ---
 title: Radikalisme, Topeng Borok Korporatokrasi
 date: '2019-12-23'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: Ika Mawarningtyas, S.Pd (Analis Muslimah Voice)
 tags:
 - Pemikiran
-authors: Ika Mawarningtyas, S.Pd (Analis Muslimah Voice)
+draft: false
 ---
+
 **Penulis: Ika Mawarningtyas, S.Pd (Analis Muslimah Voice)**
 
 Oleh: Ika Mawarningtyas, S.Pd (Analis Muslimah Voice) 

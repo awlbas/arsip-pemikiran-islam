@@ -1,17 +1,14 @@
 ---
 title: Lenin Yang Menginspirasi
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Sejarah
-- Komunisme
+author: Admin
+source: https://www.facebook.com/rushside.ridho/posts/10215908822332603
 tags:
 - Sejarah
 - Komunisme
-authors: Admin
-sumber: https://www.facebook.com/rushside.ridho/posts/10215908822332603
+draft: false
 ---
+
 **Penulis: Admin**
 
 Karl Marx dan Engels merumuskan Marxisme. Namun, adalah Lenin, yang 

@@ -2,14 +2,12 @@
 title: Kepada Gerakan Taliban - Apakah Balasan Bagi Orang-Orang Yang Telah Berbuat
   Jahat Kepada Diri, Keluarga Dan Negeri Kalian
 date: '2019-09-02'
-draft: false
-series: []
-categories:
-- Politik Luar Negeri
+author: Admin
 tags:
 - Politik Luar Negeri
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Suhail Syahin jubir gerakan Taliban mengumumkan di Qatar bahwa terwujudnya perjanjian damai dengan negara penjajah Amerika makin mendekati kenyataan. 

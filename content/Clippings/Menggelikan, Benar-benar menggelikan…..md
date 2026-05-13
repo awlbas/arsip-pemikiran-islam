@@ -1,17 +1,14 @@
 ---
 title: Menggelikan, Benar-benar menggelikan….
 date: '2019-07-02'
-draft: false
-series: []
-categories:
-- Khilafah
-- Jawab
+author: Ust. Ismail Yusanto
+source: https://www.facebook.com/firman.kelana.33/posts/2156314991082670
 tags:
 - Khilafah
 - Jawab
-authors: Ust. Ismail Yusanto
-sumber: https://www.facebook.com/firman.kelana.33/posts/2156314991082670
+draft: false
 ---
+
 **Penulis: Ust. Ismail Yusanto**
 
 Oleh : Ust. Ismail Yusanto

@@ -2,15 +2,13 @@
 title: Ngaji Kitab Nizhamul Islam, Bab “Meneladani Perbuatan Rasulullah shallallahu
   ‘alaihi wa sallam”
 date: '2024-02-20'
-draft: false
-series: []
-categories:
-- Ushul Fiqih
+author: Admin
+source: https://www.facebook.com/ramaneranu/posts/pfbid0oytBM2LTP6Gb3AJnsJmPs7WjYK7oG9gdNxrBs9Twtwb3WdE9zuLT7WpjBi3PZnZHl
 tags:
 - Ushul Fiqih
-authors: Admin
-sumber: https://www.facebook.com/ramaneranu/posts/pfbid0oytBM2LTP6Gb3AJnsJmPs7WjYK7oG9gdNxrBs9Twtwb3WdE9zuLT7WpjBi3PZnZHl
+draft: false
 ---
+
 **Penulis: Admin**
 
 Kajian ini dimaksudkan untuk memberi pengantar dan sedikit ulasan agar persoalan dalam bab tersebut dapat didudukkan pada posisi yang benar. Maka, kajian ini lebih relevan untuk dibaca oleh kita-kita yang pemula, bukan oleh para “master” atau “para sepuh”.

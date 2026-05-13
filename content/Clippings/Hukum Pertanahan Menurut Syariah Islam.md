@@ -1,16 +1,13 @@
 ---
 title: Hukum Pertanahan Menurut Syariah Islam
 date: '2019-02-27'
-draft: false
-series: []
-categories:
-- Fiqih
-- Solusi
+author: KH. M. Shiddiq Al-Jawi
 tags:
 - Fiqih
 - Solusi
-authors: KH. M. Shiddiq Al-Jawi
+draft: false
 ---
+
 **Penulis: KH. M. Shiddiq Al-Jawi**
 
 Oleh : KH. M. Shiddiq Al-Jawi

@@ -1,14 +1,12 @@
 ---
 title: Ketika Minta Izin Lebih Mudah Dilakukan Untuk Agenda Dakwah
 date: '2023-07-25'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: Admin
 tags:
 - Nafsiyah
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 abu zaid

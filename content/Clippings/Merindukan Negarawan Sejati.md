@@ -1,15 +1,13 @@
 ---
 title: Merindukan Negarawan Sejati
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Khalifah
+author: Admin
+source: https://www.facebook.com/buletinkaffah2017/posts/566461537208285
 tags:
 - Khalifah
-authors: Admin
-sumber: https://www.facebook.com/buletinkaffah2017/posts/566461537208285
+draft: false
 ---
+
 **Penulis: Admin**
 
 Siapakah yang disebut dengan negarawan? Menurut Kamus Besar Bahasa 

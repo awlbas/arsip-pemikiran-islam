@@ -1,15 +1,13 @@
 ---
 title: Apakah Jokowi Khalifah?
 date: '2017-12-12'
-draft: false
-series: []
-categories:
-- Khalifah
+author: KH. M. Shiddiq Al Jawi
+source: http://news.visimuslim.org/2017/12/jawab-soal-apakah-jokowi-khalifah.html
 tags:
 - Khalifah
-authors: KH. M. Shiddiq Al Jawi
-sumber: http://news.visimuslim.org/2017/12/jawab-soal-apakah-jokowi-khalifah.html
+draft: false
 ---
+
 **Penulis: KH. M. Shiddiq Al Jawi**
 
 Oleh : KH. M. Shiddiq Al Jawi

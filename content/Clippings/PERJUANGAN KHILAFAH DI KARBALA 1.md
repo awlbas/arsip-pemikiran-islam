@@ -1,13 +1,10 @@
 ---
-title: null
-draft: false
-series: []
-categories: null
+title: ''
 tags:
 - tanpa-kategori
-authors: null
-sumber: null
+draft: false
 ---
+
 (Menepis Kejahatan Propaganda Pencitraburukan Terhadap Khilafah Yang Agung Melalui Tragedi Karbala)
 
 Oleh: Utsman Zahid as-Sidany

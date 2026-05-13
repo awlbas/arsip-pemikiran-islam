@@ -1,15 +1,13 @@
 ---
 title: Mendefinisikan dan Memetakan Ilmu dalam Islam
 date: '2019-12-17'
-draft: false
-series: []
-categories:
-- Khasanah
+author: Admin
+source: https://www.facebook.com/mustanironline/posts/1494350880704857
 tags:
 - Khasanah
-authors: Admin
-sumber: https://www.facebook.com/mustanironline/posts/1494350880704857
+draft: false
 ---
+
 **Penulis: Admin**
 
 Dr. Syamsuddin Arif

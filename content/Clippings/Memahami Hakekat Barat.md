@@ -1,17 +1,14 @@
 ---
 title: Memahami Hakekat Barat
 date: '2020-01-29'
-draft: false
-series: []
-categories:
-- Jawab
-- Pemikiran
+author: Dr. Hamid Fahmy Zarkasyi
+source: https://www.facebook.com/mustanironline/posts/1442190112587601
 tags:
 - Jawab
 - Pemikiran
-authors: Dr. Hamid Fahmy Zarkasyi
-sumber: https://www.facebook.com/mustanironline/posts/1442190112587601
+draft: false
 ---
+
 **Penulis: Dr. Hamid Fahmy Zarkasyi**
 
 Oleh: Dr. Hamid Fahmy Zarkasyi

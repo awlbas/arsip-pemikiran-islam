@@ -1,16 +1,13 @@
 ---
 title: Di Era Founding Fathers, Pancasila Ternyata Bukan Harga Mati
 date: '2019-09-03'
-draft: false
-series: []
-categories:
-- Sejarah
-- Indonesia
+author: Admin
 tags:
 - Sejarah
 - Indonesia
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Siapa saja yang menelusuri sejarah Pancasila dan NKRI di kala para founding fathers-nya masih berkuasa, niscaya ia akan berkesimpulan bahwasanya keduanya bukanlah harga mati. 

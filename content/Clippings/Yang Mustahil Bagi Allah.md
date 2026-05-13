@@ -1,13 +1,12 @@
 ---
 title: Yang Mustahil Bagi Allah
 date: '2022-02-22'
-draft: false
-series: []
-categories: []
+author: Abdul Wahab Ahmad
 tags:
 - tanpa-kategori
-authors: Abdul Wahab Ahmad
+draft: false
 ---
+
 **Penulis: Abdul Wahab Ahmad**
 
 Oleh: Abdul Wahab Ahmad

@@ -1,15 +1,14 @@
 ---
 title: Khilafah, Spirit Keadilan dan Kedamaian Abadi
 date: '2017-12-08'
+author: Masúd Izzul Mujahid
+source: https://www.an-najah.net/khilafah-spirit-keadilan-dan-kedamaian-abadi/
+tags:
+- Khilafah
+- Khasanah
 draft: false
-series: []
-categories:
-  - Khilafah
-  - Khasanah
-tags: []
-authors: Masúd Izzul Mujahid
-sumber: "https://www.an-najah.net/khilafah-spirit-keadilan-dan-kedamaian-abadi/"
 ---
+
 **Penulis: : Masúd Izzul Mujahid**
 
 Ketika ide Khilafah diserang, sementara anda diam saja. Menganggap ini hanya urusan HTI. Anda belum memahami hakekat pertempuran antara al-Haq Vs al-Bathil. Belum begitu memahami, arah serangan yang disasar. Mereka sedang menyerang Islam. Ya, khilafah adalah satu sistem politik ideal dalam panggung sejarah dunia.

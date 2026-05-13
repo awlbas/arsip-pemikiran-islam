@@ -1,15 +1,13 @@
 ---
 title: Sadar Diri
 date: '2019-07-01'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: Admin
+source: https://www.facebook.com/YuanaRyanTresnaID/posts/298542504361506
 tags:
 - Nafsiyah
-authors: Admin
-sumber: https://www.facebook.com/YuanaRyanTresnaID/posts/298542504361506
+draft: false
 ---
+
 **Penulis: Admin**
 
 Catatan random ini bukan tentang M yang merasa paling berilmu yang 

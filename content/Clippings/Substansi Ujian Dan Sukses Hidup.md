@@ -1,15 +1,13 @@
 ---
 title: Substansi Ujian Dan Sukses Hidup
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: karena itu, dalam menjalani
+source: https://www.facebook.com/choirul.anam.94617/posts/1133633923429306
 tags:
 - Nafsiyah
-authors: karena itu, dalam menjalani
-sumber: https://www.facebook.com/choirul.anam.94617/posts/1133633923429306
+draft: false
 ---
+
 **Penulis: karena itu, dalam menjalani**
 
 Orang sering mengira bahwa ujian hidup hanyalah berupa kemiskinan, 

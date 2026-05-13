@@ -1,14 +1,12 @@
 ---
 title: Pendidikan Kelas Dunia
 date: '2022-04-08'
-draft: false
-series: []
-categories:
-- Pendidikan
+author: Admin
 tags:
 - Pendidikan
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 1000 tahun lalu seperti apa, nusantara tidak ada universitas kelas dunia. 

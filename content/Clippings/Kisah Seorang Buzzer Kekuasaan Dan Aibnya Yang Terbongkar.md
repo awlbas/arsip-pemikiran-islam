@@ -1,15 +1,13 @@
 ---
 title: Kisah Seorang Buzzer Kekuasaan Dan Aibnya Yang Terbongkar
 date: '2019-12-09'
-draft: false
-series: []
-categories:
-- Tarikh
+author: Yuana Ryan Tresna
+source: https://yuanaryant.wordpress.com/2019/10/11/kisah-seorang-buzzer-kekuasaan-dan-aibnya-yang-terbongkar/
 tags:
 - Tarikh
-authors: Yuana Ryan Tresna
-sumber: https://yuanaryant.wordpress.com/2019/10/11/kisah-seorang-buzzer-kekuasaan-dan-aibnya-yang-terbongkar/
+draft: false
 ---
+
 **Penulis: Yuana Ryan Tresna**
 
 Oleh: Yuana Ryan Tresna

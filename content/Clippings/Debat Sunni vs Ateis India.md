@@ -1,13 +1,11 @@
 ---
-title: null
-draft: false
-series: []
-categories: null
+title: ''
+source: https://www.facebook.com/shofhi.amhar/posts/pfbid036V68AfhKJSDdqJCCSf1L6cquv1LcMkJoF6BKwgqebyY1pnEapJDfCD36mkzByteHl
 tags:
 - tanpa-kategori
-authors: null
-sumber: https://www.facebook.com/shofhi.amhar/posts/pfbid036V68AfhKJSDdqJCCSf1L6cquv1LcMkJoF6BKwgqebyY1pnEapJDfCD36mkzByteHl
+draft: false
 ---
+
 Berikut terjemahan ke bahasa Indonesia (gaya formal–ilmiah, setia pada makna):
 
 ⸻

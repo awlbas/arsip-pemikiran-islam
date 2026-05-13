@@ -1,17 +1,14 @@
 ---
 title: Serahkan Roma Pada Kami
 date: '2020-01-17'
-draft: false
-series: []
-categories:
-- Sejarah
-- Nafsiyah
+author: Ust. Budi Ashari, Lc
+source: https://www.facebook.com/gunawan.ghifary/posts/1543660655691744
 tags:
 - Sejarah
 - Nafsiyah
-authors: Ust. Budi Ashari, Lc
-sumber: https://www.facebook.com/gunawan.ghifary/posts/1543660655691744
+draft: false
 ---
+
 **Penulis: Ust. Budi Ashari, Lc**
 
 ( Bagian I )

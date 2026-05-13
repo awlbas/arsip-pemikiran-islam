@@ -1,17 +1,14 @@
 ---
 title: Kesepakatan “OPEC Plus”
 date: '2020-01-22'
-draft: false
-series: []
-categories:
-- Jawab
-- Politik Luar Negeri
+author: Admin
+source: https://www.facebook.com/Tabloid.MU/posts/3618432141515864
 tags:
 - Jawab
 - Politik Luar Negeri
-authors: Admin
-sumber: https://www.facebook.com/Tabloid.MU/posts/3618432141515864
+draft: false
 ---
+
 **Penulis: Admin**
 
 Soal:

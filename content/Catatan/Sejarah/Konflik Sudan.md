@@ -1,9 +1,12 @@
 ---
-draft: No
+title: ''
 date: '2025-11-07'
-last edited time: 27 Desember 2025 06.22
-tags: My Note, Politik Luar Negeri
+tags:
+- My Note
+- Politik Luar Negeri
+draft: false
 ---
+
 "Bilad as-Sudan" ( بلاد السودان ‎) adalah istilah bahasa Arab yang secara harfiah berarti "tanah orang kulit hitam”
 
 Termasuk peradaban yang tertua karena dilewati oleh sungai Nil makanya ada istilah Fir'aun hitam karena berbatasan dengan Mesir. 

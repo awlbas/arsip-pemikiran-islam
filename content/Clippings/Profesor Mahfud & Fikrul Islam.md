@@ -1,19 +1,15 @@
 ---
 title: Profesor Mahfud & Fikrul Islam
 date: '2017-12-12'
-draft: false
-series: []
-categories:
-- Khilafah
-- Islam
-- Hizbut Tahrir
+author: Admin
+source: https://web.facebook.com/iwanjanuar/posts/10210789009147150
 tags:
 - Khilafah
 - Islam
 - Hizbut Tahrir
-authors: Admin
-sumber: https://web.facebook.com/iwanjanuar/posts/10210789009147150
+draft: false
 ---
+
 **Penulis: Admin**
 
 Tahun 90-an ketika saya mulai berkenalan dengan Hizbut Tahrir (waktu

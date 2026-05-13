@@ -2,15 +2,13 @@
 title: Perbedaan Antara Keberadaan Fisik Tanah Jadi Milik Individu Dan Jadi Milik
   Negara
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Fiqih
+author: Admin
+source: https://www.facebook.com/yans.prasetiadi/posts/1687708398105095
 tags:
 - Fiqih
-authors: Admin
-sumber: https://www.facebook.com/yans.prasetiadi/posts/1687708398105095
+draft: false
 ---
+
 **Penulis: Admin**
 
 Soal:

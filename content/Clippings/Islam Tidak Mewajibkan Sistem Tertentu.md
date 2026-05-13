@@ -1,13 +1,11 @@
 ---
-title: 'Islam tidak mewajibkan sistem tertentu'
-source: "https://www.facebook.com/ramaneranu/posts/pfbid0CarbwtyWe2wSXG2JA74dYvBjJohfFwXM8em2uo3QyVZyGD5Qha34nU96ZrtyzwuJl"
-author:
-published:
-created: 2026-04-30
-description:
+title: Islam tidak mewajibkan sistem tertentu
+source: https://www.facebook.com/ramaneranu/posts/pfbid0CarbwtyWe2wSXG2JA74dYvBjJohfFwXM8em2uo3QyVZyGD5Qha34nU96ZrtyzwuJl
 tags:
-  - "clippings"
+- clippings
+draft: false
 ---
+
 "Islam tidak mewajibkan sistem tertentu, Islam hanya mewajibkan penguasa untuk menerapkan Syariah Islam. Tak ada masalah dengan sistem kerajaan ataupun republik, yang penting Syariah Islam diterapkan."
 
 Saya tidak membenarkan perkataan di atas. Namun, jika ini dikatakan oleh kalangan "tradisionalis" yang 'alim dan saleh, itu bisa "dimaklumi." Mengapa? Karena mereka terbiasa mengacu dan membatasi diri pada teks klasik. Mereka belum tertarik untuk mencerna konsep tatanan politik yang menjadi prasyarat agar tuntutan-tuntutan kitab klasik itu dapat direalisasikan.

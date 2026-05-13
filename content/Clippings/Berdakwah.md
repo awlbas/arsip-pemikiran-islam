@@ -1,17 +1,14 @@
 ---
 title: Berdakwah
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Dakwah
-- Nafsiyah
+author: KH. Musthafa A. Murtadlo
+source: https://www.facebook.com/bdwi.54/posts/10211890191357676
 tags:
 - Dakwah
 - Nafsiyah
-authors: KH. Musthafa A. Murtadlo
-sumber: https://www.facebook.com/bdwi.54/posts/10211890191357676
+draft: false
 ---
+
 **Penulis: KH. Musthafa A. Murtadlo**
 
 Oleh: KH. Musthafa A. Murtadlo

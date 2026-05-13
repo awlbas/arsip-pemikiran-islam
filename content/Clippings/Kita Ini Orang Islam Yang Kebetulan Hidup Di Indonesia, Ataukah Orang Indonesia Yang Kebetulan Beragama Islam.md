@@ -2,15 +2,13 @@
 title: Kita Ini Orang Islam Yang Kebetulan Hidup Di Indonesia, Ataukah Orang Indonesia
   Yang Kebetulan Beragama Islam?
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Jawab
+author: Admin
+source: https://www.facebook.com/rushside.ridho/posts/10215950213807364
 tags:
 - Jawab
-authors: Admin
-sumber: https://www.facebook.com/rushside.ridho/posts/10215950213807364
+draft: false
 ---
+
 **Penulis: Admin**
 
 Beberapa dekade yang lalu, seorang tokoh nasional yang sekarang 

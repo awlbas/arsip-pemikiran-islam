@@ -1,15 +1,13 @@
 ---
 title: Hermeneutika Dan Kekacauan Akhlak
 date: '2020-01-21'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: Dr. Adian Husaini
+source: https://www.facebook.com/mustanironline/posts/1468941743245771
 tags:
 - Pemikiran
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/mustanironline/posts/1468941743245771
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini

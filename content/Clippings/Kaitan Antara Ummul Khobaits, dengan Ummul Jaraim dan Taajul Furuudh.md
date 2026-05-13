@@ -1,13 +1,12 @@
 ---
 title: Kaitan Antara Ummul Khobaits, dengan Ummul Jaraim dan Taajul Furuudh
 date: '2021-10-05'
-draft: false
-series: []
-categories: []
+author: Admin
 tags:
 - tanpa-kategori
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Khalifah Utsman bin Affan رضي الله عنه di dalam khotbahnya berkata :

@@ -1,15 +1,13 @@
 ---
 title: Nadirsyah hosen Menyebar Hoax?
 date: '2020-02-03'
-draft: false
-series: []
-categories:
-- Jawab
+author: Admin
+source: https://www.facebook.com/titokpriastomo/posts/2602403373105823
 tags:
 - Jawab
-authors: Admin
-sumber: https://www.facebook.com/titokpriastomo/posts/2602403373105823
+draft: false
 ---
+
 **Penulis: Admin**
 
 Dalam salah satu tulisannya yang terbaru, Prof. (?) Nadirsyah Hosen (NH), entah dapat info dari mana, mengabarkan kepada para penggemarnya bahwa HTI menganggap persoalan khilafah sebagai masalah ushuluddiin. NH mengatakan, "HTI mengklaim bahwa masalah khilafah ini termasuk ushul ad-din."

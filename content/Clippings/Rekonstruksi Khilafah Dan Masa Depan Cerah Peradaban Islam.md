@@ -1,18 +1,14 @@
 ---
 title: Rekonstruksi Khilafah Dan Masa Depan Cerah Peradaban Islam
 date: '2019-03-05'
-draft: false
-series: []
-categories:
-- Khilafah
-- Sejarah
-- Khasanah
+author: Arief B. Iskandar
 tags:
 - Khilafah
 - Sejarah
 - Khasanah
-authors: Arief B. Iskandar
+draft: false
 ---
+
 **Penulis: Arief B. Iskandar**
 
 (Mengenang Keruntuhan Khilafah 3 Maret 1924)

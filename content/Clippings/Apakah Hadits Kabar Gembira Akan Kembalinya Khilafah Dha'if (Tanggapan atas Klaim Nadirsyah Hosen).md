@@ -2,17 +2,14 @@
 title: Apakah Hadits Kabar Gembira Akan Kembalinya Khilafah Dha'if? (Tanggapan atas
   Klaim Nadirsyah Hosen)
 date: '2019-07-01'
-draft: false
-series: []
-categories:
-- Jawab
-- Dalil Khilafah
+author: Yuana Ryan Tresna
+source: https://www.facebook.com/YuanaRyanTresnaID/posts/304273650455058
 tags:
 - Jawab
 - Dalil Khilafah
-authors: Yuana Ryan Tresna
-sumber: https://www.facebook.com/YuanaRyanTresnaID/posts/304273650455058
+draft: false
 ---
+
 **Penulis: Yuana Ryan Tresna**
 
 Oleh Yuana Ryan Tresna

@@ -1,8 +1,10 @@
 ---
-url: https://youtu.be/2N-LtDeW4ek?si=ikjtXuhM9Yx0lTJ2
+title: ''
 tags:
 - tanpa-kategori
+draft: false
 ---
+
 **[Pembawa Acara]:**
 
 Sebutkan orang yang baik itu yang hari ini lebih baik dibanding hari kemarin dan hari esok lebih baik dibanding hari ini. Artinya, ini kan trennya naik, Ustaz. Selalu, apa, naik. Apakah yang disebut istikamah itu yang harus naik ini, atau orang yang memang bertahan tetap dalam keimanannya itu—minimalis itu—juga masih istikamah? Itu seperti apa, Ustaz? (00:00:41)

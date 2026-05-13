@@ -1,16 +1,13 @@
 ---
 title: Musuh Agama-Agama
 date: '2020-01-15'
-draft: false
-series: []
-categories:
-- Sekularisme
-- Pemikiran
+author: Dr. Adian Husaini
 tags:
 - Sekularisme
 - Pemikiran
-authors: Dr. Adian Husaini
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini

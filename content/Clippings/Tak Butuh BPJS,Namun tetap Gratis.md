@@ -1,16 +1,13 @@
 ---
 title: Tak Butuh BPJS,Namun tetap Gratis
 date: '2019-12-23'
-draft: false
-series: []
-categories:
-- Solusi
-- Khasanah
+author: dr.Toreni Yurista
 tags:
 - Solusi
 - Khasanah
-authors: dr.Toreni Yurista
+draft: false
 ---
+
 **Penulis: dr.Toreni Yurista**
 
 Oleh: dr.Toreni Yurista

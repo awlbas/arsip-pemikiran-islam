@@ -1,17 +1,14 @@
 ---
 title: Qadha'-Qadar
 date: '2019-07-02'
-draft: false
-series: []
-categories:
-- Jawab
-- Akidah
+author: Utsman Zahid as Sidany
+source: https://www.facebook.com/utsman.ismail/posts/10205004298824198
 tags:
 - Jawab
 - Akidah
-authors: Utsman Zahid as Sidany
-sumber: https://www.facebook.com/utsman.ismail/posts/10205004298824198
+draft: false
 ---
+
 **Penulis: Utsman Zahid as Sidany**
 
 Oleh: Utsman Zahid as Sidany

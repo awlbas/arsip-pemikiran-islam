@@ -1,13 +1,11 @@
 ---
-title: null
-draft: false
-series: []
-categories: null
+title: ''
+source: https://www.facebook.com/utsman.zahid.as.sidany/posts/pfbid0TNtMGgPoWeYfBS3z2XbnJrvjRmbbVHhH4vWMqWyF5jQkUNCFRUTG58Q4aym7gyLzl
 tags:
 - tanpa-kategori
-authors: null
-sumber: https://www.facebook.com/utsman.zahid.as.sidany/posts/pfbid0TNtMGgPoWeYfBS3z2XbnJrvjRmbbVHhH4vWMqWyF5jQkUNCFRUTG58Q4aym7gyLzl
+draft: false
 ---
+
 Lagi pada rame bahas gharizah..
 
 Saya ulas sedikit...

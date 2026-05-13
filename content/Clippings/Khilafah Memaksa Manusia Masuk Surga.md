@@ -1,17 +1,14 @@
 ---
 title: Khilafah Memaksa Manusia Masuk Surga
 date: '2020-01-15'
-draft: false
-series: []
-categories:
-- Khilafah
-- Dalil Khilafah
+author: www.abulwafaromli.com
+source: https://www.facebook.com/UstadzAbulwafaRomli/posts/1327809194057339
 tags:
 - Khilafah
 - Dalil Khilafah
-authors: www.abulwafaromli.com
-sumber: https://www.facebook.com/UstadzAbulwafaRomli/posts/1327809194057339
+draft: false
 ---
+
 **Penulis: www.abulwafaromli.com**
 
 Oleh : www.abulwafaromli.com

@@ -1,15 +1,13 @@
 ---
 title: Adab Meminta Dalil
 date: '2019-12-03'
-draft: false
-series: []
-categories:
-- Jawab
+author: Admin
+source: https://www.facebook.com/famhar68/posts/10217513068711021
 tags:
 - Jawab
-authors: Admin
-sumber: https://www.facebook.com/famhar68/posts/10217513068711021
+draft: false
 ---
+
 **Penulis: Admin**
 
 Kyai Idrus Romli pernah berkata,

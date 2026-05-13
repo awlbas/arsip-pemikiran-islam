@@ -1,17 +1,14 @@
 ---
 title: Belajar Kesungguhan Dari Tsumamah Bin Utsal Al Hanafi
 date: '2020-01-22'
-draft: false
-series: []
-categories:
-- Dakwah
-- Nafsiyah
+author: Admin
+source: https://www.facebook.com/yuanaryantID/posts/105078110873749
 tags:
 - Dakwah
 - Nafsiyah
-authors: Admin
-sumber: https://www.facebook.com/yuanaryantID/posts/105078110873749
+draft: false
 ---
+
 **Penulis: Admin**
 
 _(Pesan Dakwah di Balik Embargo Ekonomi atas Orang-Orang Kafir Quraisy)_

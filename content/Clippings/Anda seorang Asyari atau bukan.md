@@ -1,13 +1,11 @@
 ---
 title: Anda seorang Asy'ari atau bukan?
 source: https://www.facebook.com/ramaneranu/posts/pfbid0Vw1SHqi3sPh68a9A1qgfvSVcXcJDwdZH56qusqgonx5b7xW3CSP7skxQSy2xohP8l
-author:
-published:
-created: 2026-04-30
-description:
 tags:
-  - clippings
+- clippings
+draft: false
 ---
+
 Dengar² ada saudara² kita yg tak mau menjalin hubungan baik dan berbagi pikiran kecuali dengan kalangan Asy'ari.
 
 Kebanyakan ulama mutaakhirin yg kita "kenal" memang dikatakan merupakan Asy'ariyyun atau Asya'irah. Item pemikiran teologis Asy'ariyyah ada puluhan, sebagaimana ada di kitab² kalam yg klasik. Salah satu pemikiran yg unik dan terkenal adalah soal kasb dalam konteks hubungan antara amal hamba dengan Kehendak, dan Kekuasaan Allah untuk mencipta segala hal.

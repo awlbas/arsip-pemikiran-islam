@@ -1,15 +1,13 @@
 ---
 title: Metodologi Studi Islam
 date: '2020-01-20'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: Dr Hamid Fahmy Zarkasyi
+source: https://www.facebook.com/mustanironline/posts/1470376019769010
 tags:
 - Pemikiran
-authors: Dr Hamid Fahmy Zarkasyi
-sumber: https://www.facebook.com/mustanironline/posts/1470376019769010
+draft: false
 ---
+
 **Penulis: Dr Hamid Fahmy Zarkasyi**
 
 Oleh: Dr Hamid Fahmy Zarkasyi

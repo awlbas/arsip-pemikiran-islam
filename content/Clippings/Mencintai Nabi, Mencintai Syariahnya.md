@@ -1,14 +1,13 @@
 ---
 title: Mencintai Nabi, Mencintai Syariahnya
 date: '2019-11-19'
-draft: false
-series: []
-categories: []
+author: Admin
+source: https://www.facebook.com/yuanaryantID/posts/145453853502841
 tags:
 - tanpa-kategori
-authors: Admin
-sumber: https://www.facebook.com/yuanaryantID/posts/145453853502841
+draft: false
 ---
+
 **Penulis: Admin**
 
 Pada bulan yang istimewa ini, kaum Muslim senantiasa memperingati momentum maulid Nabi Muhammad –shallâLlâhu ‘alaihi wa sallam-, kelahiran sosok agung pembawa risalah Islam yang diutus Allah –Ta’âlâ- untuk seluruh umat manusia (kâffata li al-nâs, lihat: QS. Saba’ [34]: 28) dan sebagai rahmat bagi semesta alam (lihat: QS. Al-Anbiyâ’ [21]: 107).

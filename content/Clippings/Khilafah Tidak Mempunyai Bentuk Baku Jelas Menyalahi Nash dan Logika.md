@@ -1,15 +1,13 @@
 ---
 title: Khilafah Tidak Mempunyai Bentuk Baku? Jelas Menyalahi Nash dan Logika
 date: '2017-12-12'
-draft: false
-series: []
-categories:
-- Khilafah
+author: Hafidz Abdurrahman
+source: https://web.facebook.com/har1924/posts/859587534202160
 tags:
 - Khilafah
-authors: Hafidz Abdurrahman
-sumber: https://web.facebook.com/har1924/posts/859587534202160
+draft: false
 ---
+
 **Penulis: Hafidz Abdurrahman**
 
 Oleh: Hafidz Abdurrahman

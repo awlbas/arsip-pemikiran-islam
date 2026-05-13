@@ -1,9 +1,11 @@
 ---
-draft: No
+title: ''
 date: '2025-11-12'
-last edited time: 27 Desember 2025 06.22
-tags: My Note
+tags:
+- My Note
+draft: false
 ---
+
 ### Klasifikasi Pembelajar Fiqih
 
 Kita dapat mengklasifikasikan dua jenis orang yang belajar *Fiqih*

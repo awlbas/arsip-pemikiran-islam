@@ -1,17 +1,14 @@
 ---
 title: Studi Islam Untuk Kepentingan Siapa?
 date: '2019-12-09'
-draft: false
-series: []
-categories:
-- Pemikiran
-- Syarah
+author: Adian Husaini
+source: https://www.facebook.com/fansadianhusaini/posts/2079142902186779
 tags:
 - Pemikiran
 - Syarah
-authors: Adian Husaini
-sumber: https://www.facebook.com/fansadianhusaini/posts/2079142902186779
+draft: false
 ---
+
 **Penulis: Adian Husaini**
 
 Oleh: Adian Husaini

@@ -1,19 +1,15 @@
 ---
 title: Tantangan Orientalisme
 date: '2020-02-05'
-draft: false
-series: []
-categories:
-- Sekularisme
-- Pemikiran
-- Sejarah
+author: Dr. Syamsuddin Arif
+source: https://www.facebook.com/mustanironline/posts/1271935442946403
 tags:
 - Sekularisme
 - Pemikiran
 - Sejarah
-authors: Dr. Syamsuddin Arif
-sumber: https://www.facebook.com/mustanironline/posts/1271935442946403
+draft: false
 ---
+
 **Penulis: Dr. Syamsuddin Arif**
 
 Oleh: Dr. Syamsuddin Arif

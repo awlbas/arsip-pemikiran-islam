@@ -1,13 +1,12 @@
 ---
 title: Layanan Kesehatan - Hak Rakyat, Kewajiban Negara
 date: '2019-02-27'
-draft: false
-series: []
-categories: []
+author: Admin
 tags:
 - tanpa-kategori
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Buletin Kaffah no. 073, 6 Jumadil Awwal 1440 H – 11 Januari 2019 M

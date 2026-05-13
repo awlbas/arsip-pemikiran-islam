@@ -1,15 +1,13 @@
 ---
 title: Ideologi dan Teologi Liberal
 date: '2019-02-27'
-draft: false
-series: []
-categories:
-- Sekularisme
+author: Dr Hamid Fahmy Zarkasyi
+source: https://m.facebook.com/story.php?story_fbid=1308750562598224&id=153825841424041
 tags:
 - Sekularisme
-authors: Dr Hamid Fahmy Zarkasyi
-sumber: https://m.facebook.com/story.php?story_fbid=1308750562598224&id=153825841424041
+draft: false
 ---
+
 **Penulis: Dr Hamid Fahmy Zarkasyi**
 
 Oleh: Dr Hamid Fahmy Zarkasyi

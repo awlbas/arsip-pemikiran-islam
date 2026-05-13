@@ -1,17 +1,14 @@
 ---
 title: Syaikh Taqiyuddin Mantan Anggota Partai Komunis?
 date: '2019-12-17'
-draft: false
-series: []
-categories:
-- Jawab
-- Biografi
+author: www.abulwafaromli.com
+source: https://www.facebook.com/UstadzAbulwafaRomli/posts/1347468162091442
 tags:
 - Jawab
 - Biografi
-authors: www.abulwafaromli.com
-sumber: https://www.facebook.com/UstadzAbulwafaRomli/posts/1347468162091442
+draft: false
 ---
+
 **Penulis: www.abulwafaromli.com**
 
 Oleh : www.abulwafaromli.com

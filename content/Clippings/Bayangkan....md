@@ -1,14 +1,13 @@
 ---
 title: Bayangkan...
 date: '2023-06-12'
-draft: false
-series: []
-categories: []
+author: Admin
+source: https://www.facebook.com/faridmaruf.jogja/posts/pfbid02ua6PUrVYbFKyFFqmAbEb67uBZ3FeubgvPsY5NRTDAF2g62fxNUaaSPeKtLXqyztFl
 tags:
 - tanpa-kategori
-authors: Admin
-sumber: https://www.facebook.com/faridmaruf.jogja/posts/pfbid02ua6PUrVYbFKyFFqmAbEb67uBZ3FeubgvPsY5NRTDAF2g62fxNUaaSPeKtLXqyztFl
+draft: false
 ---
+
 **Penulis: Admin**
 
 Seseorang yang idealis kurang puas dengan sekolah yang ada.

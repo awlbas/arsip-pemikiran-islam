@@ -1,17 +1,14 @@
 ---
 title: Syaikh Taqiyyuddin Bodoh Tidak Lulus Studi Di Al Azhar?
 date: '2019-12-17'
-draft: false
-series: []
-categories:
-- Jawab
-- Biografi
+author: Admin
+source: https://www.facebook.com/UstadzAbulwafaRomli/posts/1345810662257192
 tags:
 - Jawab
 - Biografi
-authors: Admin
-sumber: https://www.facebook.com/UstadzAbulwafaRomli/posts/1345810662257192
+draft: false
 ---
+
 **Penulis: Admin**
 
 By Abulwafa Romli at Oktober 07, 2019

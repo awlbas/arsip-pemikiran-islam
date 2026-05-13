@@ -1,15 +1,13 @@
 ---
 title: Humanisme
 date: '2020-02-17'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: Dr. Hamid Fahmy Zarkasyi
+source: https://www.facebook.com/mustanironline/posts/1255679187905362
 tags:
 - Pemikiran
-authors: Dr. Hamid Fahmy Zarkasyi
-sumber: https://www.facebook.com/mustanironline/posts/1255679187905362
+draft: false
 ---
+
 **Penulis: Dr. Hamid Fahmy Zarkasyi**
 
 Oleh: Dr. Hamid Fahmy Zarkasyi

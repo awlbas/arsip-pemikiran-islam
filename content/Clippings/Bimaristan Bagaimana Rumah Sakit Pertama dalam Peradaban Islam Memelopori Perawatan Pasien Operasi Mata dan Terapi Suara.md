@@ -2,15 +2,13 @@
 title: Bimaristan - Bagaimana Rumah Sakit Pertama dalam Peradaban Islam Memelopori
   Perawatan Pasien Operasi Mata dan Terapi Suara
 date: '2023-08-29'
-draft: false
-series: []
-categories:
-- Khasanah
+author: Admin
+source: https://www.middleeasteye.net/discover/islam-hospitals-bimaristan-pioneered-eye-surgery-music-therapy
 tags:
 - Khasanah
-authors: Admin
-sumber: https://www.middleeasteye.net/discover/islam-hospitals-bimaristan-pioneered-eye-surgery-music-therapy
+draft: false
 ---
+
 **Penulis: Admin**
 
 Bimaristan adalah institusi abad pertengahan di Timur Tengah yang menghasilkan perubahan revolusioner dalam dunia medis dan kesehatan. Istilah ini berasal dari bahasa Persia yang artinya "tempat orang sakit." Bimaristan di dunia Arab dan Muslim menyediakan perawatan kesehatan kelas dunia pada zamannya, yang gratis bagi pasien. Semua pasien diterima tanpa memandang ras, agama, jenis kelamin, atau jenis penyakit, termasuk penyakit mental dan menular.

@@ -1,17 +1,14 @@
 ---
 title: Perilaku Khalifah Bukan Sumber Hukum
 date: '2020-01-28'
-draft: false
-series: []
-categories:
-- Jawab
-- Dalil Khilafah
+author: Admin
+source: https://www.facebook.com/hafidz.abdurrahman.984/posts/2103457876630629
 tags:
 - Jawab
 - Dalil Khilafah
-authors: Admin
-sumber: https://www.facebook.com/hafidz.abdurrahman.984/posts/2103457876630629
+draft: false
 ---
+
 **Penulis: Admin**
 
 Soal:

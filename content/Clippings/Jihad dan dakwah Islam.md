@@ -1,14 +1,13 @@
 ---
 title: Jihad dan dakwah Islam
 date: '2023-07-13'
-draft: false
-series: []
-categories: []
+author: Admin
+source: https://www.facebook.com/ramaneranu/posts/pfbid0HXwUHrkFNwgNVPQQbu87MopAJrsf671B2EfTas5vXCNUWH3AjFjuRHt2e2N4FVVal
 tags:
 - tanpa-kategori
-authors: Admin
-sumber: https://www.facebook.com/ramaneranu/posts/pfbid0HXwUHrkFNwgNVPQQbu87MopAJrsf671B2EfTas5vXCNUWH3AjFjuRHt2e2N4FVVal
+draft: false
 ---
+
 **Penulis: Admin**
 
 Seseorang berkata (kurang/lebih): "Kebenaran itu tak bisa ditentukan dengan perang atau adu kekuatan. Perang justru membuat orang tidak bisa mikir kebenaran Islam. Makanya, di Hudaibiyah, Rasulullah saw minta tak ada perang selama 10 tahun, asal diskusi dibebaskan. Hasilnya, orang jadi leluasa untuk berpikir, dan banyak yg masuk Islam."

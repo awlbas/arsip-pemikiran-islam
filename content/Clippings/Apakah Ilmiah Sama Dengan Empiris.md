@@ -1,13 +1,11 @@
 ---
 title: Apakah "Ilmiah" = Empiris
 source: https://www.facebook.com/fahmihasan91/posts/pfbid02ks3UTmrgQbrKpG6aLvE7p74gW9FLK3auRQnRaHQ4X9zWu4wjo2bJAj7ji5Pq1PYSl
-author:
-published:
-created: 2026-04-30
-description:
 tags:
-  - clippings
+- clippings
+draft: false
 ---
+
 APAKAH “ILMIAH” = EMPIRIS?
 
 Ada kecenderungan dalam sebagian kalangan untuk menyamakan makna “ilmiah” semata-mata dengan hal yang bersifat fisik dan empiris. Dalam pandangan ini, sesuatu dianggap ilmiah hanya jika dapat diamati, diukur, dan diuji melalui metode empiris.

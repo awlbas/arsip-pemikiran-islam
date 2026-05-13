@@ -1,13 +1,12 @@
 ---
 title: Umat Islam Dalam Arus Politik 2024
 date: '2023-05-25'
-draft: false
-series: []
-categories: []
+author: Admin
 tags:
 - tanpa-kategori
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Assalamualaikum kalau kita lihat sekarang partai-partai politik lagi mencari koalisi macam-macam lah terkait dengan capres ini saya apakah kesibukan partai politik ini untuk kepentingan rakyat atau semata-mata elit? 

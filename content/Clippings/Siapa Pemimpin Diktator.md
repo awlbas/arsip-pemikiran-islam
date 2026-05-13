@@ -1,14 +1,12 @@
 ---
 title: Siapa Pemimpin Diktator
 date: '2019-02-08'
-draft: false
-series: []
-categories:
-- Solusi
+author: Admin
 tags:
 - Solusi
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Setelah keruntuhan Khilafah di Turki tahun 1924, umat Islam di 

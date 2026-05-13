@@ -1,17 +1,14 @@
 ---
 title: Misi Paus Fransiskus
 date: '2019-12-20'
-draft: false
-series: []
-categories:
-- Sejarah
-- Pemikiran
+author: Dr. Adian Husaini
+source: https://www.facebook.com/mustanironline/posts/1487684741371471
 tags:
 - Sejarah
 - Pemikiran
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/mustanironline/posts/1487684741371471
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini

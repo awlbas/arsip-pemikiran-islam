@@ -1,15 +1,13 @@
 ---
 title: Agar Shalat Kita Diterima
 date: '2022-02-22'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: Admin
+source: https://www.facebook.com/1005666222/posts/10223190497763199/
 tags:
 - Nafsiyah
-authors: Admin
-sumber: https://www.facebook.com/1005666222/posts/10223190497763199/
+draft: false
 ---
+
 **Penulis: Admin**
 
 Riyadhus Sholihin, Kitab Al-Fadhail, Bab 193. Perintah Menjaga Shalat Wajib dan Larangan serta Ancaman yang Sangat Keras bagi yang Meninggalkannya

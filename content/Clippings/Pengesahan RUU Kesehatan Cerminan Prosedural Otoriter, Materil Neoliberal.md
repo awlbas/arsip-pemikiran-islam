@@ -1,14 +1,13 @@
 ---
 title: Pengesahan RUU Kesehatan - Cerminan Prosedural Otoriter, Materil Neoliberal
 date: '2023-07-14'
-draft: false
-series: []
-categories: []
+author: Admin
+source: https://www.facebook.com/photo/?fbid=1692634087883816&set=a.140310439782863
 tags:
 - tanpa-kategori
-authors: Admin
-sumber: https://www.facebook.com/photo/?fbid=1692634087883816&set=a.140310439782863
+draft: false
 ---
+
 **Penulis: Admin**
 
 Horeee...kabar gembira.. Pemerintah dan DPR akhirnya sahkan RUU Kesehatan menjadi UU dalam rapat paripurnah beberapa jam lalu.

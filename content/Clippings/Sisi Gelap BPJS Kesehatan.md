@@ -1,13 +1,12 @@
 ---
 title: Sisi Gelap BPJS Kesehatan
 date: '2019-02-27'
-draft: false
-series: []
-categories: []
+author: LM HTI
 tags:
 - tanpa-kategori
-authors: LM HTI
+draft: false
 ---
+
 **Penulis: LM HTI**
 
 http://helpsharia.com/2016/11/11/sisi-gelap-bpjs-kesehatan/ 

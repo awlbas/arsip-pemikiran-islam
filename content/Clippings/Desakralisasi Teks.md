@@ -1,17 +1,14 @@
 ---
 title: Desakralisasi Teks
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Sekularisme
-- Pemikiran
+author: Admin
+source: https://www.facebook.com/mustanironline/posts/1335964306543516
 tags:
 - Sekularisme
 - Pemikiran
-authors: Admin
-sumber: https://www.facebook.com/mustanironline/posts/1335964306543516
+draft: false
 ---
+
 **Penulis: Admin**
 
 Jika banyak orang melihat sekularisme sebagai suatu aliran pemikiran

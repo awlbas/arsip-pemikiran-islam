@@ -1,15 +1,13 @@
 ---
 title: Bohong
 date: '2019-07-04'
-draft: false
-series: []
-categories:
-- Ibrah
+author: Arief B. Iskandar
+source: https://www.facebook.com/penulisinspiratif/posts/2189582928025379
 tags:
 - Ibrah
-authors: Arief B. Iskandar
-sumber: https://www.facebook.com/penulisinspiratif/posts/2189582928025379
+draft: false
 ---
+
 **Penulis: Arief B. Iskandar**
 
 Oleh: Arief B. Iskandar

@@ -1,13 +1,12 @@
 ---
 title: Fenomena Khilafatul Muslimin (Menanggapi video viral)
 date: '2022-06-08'
-draft: false
-series: []
-categories: []
+author: Abulwafa Romli
 tags:
 - tanpa-kategori
-authors: Abulwafa Romli
+draft: false
 ---
+
 **Penulis: Abulwafa Romli**
 
 Oleh : Abulwafa Romli

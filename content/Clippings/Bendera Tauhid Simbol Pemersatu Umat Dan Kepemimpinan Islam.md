@@ -1,15 +1,13 @@
 ---
 title: Bendera Tauhid - Simbol Pemersatu Umat Dan Kepemimpinan Islam
 date: '2020-02-17'
-draft: false
-series: []
-categories:
-- Jawab
+author: Admin
+source: https://www.facebook.com/ismailyusanto.official/posts/1786188941489763
 tags:
 - Jawab
-authors: Admin
-sumber: https://www.facebook.com/ismailyusanto.official/posts/1786188941489763
+draft: false
 ---
+
 **Penulis: Admin**
 
 Bendera (al-alam) termasuk perkara yang dicontohkan oleh Rasulullah saw, juga Khulafaur-Rasyidin sesudah beliau. Bendera Rasulullah saw ada dua macam yaitu Al-Liwa (bendera putih) dan ar-Rayah (bendera hitam) bertuliskan: Lâ ilâha illalLâh Muhammad rasûlulLâh.

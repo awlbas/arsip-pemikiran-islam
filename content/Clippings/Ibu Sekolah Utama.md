@@ -1,21 +1,16 @@
 ---
 title: Ibu - "Sekolah Utama"
 date: '2020-01-30'
-draft: false
-series: []
-categories:
-- Tarikh
-- Biografi
-- Solusi
-- Nafsiyah
+author: Arief B. Iskandar
+source: https://www.facebook.com/penulisinspiratif/posts/2169385213378484
 tags:
 - Tarikh
 - Biografi
 - Solusi
 - Nafsiyah
-authors: Arief B. Iskandar
-sumber: https://www.facebook.com/penulisinspiratif/posts/2169385213378484
+draft: false
 ---
+
 **Penulis: Arief B. Iskandar**
 
 Oleh: Arief B. Iskandar

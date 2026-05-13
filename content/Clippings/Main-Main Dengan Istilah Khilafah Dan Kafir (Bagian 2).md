@@ -1,15 +1,13 @@
 ---
 title: Main-Main Dengan Istilah Khilafah Dan Kafir (Bagian 2)
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Jawab
+author: Admin
+source: https://www.facebook.com/iwanjanuar/posts/10213687977099537
 tags:
 - Jawab
-authors: Admin
-sumber: https://www.facebook.com/iwanjanuar/posts/10213687977099537
+draft: false
 ---
+
 **Penulis: Admin**
 
 “Coba tunjukkan dalil dalam al-Qur’an yang mewajibkan khilafah?!” 

@@ -1,17 +1,14 @@
 ---
 title: Kekuasan Yang Menjaga (Hukum) Agama
 date: '2019-07-04'
-draft: false
-series: []
-categories:
-- Dakwah
-- Pemikiran
+author: Admin
+source: https://www.facebook.com/rushside.ridho/posts/10215647155071085
 tags:
 - Dakwah
 - Pemikiran
-authors: Admin
-sumber: https://www.facebook.com/rushside.ridho/posts/10215647155071085
+draft: false
 ---
+
 **Penulis: Admin**
 
 Ada salah satu scene dakwah yang menarik pada fase Makkiyah. Nabi 

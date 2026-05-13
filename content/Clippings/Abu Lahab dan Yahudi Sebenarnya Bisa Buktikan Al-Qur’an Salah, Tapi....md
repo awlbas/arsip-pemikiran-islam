@@ -1,17 +1,14 @@
 ---
 title: Abu Lahab dan Yahudi Sebenarnya Bisa Buktikan Al-Qur’an Salah, Tapi...
 date: '2019-07-08'
-draft: false
-series: []
-categories:
-- Ibrah
-- Demokrasi
+author: Joko Prasetyo
+source: https://www.facebook.com/dinakbar.akbar/posts/410393143034905
 tags:
 - Ibrah
 - Demokrasi
-authors: Joko Prasetyo
-sumber: https://www.facebook.com/dinakbar.akbar/posts/410393143034905
+draft: false
 ---
+
 **Penulis: Joko Prasetyo**
 
 Oleh : Joko Prasetyo 

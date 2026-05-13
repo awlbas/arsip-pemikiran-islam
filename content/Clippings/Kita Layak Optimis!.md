@@ -1,17 +1,14 @@
 ---
 title: Kita Layak Optimis!
 date: '2019-07-04'
-draft: false
-series: []
-categories:
-- Dakwah
-- Nafsiyah
+author: Arief B. Iskandar
+source: https://www.facebook.com/penulisinspiratif/posts/2207274686256203
 tags:
 - Dakwah
 - Nafsiyah
-authors: Arief B. Iskandar
-sumber: https://www.facebook.com/penulisinspiratif/posts/2207274686256203
+draft: false
 ---
+
 **Penulis: Arief B. Iskandar**
 
 Oleh: Arief B. Iskandar

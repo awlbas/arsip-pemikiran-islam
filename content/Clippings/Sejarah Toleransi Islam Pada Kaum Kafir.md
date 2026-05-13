@@ -1,15 +1,13 @@
 ---
 title: Sejarah Toleransi Islam Pada Kaum Kafir
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Sejarah
+author: Dr. Adian Husaini
+source: https://www.facebook.com/fansadianhusaini/posts/1714245395343200
 tags:
 - Sejarah
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/fansadianhusaini/posts/1714245395343200
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini

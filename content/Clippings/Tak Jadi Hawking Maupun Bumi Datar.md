@@ -1,13 +1,12 @@
 ---
 title: Tak Jadi Hawking Maupun Bumi Datar
 date: '2020-03-16'
-draft: false
-series: []
-categories: []
+author: Admin
 tags:
 - tanpa-kategori
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Prof. Dr.-Ing. Fahmi Amhar

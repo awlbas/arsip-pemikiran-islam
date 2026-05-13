@@ -2,17 +2,14 @@
 title: Bisyarah Tegaknya Khilafah di Akhir Zaman (Bag. II) - Kritik Atas Nadirsyah
   Terkait QS. Al-Nûr [24] - 55
 date: '2019-07-01'
-draft: false
-series: []
-categories:
-- Jawab
-- Dalil Khilafah
+author: Admin
+source: http://www.irfanabunaveed.net/2019/06/bisyarah-tegaknya-khilafah-di-akhir_29.html
 tags:
 - Jawab
 - Dalil Khilafah
-authors: Admin
-sumber: http://www.irfanabunaveed.net/2019/06/bisyarah-tegaknya-khilafah-di-akhir_29.html
+draft: false
 ---
+
 **Penulis: Admin**
 
 Irfan Abu Naveed

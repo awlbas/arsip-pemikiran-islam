@@ -1,15 +1,13 @@
 ---
 title: Chaliphatization
 date: '2019-07-02'
-draft: false
-series: []
-categories:
-- Hizbut Tahrir
+author: Admin
+source: https://www.facebook.com/abu.zaid.904/posts/10213480072748833
 tags:
 - Hizbut Tahrir
-authors: Admin
-sumber: https://www.facebook.com/abu.zaid.904/posts/10213480072748833
+draft: false
 ---
+
 **Penulis: Admin**
 
 Beberapa waktu lalu, via email saya menerima kiriman soft copy tesis

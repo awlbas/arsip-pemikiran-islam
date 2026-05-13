@@ -1,15 +1,13 @@
 ---
 title: Rasulullah SAW Tidak Berkompromi dalam Penegakkan Hudud (Syari’at Islam)
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Dalil Khilafah
+author: Admin
+source: https://irfanabunaveed.wordpress.com/2013/04/30/rasulullah-shallallaahu-alayhi-wa-sallam-tidak-bermusyawarah-dalam-penegakkan-hudud-syariat-islam/
 tags:
 - Dalil Khilafah
-authors: Admin
-sumber: https://irfanabunaveed.wordpress.com/2013/04/30/rasulullah-shallallaahu-alayhi-wa-sallam-tidak-bermusyawarah-dalam-penegakkan-hudud-syariat-islam/
+draft: false
 ---
+
 **Penulis: Admin**
 
 Rasulullah SAW tidak bermusyawarah dan tidak mengambil suara terbanyak (berkompromi) dalam menegakkan hukum syari’at Islam, salah satu contohnya sangat jelas sikap Rasulullah SAW ketika ada di antara sahabat yang meminta pengampunan atas sanksi had.

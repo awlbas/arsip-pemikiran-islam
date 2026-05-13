@@ -1,15 +1,13 @@
 ---
 title: Orang Nusantara Masuk Islam Sejak Masa Khalifah Umar
 date: '2024-02-20'
-draft: false
-series: []
-categories:
-- Sejarah
+author: Admin
+source: https://www.blogger.com/blog/post/edit/8760101124199189455/4275239349824299022
 tags:
 - Sejarah
-authors: Admin
-sumber: https://www.blogger.com/blog/post/edit/8760101124199189455/4275239349824299022
+draft: false
 ---
+
 **Penulis: Admin**
 
 Sekitar dua Minggu lalu, saat sedang membuka Tarikh Thabari di bab yang menjelaskan efek Perang Jamal di Madinah saya menemukan keterangan begini:

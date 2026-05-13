@@ -1,14 +1,13 @@
 ---
 title: Kenapa Mereka Melawan..?
 date: '2023-06-27'
-draft: false
-series: []
-categories: []
+author: Admin
+source: https://www.facebook.com/photo/?fbid=10220677032623843&set=a.1617249679254
 tags:
 - tanpa-kategori
-authors: Admin
-sumber: https://www.facebook.com/photo/?fbid=10220677032623843&set=a.1617249679254
+draft: false
 ---
+
 **Penulis: Admin**
 
 ©Ni’mat Al Azizi

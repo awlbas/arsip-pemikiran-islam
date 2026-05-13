@@ -1,21 +1,16 @@
 ---
 title: Pelayanan Kesehatan Dalam Sejarah Khilafah
 date: '2020-01-06'
-draft: false
-series: []
-categories:
-- Khilafah
-- Sejarah
-- Solusi
-- Kesehatan
+author: Admin
+source: https://www.facebook.com/famhar68/posts/10218085494341304
 tags:
 - Khilafah
 - Sejarah
 - Solusi
 - Kesehatan
-authors: Admin
-sumber: https://www.facebook.com/famhar68/posts/10218085494341304
+draft: false
 ---
+
 **Penulis: Admin**
 
 Prof. Dr. Fahmi Amhar

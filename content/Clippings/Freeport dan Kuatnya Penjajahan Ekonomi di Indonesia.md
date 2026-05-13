@@ -1,17 +1,14 @@
 ---
 title: Freeport dan Kuatnya Penjajahan Ekonomi di Indonesia
 date: '2020-02-05'
-draft: false
-series: []
-categories:
-- Ekonomi
-- Kapitalisme
+author: Admin
+source: https://www.facebook.com/majalahalwaie/posts/295832341139133
 tags:
 - Ekonomi
 - Kapitalisme
-authors: Admin
-sumber: https://www.facebook.com/majalahalwaie/posts/295832341139133
+draft: false
 ---
+
 **Penulis: Admin**
 
 Kasus Freeport kembali menjadi polemik. Terutama setelah Presiden Jokowi menyatakan bahwa Holding Badan Usaha Milik Negara (BUMN) tambang PT Inalum telah mencapai kesepakatan dengan Freeport McMoran soal akuisisi saham 51 persen saham PT Freeport Indonesia. Dengan adanya kesepakatan ini, Indonesia akan menguasai 51 persen saham Freeport yang beroperasi di Papua. Sebelumnya, Indonesia hanya memiliki 9,36 persen saham perusahaan asal Amerika Serikat (AS) itu.

@@ -1,19 +1,15 @@
 ---
 title: Al-Ahkam As-Sulthaniyah dan Pemikiran Kenegaraan dalam Islam
 date: '2020-02-19'
-draft: false
-series: []
-categories:
-- Khilafah
-- Sejarah
-- Barat
+author: Dr. Adian Husaini
+source: https://www.facebook.com/mustanironline/posts/1236761413130473
 tags:
 - Khilafah
 - Sejarah
 - Barat
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/mustanironline/posts/1236761413130473
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini

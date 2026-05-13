@@ -1,12 +1,10 @@
 ---
-title: '2 (DUA) TEKS PENDEK PENENTU TITIK BELOK PERADABAN: UMMUL BARĀHĪN DAN TAFSĪR JALĀLAYN'
+title: '2 (DUA) TEKS PENDEK PENENTU TITIK BELOK PERADABAN: UMMUL BARĀHĪN DAN TAFSĪR
+  JALĀLAYN'
 source: https://www.facebook.com/photo/?fbid=10239818936559022&set=a.1422447488865
-author:
-published:
-created: 2026-04-30
-description:
 tags:
-  - clippings
+- clippings
+draft: false
 ---
 
 Dalam kalkulus, ada konsep yang disebut titik belok (inflection point): titik di mana sebuah kurva mengubah arah kelengkungannya — dari cekung menjadi cembung, atau sebaliknya. Sebelum titik itu, fungsi bergerak ke satu arah. Setelah titik itu, arah berubah. Dan perubahan itu tidak bisa dibaca hanya dengan melihat nilai fungsi di satu titik — ia hanya terlihat ketika kita membaca turunan kedua, ketika kita peka terhadap perubahan dari perubahan.  

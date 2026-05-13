@@ -1,14 +1,13 @@
 ---
 title: Kemulian Kajian Pemikiran
 date: '2023-06-26'
-draft: false
-series: []
-categories: []
+author: Admin
+source: https://www.facebook.com/erwin.wahyu/posts/pfbid0hE1fAekPeymCjejaTHwnYfq9gjf91e5xwNQKWswUfnNGUzxRSwkZEPnXcEp392Fsl
 tags:
 - tanpa-kategori
-authors: Admin
-sumber: https://www.facebook.com/erwin.wahyu/posts/pfbid0hE1fAekPeymCjejaTHwnYfq9gjf91e5xwNQKWswUfnNGUzxRSwkZEPnXcEp392Fsl
+draft: false
 ---
+
 **Penulis: Admin**
 
 KEMULIAAN KAJIAN PEMIKIRAN

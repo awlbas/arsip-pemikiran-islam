@@ -1,15 +1,13 @@
 ---
 title: Berdakwah Dengan Akhlak
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Dakwah
+author: Admin
+source: https://www.facebook.com/amuluk/posts/10156283476199176
 tags:
 - Dakwah
-authors: Admin
-sumber: https://www.facebook.com/amuluk/posts/10156283476199176
+draft: false
 ---
+
 **Penulis: Admin**
 
 Mungkin sudah puluhan kali ketika kita berdakwah, ada orang-orang 

@@ -1,15 +1,13 @@
 ---
 title: Kekuatan Logika – Logika Kekuatan
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Hizbut Tahrir
+author: HM. Ismail Yusanto
+source: https://www.facebook.com/photo.php?fbid=1481342385335422
 tags:
 - Hizbut Tahrir
-authors: HM. Ismail Yusanto
-sumber: https://www.facebook.com/photo.php?fbid=1481342385335422
+draft: false
 ---
+
 **Penulis: HM. Ismail Yusanto**
 
 Oleh : HM. Ismail Yusanto

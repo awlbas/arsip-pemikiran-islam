@@ -1,14 +1,10 @@
 ---
-title: null
-draft: false
-series: []
-categories:
-- Sejarah
+title: ''
 tags:
 - Sejarah
-authors: null
-sumber: null
+draft: false
 ---
+
 Pada tahun 1425, ada seorang pedagang Mesir bernama Ahmad bin al-Humaim yang membawa barang dagangannya dan mengangkutnya dengan kapal dari kota Tripoli di Syam menuju Mesir, penuh dengan sabun dan berbagai material lainnya.  
 Sebelum kapal-kapal milik Ibn al-Humaim tiba di Pelabuhan Damietta, kapal-kapal pasukan salib dari Siprus menghadangnya, merampas kapal-kapal itu, menjarah muatannya, dan membawanya ke Siprus.  
   

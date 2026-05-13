@@ -1,15 +1,13 @@
 ---
 title: Memahami Khilafah Dengan Ilmu Nahwu
 date: '2019-11-21'
-draft: false
-series: []
-categories:
-- Dalil Khilafah
+author: Admin
+source: https://www.facebook.com/UstadzAbulwafaRomli/posts/1375191362652455
 tags:
 - Dalil Khilafah
-authors: Admin
-sumber: https://www.facebook.com/UstadzAbulwafaRomli/posts/1375191362652455
+draft: false
 ---
+
 **Penulis: Admin**
 
 By Abulwafa Romli at November 06, 2019

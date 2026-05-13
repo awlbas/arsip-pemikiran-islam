@@ -1,14 +1,12 @@
 ---
 title: Mengapa Banyak Ilmuan Yang Atheis Atau Sekuler?
 date: '2019-11-15'
-draft: false
-series: []
-categories:
-- Akidah
+author: Ust. Choirul Anam
 tags:
 - Akidah
-authors: Ust. Choirul Anam
+draft: false
 ---
+
 **Penulis: Ust. Choirul Anam**
 
 Oleh Ust. Choirul Anam

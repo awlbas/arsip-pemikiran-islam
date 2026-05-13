@@ -1,15 +1,13 @@
 ---
 title: Pendapat Al-Imam Al-Mawardi Tentang Kesatuan Khalifah
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Dalil Khilafah
+author: Admin
+source: https://www.facebook.com/ust.rokhmat.s.labib/posts/1729245540465971
 tags:
 - Dalil Khilafah
-authors: Admin
-sumber: https://www.facebook.com/ust.rokhmat.s.labib/posts/1729245540465971
+draft: false
 ---
+
 **Penulis: Admin**
 
 Nama lengkapnya Abu al-Hasan Ali bin Muhammad bin Habib al-Mawardi. 

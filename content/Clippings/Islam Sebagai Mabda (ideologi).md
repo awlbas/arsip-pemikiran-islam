@@ -1,15 +1,13 @@
 ---
 title: Islam Sebagai Mabda (ideologi)
 date: '2019-07-04'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: sebab itu, kata “ideologi” yang dirangkaikan dengan “Islam”
+source: https://www.facebook.com/PendriMuhammadFatih/photos/a.121885948501932/121885288501998/
 tags:
 - Pemikiran
-authors: sebab itu, kata “ideologi” yang dirangkaikan dengan “Islam”
-sumber: https://www.facebook.com/PendriMuhammadFatih/photos/a.121885948501932/121885288501998/
+draft: false
 ---
+
 **Penulis: sebab itu, kata “ideologi” yang dirangkaikan dengan “Islam”**
 
 Pendahuluan

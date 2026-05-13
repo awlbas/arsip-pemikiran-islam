@@ -1,17 +1,14 @@
 ---
 title: Al Hajib Al Manzor
 date: '2019-07-04'
-draft: false
-series: []
-categories:
-- Sejarah
-- Khasanah
+author: Admin
+source: https://www.facebook.com/101623296703350/photos/a.641069509425390/968737869991884
 tags:
 - Sejarah
 - Khasanah
-authors: Admin
-sumber: https://www.facebook.com/101623296703350/photos/a.641069509425390/968737869991884
+draft: false
 ---
+
 **Penulis: Admin**
 
 Laki-laki ini, berhasil membuat dunia Eropa berpesta ria saat dia meninggal!

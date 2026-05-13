@@ -1,15 +1,13 @@
 ---
 title: Pendidikan Islam Pra Sistem Madrasah
 date: '2024-02-20'
-draft: false
-series: []
-categories:
-- Pendidikan
+author: Admin
+source: https://www.facebook.com/ahmadabdurrahman.alkhaddami/posts/pfbid02dapk2fnoVdEKs2Jq87TGTN23PAJuv3ZjBY2Vp9gFE72CeL7VCKnJzB9EAkTNHQWUl
 tags:
 - Pendidikan
-authors: Admin
-sumber: https://www.facebook.com/ahmadabdurrahman.alkhaddami/posts/pfbid02dapk2fnoVdEKs2Jq87TGTN23PAJuv3ZjBY2Vp9gFE72CeL7VCKnJzB9EAkTNHQWUl
+draft: false
 ---
+
 **Penulis: Admin**
 
 Di masa awal, pendidikan Islam tidak mengenal sistem madrasah, jami'ah, klasikal, multimedia, platform online dan sebagainya. Namun bukan berarti kualitas pendidikan masa lalu "lebih buruk" dari era modern saat ini. Meskipun jika diukur dengan standar masa kini, pendidikan Islam di masa awal Islam hanya "sekedar" pendidikan informal dan non-formal, tetap saja kualitas nya jauh lebih baik dan berhasil menjamin masyarakat Islam di masa itu sebagai teladan generasi, sebagaimana sabda Nabi صلى الله عليه وآله وسلم :

@@ -1,13 +1,11 @@
 ---
-title: null
-draft: false
-series: []
-categories: null
+title: ''
+source: https://www.facebook.com/watch/?ref=saved&v=1643764633065566
 tags:
 - tanpa-kategori
-authors: null
-sumber: https://www.facebook.com/watch/?ref=saved&v=1643764633065566
+draft: false
 ---
+
 1. Membaca Pemikiran Akidah Imam Muhammad Taqiyyuddin An Nabhani ra dan murid-muridnya ha harusnya gunakan teori Qot’i dan Dzonni, sebagaimana kita membaca Pemikiran Ulama Aswaja (Asyairoh Maturidiyah). Tanpa gunakan teori Qot’i dan Dzonni kita bisa terpapar gaya pemikiran Kelompok Takfiri, baik takfiri dari salafi maupun takfiri dari asyari. Kelompok Ahbasy adalah di antara Kelompok Takfiri yang banyak mengajarkan kitab-kitab Asyairoh.
 
 2. Teori Qot’i/Tasdiq Jazim dalam mendefinisikan akidah bukan hanya disebutkan oleh Imam Al-Jurjani ra dalam mendefinisikan akidah, sebagaimana dikutib Syaikhul Azhar Ahmad At Toyyib ha (sila baca ibarohnya di [https://t.me/SantriGarisLurus](https://l.facebook.com/l.php?u=https%3A%2F%2Ft.me%2FSantriGarisLurus%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExV21PNEtSenBlcWNFSnhIWXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4vk8fyKW83hEZJBO0TN1zLHCVahUPk76VZ40Y7VprRAhdKUMbrmU84NmHU8A_aem_YGOwK_L0OGKM2Dl3aywvNA&h=AT62mxlUSj9Xx-hU_qLh1asB_hJ8_DETj0S4y2XavwNe93m4ZoAKgaRVnk4jYoTPk7y17C8fFdYO47PDqu_xfw9EPBeULQ9uZeAM2jLLi3EAZKaqFGkyMi40QlrbHRxm7zZYTCEh&__tn__=-UK) ), akan tetapi juga didefinisikan oleh Imam Al Ghozali ra dalam kitabnya Iljamul ‘Awam ‘an ‘Ilmil Kalam , beliau ra mengatakan:

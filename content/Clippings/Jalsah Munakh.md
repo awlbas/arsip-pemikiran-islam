@@ -1,13 +1,12 @@
 ---
 title: Jalsah Munakh
 date: '2024-12-18'
-draft: false
-series: []
-categories: []
+author: Admin
 tags:
 - tanpa-kategori
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Kata مناخ itu diartikan sebagai tempat istirahat, yakni tempat istirahat orang-orang yang melakukan perjalanan, umumnya perjalanan yang memakai unta.

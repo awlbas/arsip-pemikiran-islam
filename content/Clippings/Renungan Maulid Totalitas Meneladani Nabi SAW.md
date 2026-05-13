@@ -1,15 +1,13 @@
 ---
 title: Renungan Maulid - Totalitas Meneladani Nabi SAW
 date: '2020-02-06'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: Admin
+source: https://www.facebook.com/buletinkaffah2017/posts/492536011267505
 tags:
 - Nafsiyah
-authors: Admin
-sumber: https://www.facebook.com/buletinkaffah2017/posts/492536011267505
+draft: false
 ---
+
 **Penulis: Admin**
 
 Mengenang momentum kelahiran Nabi saw. sangatlah penting. Terutama sebagai upaya memfokuskan kembali perhatian kita pada sosok manusia yang paling berjasa sepanjang peradaban. Tidak lain agar kita mampu menjadikan beliau sebagai satu-satunya sosok pegangan, model perilaku dan suri teladan (uswah) dalam semua aspek kehidupan.

@@ -1,15 +1,13 @@
 ---
 title: Hormon Kelima Kebahagiaan?
 date: '2019-12-16'
-draft: false
-series: []
-categories:
-- Khasanah
+author: Admin
+source: https://www.facebook.com/famhar68/posts/10217352339852900
 tags:
 - Khasanah
-authors: Admin
-sumber: https://www.facebook.com/famhar68/posts/10217352339852900
+draft: false
 ---
+
 **Penulis: Admin**
 
 Para ilmuwan dari mazhab materialisme mencoba menghubungkan kebahagiaan dengan materi yang ada dalam tubuh manusia. Muncullah teori "hormon kebahagiaan". Seperti apa? Ini dia:

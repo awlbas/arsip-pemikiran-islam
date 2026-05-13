@@ -1,14 +1,12 @@
 ---
 title: Pandangan Habib Umar Bin Hafidz Tentang Khilafah
 date: '2019-10-21'
-draft: false
-series: []
-categories:
-- Dalil Khilafah
+author: Admin
 tags:
 - Dalil Khilafah
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Terkait Khilafah, Habib Umar bin Hafidz pernah menjelaskan secara panjang yang InsyaAllah mampu mengobati dahaga kaum Muslimin yang ingin mengetahui tentang Khilafah, apa yang terpenting bagi umat Islam dan bagaimana sikap umat Islam?

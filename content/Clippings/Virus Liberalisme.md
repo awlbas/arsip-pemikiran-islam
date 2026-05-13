@@ -1,15 +1,13 @@
 ---
 title: Virus Liberalisme
 date: '2020-01-29'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: Admin
+source: https://www.facebook.com/ryo.hariyadi/posts/10210087659987474
 tags:
 - Pemikiran
-authors: Admin
-sumber: https://www.facebook.com/ryo.hariyadi/posts/10210087659987474
+draft: false
 ---
+
 **Penulis: Admin**
 
 Banyak sekali sekarang pemikiran-pemikiran yg berbahaya.. misalnya di TV ada tokoh-tokoh yg mengatakan :

@@ -1,15 +1,13 @@
 ---
 title: Katanya Dalil Tidak Wajib Berjilbab
 date: '2020-01-22'
-draft: false
-series: []
-categories:
-- Jawab
+author: Admin
+source: https://www.facebook.com/permalink.php?story_fbid=1446546458854063&id=100004961672711
 tags:
 - Jawab
-authors: Admin
-sumber: https://www.facebook.com/permalink.php?story_fbid=1446546458854063&id=100004961672711
+draft: false
 ---
+
 **Penulis: Admin**
 
 📌Katanya dalil tidak wajib berjilbab

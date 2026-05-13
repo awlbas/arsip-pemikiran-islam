@@ -1,17 +1,14 @@
 ---
 title: Al-Ahkam As-Sulthaniyah Dan Pemikiran Kenagaraan Dalam Islam
 date: '2020-01-23'
-draft: false
-series: []
-categories:
-- Jawab
-- Dalil Khilafah
+author: Dr. Adian Husaini
+source: https://www.facebook.com/bdwi.54/posts/10215250851812087
 tags:
 - Jawab
 - Dalil Khilafah
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/bdwi.54/posts/10215250851812087
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini

@@ -1,13 +1,12 @@
 ---
 title: Pemikiran Liberal Di Dunia Arab
 date: '2023-07-14'
-draft: false
-series: []
-categories: []
+author: Dr Nirwan Syafrin
 tags:
 - tanpa-kategori
-authors: Dr Nirwan Syafrin
+draft: false
 ---
+
 **Penulis: Dr Nirwan Syafrin**
 
 Oleh: Dr Nirwan Syafrin

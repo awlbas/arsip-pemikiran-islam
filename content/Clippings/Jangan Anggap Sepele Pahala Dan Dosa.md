@@ -1,15 +1,13 @@
 ---
 title: Jangan Anggap Sepele Pahala Dan Dosa
 date: '2024-02-20'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: Al-Faqir Arief B. Iskandar
+source: https://ariefbiskandar.com/jangan-anggap-sepele-pahala-dan-dosa/?fbclid=IwAR0E4Xw_bgqb2HefFowGgwXGsgA7MZhGP-E0AqUfXV5l91DaXsZKCv6kPtA
 tags:
 - Nafsiyah
-authors: Al-Faqir Arief B. Iskandar
-sumber: https://ariefbiskandar.com/jangan-anggap-sepele-pahala-dan-dosa/?fbclid=IwAR0E4Xw_bgqb2HefFowGgwXGsgA7MZhGP-E0AqUfXV5l91DaXsZKCv6kPtA
+draft: false
 ---
+
 **Penulis: Al-Faqir Arief B. Iskandar**
 
 Oleh: Al-Faqir Arief B. Iskandar

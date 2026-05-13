@@ -1,15 +1,13 @@
 ---
 title: Umat Islam Tidak Boleh Keren?
 date: '2019-10-21'
-draft: false
-series: []
-categories:
-- Fiqih
+author: Admin
+source: https://www.facebook.com/AMIzzulhaq/posts/2546334232102007
 tags:
 - Fiqih
-authors: Admin
-sumber: https://www.facebook.com/AMIzzulhaq/posts/2546334232102007
+draft: false
 ---
+
 **Penulis: Admin**
 
 Imam Abu Nu’aim menceritakan bahwa Imam Abu Hanifah (salah satu Imam Madzhab, madzhabnya disebut Madzhab Hanafi–terkenal sebagai madzhab yang paling terbuka kepada ide modern) berparas tampan, jenggotnya rapi, pakaiannya bagus, sandalnya bagus, dan dermawan bagi orang di sekelilingnya. (Akhbar Abi Hanifah, halaman 16).

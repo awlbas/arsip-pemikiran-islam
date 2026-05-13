@@ -1,17 +1,14 @@
 ---
 title: UU Administratif Termasuk UU Lalu Lintas dan Hukum Syara’ Tentangnya
 date: '2019-06-18'
-draft: false
-series: []
-categories:
-- Jawab
-- Fiqih
+author: penguasa yang tidak syar’iy atau penguasa non muslim, tetapi
+source: https://www.facebook.com/ust.rokhmat.s.labib/posts/2348964115160774
 tags:
 - Jawab
 - Fiqih
-authors: penguasa yang tidak syar’iy atau penguasa non muslim, tetapi
-sumber: https://www.facebook.com/ust.rokhmat.s.labib/posts/2348964115160774
+draft: false
 ---
+
 **Penulis: penguasa yang tidak syar’iy atau penguasa non muslim, tetapi**
 
 بسم الله الرحمن الرحيم 

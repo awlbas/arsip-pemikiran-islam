@@ -1,9 +1,11 @@
 ---
-draft: No
+title: ''
 date: '2025-12-13'
-last edited time: 27 Desember 2025 06.22
-tags: My Note
+tags:
+- My Note
+draft: false
 ---
+
 ini merupakan kejadian yang belum pernah terjadi sebelumnya, banjir yang menelawan korban jiwa, dan kehilangan harta benda. angka terakhir sampai 900 yang hilang juga masih ada ratusan mungkin kehilangan nya bisa 1000 an korban nyawa, pulahan ribu bangunan dan fasilitas umum, bahkan binatang monyet, harimau gajah dll.
 
 kemudian bagaimana respon orang-orang yang harus bertanggung jawab, 

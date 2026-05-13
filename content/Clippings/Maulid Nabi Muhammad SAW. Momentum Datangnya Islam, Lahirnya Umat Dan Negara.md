@@ -1,15 +1,13 @@
 ---
 title: Maulid Nabi Muhammad SAW. Momentum Datangnya Islam, Lahirnya Umat Dan Negara
 date: '2019-11-21'
-draft: false
-series: []
-categories:
-- Biografi
+author: KH Hafidz Abdurrahman
+source: https://www.facebook.com/hafidz.abdurrahman.984/posts/2166474353662314
 tags:
 - Biografi
-authors: KH Hafidz Abdurrahman
-sumber: https://www.facebook.com/hafidz.abdurrahman.984/posts/2166474353662314
+draft: false
 ---
+
 **Penulis: KH Hafidz Abdurrahman**
 
 MAULID NABI MUHAMMAD SAW.

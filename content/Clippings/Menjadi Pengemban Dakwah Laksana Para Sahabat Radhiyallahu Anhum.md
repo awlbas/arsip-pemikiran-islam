@@ -1,14 +1,12 @@
 ---
 title: Menjadi Pengemban Dakwah Laksana Para Sahabat Radhiyallahu Anhum
 date: '2023-09-06'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: Admin
 tags:
 - Nafsiyah
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 abu zaid

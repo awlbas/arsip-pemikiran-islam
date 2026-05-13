@@ -1,14 +1,12 @@
 ---
 title: Khilafah di Tolak Karena Tidak Sesuai Kepentingan Mereka
 date: '2019-10-15'
-draft: false
-series: []
-categories:
-- Dakwah
+author: Adi Victoria
 tags:
 - Dakwah
-authors: Adi Victoria
+draft: false
 ---
+
 **Penulis: Adi Victoria**
 
 Oleh : Adi Victoria 

@@ -1,14 +1,12 @@
 ---
 title: Mewaspadai Kepemimpinan Orang-Orang Bodoh
 date: '2019-02-27'
-draft: false
-series: []
-categories:
-- 2014-2019
+author: Admin
 tags:
 - 2014-2019
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Setidaknya dalam beberapa bulan ke depan, suasana perpolitikan di Tanah Air dipastikan makin dinamis. Bahkan suasananya bisa makin panas. Terutama tentu karena faktor Pilpres pada bulan April 2019 mendatang. 

@@ -1,15 +1,13 @@
 ---
 title: Perang Istilah [Bagian Satu]
 date: '2019-03-09'
-draft: false
-series: []
-categories:
-- Jawab
+author: Poetra Sambu
+source: https://www.facebook.com/utsman.ismail/posts/10205397138124935
 tags:
 - Jawab
-authors: Poetra Sambu
-sumber: https://www.facebook.com/utsman.ismail/posts/10205397138124935
+draft: false
 ---
+
 **Penulis: Poetra Sambu**
 
 Oleh: Poetra Sambu

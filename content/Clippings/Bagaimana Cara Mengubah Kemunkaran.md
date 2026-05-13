@@ -1,19 +1,15 @@
 ---
 title: Bagaimana Cara Mengubah Kemunkaran?
 date: '2020-01-08'
-draft: false
-series: []
-categories:
-- Jawab
-- Dakwah
-- Fiqih
+author: Admin
+source: https://www.facebook.com/majalahalwaie/posts/428554594533573
 tags:
 - Jawab
 - Dakwah
 - Fiqih
-authors: Admin
-sumber: https://www.facebook.com/majalahalwaie/posts/428554594533573
+draft: false
 ---
+
 **Penulis: Admin**
 
 Soal:

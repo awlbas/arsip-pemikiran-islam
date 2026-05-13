@@ -1,15 +1,13 @@
 ---
 title: Islam Progresif Dan Seks Bebas
 date: '2020-01-22'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: Adian Husaini
+source: https://www.facebook.com/fansadianhusaini/posts/1992234617544275
 tags:
 - Pemikiran
-authors: Adian Husaini
-sumber: https://www.facebook.com/fansadianhusaini/posts/1992234617544275
+draft: false
 ---
+
 **Penulis: Adian Husaini**
 
 Oleh: Adian Husaini

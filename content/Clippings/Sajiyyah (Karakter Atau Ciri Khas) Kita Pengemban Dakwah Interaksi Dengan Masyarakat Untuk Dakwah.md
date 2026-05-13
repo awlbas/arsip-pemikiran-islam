@@ -2,16 +2,13 @@
 title: Sajiyyah (Karakter Atau Ciri Khas) Kita Pengemban Dakwah - Interaksi Dengan
   Masyarakat Untuk Dakwah
 date: '2019-10-15'
-draft: false
-series: []
-categories:
-- Dakwah
-- Nafsiyah
+author: KH. Musthafa A. Murtadlo
 tags:
 - Dakwah
 - Nafsiyah
-authors: KH. Musthafa A. Murtadlo
+draft: false
 ---
+
 **Penulis: KH. Musthafa A. Murtadlo**
 
 Oleh: KH. Musthafa A. Murtadlo

@@ -1,15 +1,13 @@
 ---
 title: Penyebab Kekacauan Timur-Tengah
 date: '2020-01-29'
-draft: false
-series: []
-categories:
-- Jawab
+author: Admin
+source: https://www.facebook.com/abdikurniadjohan/posts/1871597316476404
 tags:
 - Jawab
-authors: Admin
-sumber: https://www.facebook.com/abdikurniadjohan/posts/1871597316476404
+draft: false
 ---
+
 **Penulis: Admin**
 
 Seseorang menulis di fb seperti ini, " Irak yang notabene negara Islam hancur porak poranda. Demikian juga dengan Suriah, Libya, dan Afghanistan. Semuanya adalah Islam dan semuanya porak poranda oleh perang saudara. Dengan kondisi seperti itu, apakah anda masih menganggap Islam itu solusi?"

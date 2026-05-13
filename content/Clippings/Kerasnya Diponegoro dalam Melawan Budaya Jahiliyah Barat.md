@@ -1,17 +1,14 @@
 ---
 title: Kerasnya Diponegoro dalam Melawan Budaya Jahiliyah Barat
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Sejarah
-- Indonesia
+author: Admin
+source: https://www.facebook.com/studiislamkaaffah/posts/1062153260627494
 tags:
 - Sejarah
 - Indonesia
-authors: Admin
-sumber: https://www.facebook.com/studiislamkaaffah/posts/1062153260627494
+draft: false
 ---
+
 **Penulis: Admin**
 
 Masa pemerintahan Sultan Hamengkubuwono IV adalah Masa keemasan 

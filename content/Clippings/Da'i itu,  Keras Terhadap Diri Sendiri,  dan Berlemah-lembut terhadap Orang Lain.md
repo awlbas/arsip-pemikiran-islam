@@ -2,16 +2,13 @@
 title: Da'i itu,  Keras Terhadap Diri Sendiri,  dan Berlemah-lembut terhadap Orang
   Lain
 date: '2019-10-15'
-draft: false
-series: []
-categories:
-- Dakwah
-- Nafsiyah
+author: Adi Victoria
 tags:
 - Dakwah
 - Nafsiyah
-authors: Adi Victoria
+draft: false
 ---
+
 **Penulis: Adi Victoria**
 
 Oleh: Adi Victoria

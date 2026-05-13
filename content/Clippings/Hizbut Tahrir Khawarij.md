@@ -1,15 +1,13 @@
 ---
 title: Hizbut Tahrir Khawarij
 date: '2020-01-22'
-draft: false
-series: []
-categories:
-- Jawab
+author: www.abulwafaromli.com
+source: https://www.facebook.com/UstadzAbulwafaRomli/posts/1317401228431469:0
 tags:
 - Jawab
-authors: www.abulwafaromli.com
-sumber: https://www.facebook.com/UstadzAbulwafaRomli/posts/1317401228431469:0
+draft: false
 ---
+
 **Penulis: www.abulwafaromli.com**
 
 HIZBUT TAHRIR KHAWARIJ ?

@@ -1,16 +1,13 @@
 ---
 title: Bolehkah Mengkritik Penguasa Di Depan Umum?
 date: '2019-02-18'
-draft: false
-series: []
-categories:
-- Jawab
-- Dakwah
+author: Admin
 tags:
 - Jawab
 - Dakwah
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 **Soal:

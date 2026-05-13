@@ -1,19 +1,15 @@
 ---
 title: Comite Chilafat (Surat Kabar Bendera Islam tahun 1924)
 date: '2020-01-17'
-draft: false
-series: []
-categories:
-- Khilafah
-- Sejarah
-- Indonesia
+author: Septian AW
+source: https://jejakislam.net/comite-chilafat-surat-kabar-bendera-islam-tahun-1924/
 tags:
 - Khilafah
 - Sejarah
 - Indonesia
-authors: Septian AW
-sumber: https://jejakislam.net/comite-chilafat-surat-kabar-bendera-islam-tahun-1924/
+draft: false
 ---
+
 **Penulis: Septian AW**
 
 Peristiwa penghapusan Turki Usmani oleh Mutafa Kemal yang disusul oleh seruan ulama al-Azhar untuk menghadiri Kongres Kairo yang akan memilih khalifah baru mendapat antusiasme yang sangat besar dari umat Islam di Indonesia. Pada 4-5 Oktober 1924 para pemimpin Sarekat Islam, Muhammadiyah dan Al-Irsyad mengadakan sebuah pertemuan di Madrasah Tarbiatoel Aitam Genteng Surabaya. Selain dihadiri oleh para pemimpin nasional dan lokal dari ketiga organisasi tersebut, pertemuan ini juga dihadiri oleh banyak ulama besar, baik dari kalangan orang Arab maupun orang Jawa. Dalam pertemuan ini terjadi diskusi yang panjang tentang khilafah dan seruan ulama al-Azhar tersebut.

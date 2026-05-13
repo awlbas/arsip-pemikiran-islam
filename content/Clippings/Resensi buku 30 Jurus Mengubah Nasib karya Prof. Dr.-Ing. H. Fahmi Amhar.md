@@ -1,15 +1,13 @@
 ---
 title: Resensi buku 30 Jurus Mengubah Nasib karya Prof. Dr.-Ing. H. Fahmi Amhar
 date: '2020-01-28'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: Admin
+source: http://www.andriyani.web.id/2016/01/resensi-buku-30-jurus-mengubah-nasib.html
 tags:
 - Nafsiyah
-authors: Admin
-sumber: http://www.andriyani.web.id/2016/01/resensi-buku-30-jurus-mengubah-nasib.html
+draft: false
 ---
+
 **Penulis: Admin**
 
 Assalamualaikum teman-teman.

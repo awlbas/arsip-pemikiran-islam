@@ -1,16 +1,13 @@
 ---
 title: Syahid Dihantam Palu Arit - Pecahnya Kudeta Madiun
 date: '2019-03-12'
-draft: false
-series: []
-categories:
-- Sejarah
-- Indonesia
+author: Muhammad Imaduddin Shiddiq
 tags:
 - Sejarah
 - Indonesia
-authors: Muhammad Imaduddin Shiddiq
+draft: false
 ---
+
 **Penulis: Muhammad Imaduddin Shiddiq**
 
 Isu #1 Tentang PKI

@@ -1,16 +1,13 @@
 ---
 title: Kemuliaan Dakwah Dan Kehinaan Para Penentangnya
 date: '2019-02-27'
-draft: false
-series: []
-categories:
-- Dakwah
-- Nafsiyah
+author: Admin
 tags:
 - Dakwah
 - Nafsiyah
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Buletin Kaffah No. 079, 17 Jumadil Akhir 1440 H – 22 Februari 2019 M

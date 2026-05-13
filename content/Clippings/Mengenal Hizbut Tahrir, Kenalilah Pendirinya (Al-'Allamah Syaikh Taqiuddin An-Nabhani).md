@@ -2,16 +2,13 @@
 title: Mengenal Hizbut Tahrir, Kenalilah Pendirinya (Al-'Allamah Syaikh Taqiuddin
   An-Nabhani)
 date: '2019-02-15'
-draft: false
-series: []
-categories:
-- Biografi
-- Hizbut Tahrir
+author: Arief B. Iskandar
 tags:
 - Biografi
 - Hizbut Tahrir
-authors: Arief B. Iskandar
+draft: false
 ---
+
 **Penulis: Arief B. Iskandar**
 
 Oleh: Arief B. Iskandar

@@ -1,14 +1,12 @@
 ---
 title: Tanggapan Kepada Siapa Saja Yang Mengatakan Khilafah Tidak Punya Bentuk Baku
 date: '2019-11-27'
-draft: false
-series: []
-categories:
-- Dalil Khilafah
+author: KH. Hafidz Abdurrahman , MA
 tags:
 - Dalil Khilafah
-authors: KH. Hafidz Abdurrahman , MA
+draft: false
 ---
+
 **Penulis: KH. Hafidz Abdurrahman , MA**
 
 Oleh : KH. Hafidz Abdurrahman , MA

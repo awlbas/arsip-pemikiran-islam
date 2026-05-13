@@ -1,13 +1,10 @@
 ---
-title: null
-draft: false
-series: []
-categories: null
+title: ''
 tags:
 - tanpa-kategori
-authors: null
-sumber: null
+draft: false
 ---
+
 Tulisan bantahan Syaikh Utsman Bakhasy (Hizbut Tahrir) atas tulisan tanggapan pengasuh situs “Al Islam Sual wa Jawab” (islamqa.info), yang diasuh oleh Syaikh Muhammad Shalih al-Munajid (Ulama Salafi)
 
 Segala puji bagi Allah, Tuhan semesta alam, dengan sebenar-benarnya pujian atas kebaikan dan berkah-Nya, yang tak terhingga jumlahnya, memenuhi langit dan bumi, serta semua yang ada. Shalawat dan salam semoga tetap tercurahkan kepada Rasul yang diutus dengan membawa rahmat untuk seluruh alam, yaitu Muhammad bin Abdillah, keluarganya, para sahabatnya, serta siapa saja yang senantiasa setia dan mengikutinya denga cara yang baik hingga hari kiamat. Waba’du.

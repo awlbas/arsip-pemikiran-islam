@@ -1,15 +1,13 @@
 ---
 title: Demokrasi Atau Kleptokrasi?
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: Arief B. Iskandar
+source: https://www.facebook.com/penulisinspiratif/posts/2224609864522685
 tags:
 - Pemikiran
-authors: Arief B. Iskandar
-sumber: https://www.facebook.com/penulisinspiratif/posts/2224609864522685
+draft: false
 ---
+
 **Penulis: Arief B. Iskandar**
 
 Oleh: Arief B. Iskandar

@@ -1,14 +1,13 @@
 ---
 title: Urgensi Berguru
 date: '2019-12-03'
-draft: false
-series: []
-categories: []
+author: Admin
+source: https://www.facebook.com/yuanaryantID/posts/153435372704689
 tags:
 - tanpa-kategori
-authors: Admin
-sumber: https://www.facebook.com/yuanaryantID/posts/153435372704689
+draft: false
 ---
+
 **Penulis: Admin**
 
 Beberapa pelajaran penting yang kita bisa petik dari Syeikh al-Muhaddits Syuaib al-Arnauth rahimahullahu ta'ala:

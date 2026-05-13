@@ -1,17 +1,14 @@
 ---
 title: Mengenal Wahabi Dan Hizbut Tahrir
 date: '2020-02-06'
-draft: false
-series: []
-categories:
-- Jawab
-- Hizbut Tahrir
+author: KH. Hafizh Abdurrahman
+source: https://www.facebook.com/dzakiyaAlthafunNsa/posts/2054967867923141
 tags:
 - Jawab
 - Hizbut Tahrir
-authors: KH. Hafizh Abdurrahman
-sumber: https://www.facebook.com/dzakiyaAlthafunNsa/posts/2054967867923141
+draft: false
 ---
+
 **Penulis: KH. Hafizh Abdurrahman**
 
 Oleh: KH. Hafizh Abdurrahman

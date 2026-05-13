@@ -1,13 +1,12 @@
 ---
 title: Non-Muslim di Pentas Politik
 date: '2019-02-27'
-draft: false
-series: []
-categories: []
+author: Dr Syamsuddin Arif
 tags:
 - tanpa-kategori
-authors: Dr Syamsuddin Arif
+draft: false
 ---
+
 **Penulis: Dr Syamsuddin Arif**
 
 Oleh: Dr Syamsuddin Arif

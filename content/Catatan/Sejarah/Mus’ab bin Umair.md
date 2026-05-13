@@ -1,8 +1,10 @@
 ---
-draft: No
-last edited time: 27 Desember 2025 06.22
-tags: My Note
+title: ''
+tags:
+- My Note
+draft: false
 ---
+
 ### Biografi
 
 Mush'ab radhiyallahu 'anhu adalah seorang sahabat yang memiliki ciri khas. Ciri khasnya dibandingkan dengan sahabat yang lain adalah orang yang sebelum masuk Islam sangat kaya raya dan terkenal. Berkumpul padanya putihnya kulit yang bersih, wajah yang tampan, pakaian yang selalu bersih, serta minyak wangi yang selalu semerbak. Hingga terkenal di Makkah, kalau seandainya Mush'ab sudah melewati sebuah tempat, maka pastilah masyarakat Makkah secara keseluruhan sepakat mengatakan, "Di sini telah lewat Mush'ab ibn Umair," karena wanginya minyak wangi yang dipakai dan mahalnya minyak wangi tersebut, sehingga memiliki bau khas dan tidak semua orang memilikinya.

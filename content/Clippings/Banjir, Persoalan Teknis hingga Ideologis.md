@@ -1,15 +1,13 @@
 ---
 title: Banjir, Persoalan Teknis hingga Ideologis
 date: '2020-01-08'
-draft: false
-series: []
-categories:
-- Solusi
+author: Admin
+source: http://www.fahmiamhar.com/2013/02/banjir-persoalan-teknis-hingga-ideologis.html
 tags:
 - Solusi
-authors: Admin
-sumber: http://www.fahmiamhar.com/2013/02/banjir-persoalan-teknis-hingga-ideologis.html
+draft: false
 ---
+
 **Penulis: Admin**
 
 Fahmi Amhar, Peneliti Utama Geospatial Information Agency

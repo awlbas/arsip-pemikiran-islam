@@ -1,19 +1,15 @@
 ---
 title: Hakekat Firqoh Mu'tazilah (4)
 date: '2019-08-02'
-draft: false
-series: []
-categories:
-- Jawab
-- Akidah
-- Hizbut Tahrir
+author: Admin
+source: http://www.abulwafaromli.com/2019/03/hakekat-firqoh-mu-4.html
 tags:
 - Jawab
 - Akidah
 - Hizbut Tahrir
-authors: Admin
-sumber: http://www.abulwafaromli.com/2019/03/hakekat-firqoh-mu-4.html
+draft: false
 ---
+
 **Penulis: Admin**
 
 Bismillaahir Rohmaanir Rohiim

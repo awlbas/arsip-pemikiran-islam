@@ -1,15 +1,13 @@
 ---
 title: Mukjizat Al Quran
 date: '2024-02-20'
-draft: false
-series: []
-categories:
-- Akidah
+author: Admin
+source: https://www.facebook.com/permalink.php?story_fbid=pfbid0KWjeA88yCosQPYCHZSKWic54pxkd4xUzWCBzF6RxmfF6TEpypVw5e9tMz1cGdcBRl&id=100095686775139
 tags:
 - Akidah
-authors: Admin
-sumber: https://www.facebook.com/permalink.php?story_fbid=pfbid0KWjeA88yCosQPYCHZSKWic54pxkd4xUzWCBzF6RxmfF6TEpypVw5e9tMz1cGdcBRl&id=100095686775139
+draft: false
 ---
+
 **Penulis: Admin**
 
 (Catatan Daurah Umum “Kemukjizatan al-Quran” bersama Dr. Fathi Sabbaq di Ruwaq Quran Indonesia)

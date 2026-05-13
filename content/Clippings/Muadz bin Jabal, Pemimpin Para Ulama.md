@@ -1,19 +1,15 @@
 ---
 title: Muadz bin Jabal, Pemimpin Para Ulama
 date: '2020-01-30'
-draft: false
-series: []
-categories:
-- Tarikh
-- Biografi
-- Nafsiyah
+author: Admin
+source: https://kisahmuslim.com/6249-muadz-bin-jabal-pemimpin-para-ulama.html
 tags:
 - Tarikh
 - Biografi
 - Nafsiyah
-authors: Admin
-sumber: https://kisahmuslim.com/6249-muadz-bin-jabal-pemimpin-para-ulama.html
+draft: false
 ---
+
 **Penulis: Admin**
 
 Kita berbicara tentang pemuda Anshar yang menjadi senior dan tokoh bukan karena usia. Ia adalah pemimpinnya para ulama di akhirat kelak. Dialah yang disebut oleh Nabi Muhammad sebagai orang yang paling tahu tentang halal dan haram. Dialah Muadz bin Jabal al-Anshari radhiallahu ‘anhu.

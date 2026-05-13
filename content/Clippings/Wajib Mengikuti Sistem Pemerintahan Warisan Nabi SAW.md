@@ -1,17 +1,14 @@
 ---
 title: Wajib Mengikuti Sistem Pemerintahan Warisan Nabi SAW
 date: '2020-02-03'
-draft: false
-series: []
-categories:
-- Jawab
-- Dalil Khilafah
+author: Admin
+source: https://www.facebook.com/buletinkaffah2017/posts/781676732353430
 tags:
 - Jawab
 - Dalil Khilafah
-authors: Admin
-sumber: https://www.facebook.com/buletinkaffah2017/posts/781676732353430
+draft: false
 ---
+
 **Penulis: Admin**
 
 Lagi-lagi Menteri Koordinator Bidang Politik Hukum dan Keamanan Mahfud MD melontarkan pernyataan kontroversial, bahkan “radikal”. Kali ini dia menegaskan bahwa meniru sistem pemerintahan Nabi Muhammad saw. adalah haram (NU Online, 25/01/2020).

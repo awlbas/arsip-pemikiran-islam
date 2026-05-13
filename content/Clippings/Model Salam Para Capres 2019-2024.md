@@ -1,15 +1,13 @@
 ---
 title: Model Salam Para Capres 2019-2024
 date: '2019-11-11'
-draft: false
-series: []
-categories:
-- Jawab
+author: Dr. Adian Husaini
+source: https://www.facebook.com/fansadianhusaini/posts/2116718818429187
 tags:
 - Jawab
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/fansadianhusaini/posts/2116718818429187
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini

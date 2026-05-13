@@ -1,15 +1,13 @@
 ---
 title: Syekh Taqiyyuddin An-Nabhani - Terbentuknya Sebuah Negara
 date: '2019-07-02'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: sebab itu, masih kata
+source: https://www.facebook.com/utsman.ismail/posts/10205520737454841
 tags:
 - Pemikiran
-authors: sebab itu, masih kata
-sumber: https://www.facebook.com/utsman.ismail/posts/10205520737454841
+draft: false
 ---
+
 **Penulis: sebab itu, masih kata**
 
 +++++++++

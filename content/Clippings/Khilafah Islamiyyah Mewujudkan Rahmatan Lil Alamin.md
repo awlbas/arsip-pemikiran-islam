@@ -1,15 +1,13 @@
 ---
 title: Khilafah Islamiyyah Mewujudkan Rahmatan Lil Alamin
 date: '2020-02-06'
-draft: false
-series: []
-categories:
-- Dalil Khilafah
+author: Admin
+source: https://www.facebook.com/ust.rokhmat.s.labib/posts/2039364179454104
 tags:
 - Dalil Khilafah
-authors: Admin
-sumber: https://www.facebook.com/ust.rokhmat.s.labib/posts/2039364179454104
+draft: false
 ---
+
 **Penulis: Admin**
 
 Agama yang Sempurna

@@ -1,17 +1,14 @@
 ---
 title: Siapa Menyatukan Nusantara?
 date: '2019-12-04'
-draft: false
-series: []
-categories:
-- Sejarah
-- Pemikiran
+author: Dr. Adian Husaini
+source: https://www.facebook.com/mustanironline/posts/1517320241741254
 tags:
 - Sejarah
 - Pemikiran
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/mustanironline/posts/1517320241741254
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini

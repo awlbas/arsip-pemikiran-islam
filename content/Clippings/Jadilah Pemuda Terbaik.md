@@ -1,14 +1,12 @@
 ---
 title: Jadilah Pemuda Terbaik
 date: '2019-02-27'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: Admin
 tags:
 - Nafsiyah
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Buletin Kaffah No. 078_10 Jumadil Akhir 1440 H - 15 Februari 2019 H

@@ -1,15 +1,13 @@
 ---
 title: Ibrahim Bin Adham Dan Kendaraan Mewahnya
 date: '2024-02-20'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: Al-Faqir Arief B. Iskandar
+source: https://ariefbiskandar.com/ibrahim-bin-adham-dan-kendaraan-mewahnya/
 tags:
 - Nafsiyah
-authors: Al-Faqir Arief B. Iskandar
-sumber: https://ariefbiskandar.com/ibrahim-bin-adham-dan-kendaraan-mewahnya/
+draft: false
 ---
+
 **Penulis: Al-Faqir Arief B. Iskandar**
 
 Oleh: Al-Faqir Arief B. Iskandar

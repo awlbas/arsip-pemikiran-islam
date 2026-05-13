@@ -1,16 +1,13 @@
 ---
 title: At-Takatul Al-Hizbiy
 date: '2019-11-14'
-draft: false
-series: []
-categories:
-- Dakwah
-- Hizbut Tahrir
+author: Admin
 tags:
 - Dakwah
 - Hizbut Tahrir
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Kurang lebih 25 tahun silam, saya sulit memahami isi kitab at-Takatul al-Hizbiy karya 'Alamah al-'Alim Syaikh Taqiyuddin an-Nabhani. Bagaimana gambaran kaum terdidik (al-mutsaqofu) teracuni dengan tsaqofah asing, sampai-sampai akar sejarah umat tercerabut dari diri mereka, lebih percaya pada imperialis asing, lebih akrab dan ihtiraman pada mereka.

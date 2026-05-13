@@ -1,17 +1,14 @@
 ---
 title: Pelajaran Kewarganegaraan Era Orde Lama Condong ke Arah Sosialisme
 date: '2019-12-09'
-draft: false
-series: []
-categories:
-- Sejarah
-- Indonesia
+author: Indira Ardanareswari
+source: https://tirto.id/pelajaran-kewarganegaraan-era-orde-lama-condong-ke-arah-sosialisme-ejY7?fbclid=IwAR39g4sVzFZdltW2B3wdkS5vIokTgKdceTdUAaPdheSLbyctLHLZAiHywD4
 tags:
 - Sejarah
 - Indonesia
-authors: Indira Ardanareswari
-sumber: https://tirto.id/pelajaran-kewarganegaraan-era-orde-lama-condong-ke-arah-sosialisme-ejY7?fbclid=IwAR39g4sVzFZdltW2B3wdkS5vIokTgKdceTdUAaPdheSLbyctLHLZAiHywD4
+draft: false
 ---
+
 **Penulis: Indira Ardanareswari**
 
 Pelajaran Kewarganegaan era Orde Lama bergeser ke arah sosialisme setelah lahirnya Manipol/USDEK.

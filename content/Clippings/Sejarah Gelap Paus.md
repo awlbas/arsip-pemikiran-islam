@@ -1,19 +1,15 @@
 ---
 title: Sejarah Gelap Paus
 date: '2020-01-31'
-draft: false
-series: []
-categories:
-- Sekularisme
-- Sejarah
-- Syarah
+author: Dr. Adian Husaini
+source: https://www.facebook.com/mustanironline/posts/1274569436016337
 tags:
 - Sekularisme
 - Sejarah
 - Syarah
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/mustanironline/posts/1274569436016337
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini

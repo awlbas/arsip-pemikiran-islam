@@ -1,13 +1,10 @@
 ---
-title: null
-draft: false
-series: []
-categories: null
+title: ''
 tags:
 - tanpa-kategori
-authors: null
-sumber: null
+draft: false
 ---
+
 Sebagian orang bersikap negatif kepada orang lain dengan alasan melanggar muru'ah. Apa muru'ah itu?, apa standarnya? ini perlu dicermati, karena jika mengacu kepada contoh-contoh di kitab-kitab ulama terdahulu, hampir semua orang tidak ada yang selamat muru'ahnya. Pernah bertemu orang sepuh yang mencela teman-teman yang shalat pakai celana panjang (tidak sarungan), dia sebut itu orang-orang fasiq...
 
 Di tengah dakwah yang banyak "musibah ukhuwwah" ini, mestinya kita bersikap tasamuh (toleran), bukan hanya dalam persoalan muru'ah yang asal hukumnya adalah mubah, namun juga tasamuh dalam perkara halal-haram yang masih khilafiyah karena ada syubhat dalilnya. Ini bukan berarti kita men'serba-bolehkan', namun kita cukup mengambil satu pandangan yang kita amalkan, sementara orang lain yang melakukan berbeda dg pandangan kita, mereka tetap kita hargai dan perlakukan sebagai saudara.

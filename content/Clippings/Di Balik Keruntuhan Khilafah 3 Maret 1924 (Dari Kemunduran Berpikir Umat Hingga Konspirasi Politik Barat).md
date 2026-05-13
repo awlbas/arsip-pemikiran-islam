@@ -2,16 +2,13 @@
 title: Di Balik Keruntuhan Khilafah 3 Maret 1924 (Dari Kemunduran Berpikir Umat Hingga
   Konspirasi Politik Barat)
 date: '2019-03-05'
-draft: false
-series: []
-categories:
-- Khilafah
-- Sejarah
+author: Arief B. Iskandar
 tags:
 - Khilafah
 - Sejarah
-authors: Arief B. Iskandar
+draft: false
 ---
+
 **Penulis: Arief B. Iskandar**
 
 Oleh: Arief B. Iskandar

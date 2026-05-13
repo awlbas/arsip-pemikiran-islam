@@ -1,14 +1,13 @@
 ---
 title: Perjuangan Khilafah Di Karbala
 date: '2023-09-04'
-draft: false
-series: []
-categories: []
+author: Admin
+source: https://www.facebook.com/utsman.ismail/posts/pfbid0xZ2EfEnDfZEpVNR5UWYjaBETfWUJkxagBJHohbGoLfUKqzUtXZbqktyg6rGK6u2sl
 tags:
 - tanpa-kategori
-authors: Admin
-sumber: https://www.facebook.com/utsman.ismail/posts/pfbid0xZ2EfEnDfZEpVNR5UWYjaBETfWUJkxagBJHohbGoLfUKqzUtXZbqktyg6rGK6u2sl
+draft: false
 ---
+
 **Penulis: Admin**
 
 (Menepis Kejahatan Propaganda Pencitraburukan Terhadap Khilafah Yang Agung Melalui Tragedi Karbala) 

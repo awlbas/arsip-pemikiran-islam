@@ -1,15 +1,13 @@
 ---
 title: Hak dan Kewajiban Pria-Wanita Dihadapan Syariah
 date: '2019-12-18'
-draft: false
-series: []
-categories:
-- Fiqih
+author: Admin
+source: https://www.facebook.com/majalahalwaie/posts/428556387866727
 tags:
 - Fiqih
-authors: Admin
-sumber: https://www.facebook.com/majalahalwaie/posts/428556387866727
+draft: false
 ---
+
 **Penulis: Admin**
 
 Pasal 108 Kitab Muqaddimah ad-Dustûr

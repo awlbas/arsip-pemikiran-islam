@@ -1,17 +1,14 @@
 ---
 title: Komparasi Indonesia-Suriah
 date: '2019-12-18'
-draft: false
-series: []
-categories:
-- Politik Luar Negeri
-- Suriah
+author: Admin
+source: https://www.facebook.com/majalahalwaie/posts/437112953677737
 tags:
 - Politik Luar Negeri
 - Suriah
-authors: Admin
-sumber: https://www.facebook.com/majalahalwaie/posts/437112953677737
+draft: false
 ---
+
 **Penulis: Admin**
 
 Beberapa bulan terakhir ini, muncul jargon “Jangan Suriahkan Indonesia” untuk memojokkan dakwah syariah dan khilafah. Kesan yang diinginkan pengujar kalimat itu adalah, bahwa kemelut di Suriah muncul dari sekelompok orang yang memperjuangkan syariah dan khilafah. Konon salah satu cara yang digunakan kelompok ini adalah provokasi pendiskreditan pemerintahan [Presiden Basyar Assad]. Tujuannya agar rakyat berani aksi turun ke jalan, beramai-ramai minta parlemen atau tentara menurunkan [Basyar Assad], yang partainya telah memerintah Suriah nyaris sendirian sejak 8 Maret 1963 dan ayahnya Hafiz Assad menjadi presiden sejak 1971 hingga matinya tahun 2000.

@@ -1,15 +1,13 @@
 ---
 title: Manhaj Shirah Nabawiyyah Syaikh Taqiyuddin Al-Nabhani
 date: '2019-12-23'
-draft: false
-series: []
-categories:
-- Jawab
+author: Yuana Ryan Tresna
+source: https://www.facebook.com/yuanaryantID/posts/123752205673006
 tags:
 - Jawab
-authors: Yuana Ryan Tresna
-sumber: https://www.facebook.com/yuanaryantID/posts/123752205673006
+draft: false
 ---
+
 **Penulis: Yuana Ryan Tresna**
 
 *(Memahami Kehujjahan Sirah Nabawiyyah dan Metode Dakwah Nabi)*

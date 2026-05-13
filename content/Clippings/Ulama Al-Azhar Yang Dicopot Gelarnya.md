@@ -1,17 +1,14 @@
 ---
 title: Ulama Al-Azhar Yang Dicopot Gelarnya
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Khilafah
-- Sejarah
+author: Admin
+source: https://www.facebook.com/bdwi.54/posts/10214027878238512
 tags:
 - Khilafah
 - Sejarah
-authors: Admin
-sumber: https://www.facebook.com/bdwi.54/posts/10214027878238512
+draft: false
 ---
+
 **Penulis: Admin**
 
 Ali Abdul Raziq (1888-1966) mulai terkenal sejak dunia Islam 

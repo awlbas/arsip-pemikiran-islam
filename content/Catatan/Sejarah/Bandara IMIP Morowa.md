@@ -1,9 +1,11 @@
 ---
-draft: No
+title: ''
 date: '2025-12-10'
-last edited time: 27 Desember 2025 06.22
-tags: My Note
+tags:
+- My Note
+draft: false
 ---
+
 PT. IMIP adalah kawasan industri berbasis nikel terintegrasi (dari hulu ke hilir) yang merupakan *join venture* **bintang delapan grup indonesia (konglomerat, jendral, china)** dengan **tsingsang grup tiongkok (produsen baja terbesar di dunia)**
 
 Sebelum kasus bandara ini mencuat PT. IMIP memiliki beberapa daftar kasus seperti

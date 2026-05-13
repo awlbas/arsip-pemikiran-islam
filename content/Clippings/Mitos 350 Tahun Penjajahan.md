@@ -1,17 +1,14 @@
 ---
 title: Mitos 350 Tahun Penjajahan
 date: '2020-01-06'
-draft: false
-series: []
-categories:
-- Sejarah
-- Indonesia
+author: Joss Wibisono
+source: https://historia.id/politik/articles/mitos-350-tahun-penjajahan-PKKEP
 tags:
 - Sejarah
 - Indonesia
-authors: Joss Wibisono
-sumber: https://historia.id/politik/articles/mitos-350-tahun-penjajahan-PKKEP
+draft: false
 ---
+
 **Penulis: Joss Wibisono**
 
 Oleh Joss Wibisono

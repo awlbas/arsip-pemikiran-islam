@@ -1,13 +1,12 @@
 ---
 title: Sistem Pengendali Banjir
 date: '2020-01-06'
-draft: false
-series: []
-categories: []
+author: Admin
 tags:
 - tanpa-kategori
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Prof. Dr.-Ing. Fahmi Amhar

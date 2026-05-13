@@ -1,17 +1,14 @@
 ---
 title: Haram Mendirikan Khilafah, Karena Menyalahi Kesepakatan?
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Jawab
-- Dalil Khilafah
+author: KH Hafidz Abdurrahman
+source: https://www.facebook.com/Tabloid.MU/posts/2446550278704062
 tags:
 - Jawab
 - Dalil Khilafah
-authors: KH Hafidz Abdurrahman
-sumber: https://www.facebook.com/Tabloid.MU/posts/2446550278704062
+draft: false
 ---
+
 **Penulis: KH Hafidz Abdurrahman**
 
 Oleh: KH Hafidz Abdurrahman

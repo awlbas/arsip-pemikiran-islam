@@ -1,14 +1,12 @@
 ---
 title: Dari "sel Pertama" Hingga Terbentuk "Jamaah Dakwah"
 date: '2019-02-08'
-draft: false
-series: []
-categories:
-- Dakwah
+author: KH Hafidz Abdurrahman
 tags:
 - Dakwah
-authors: KH Hafidz Abdurrahman
+draft: false
 ---
+
 **Penulis: KH Hafidz Abdurrahman**
 
 Oleh: KH Hafidz Abdurrahman

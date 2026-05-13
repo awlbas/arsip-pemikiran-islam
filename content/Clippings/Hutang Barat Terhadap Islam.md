@@ -1,17 +1,14 @@
 ---
 title: Hutang Barat Terhadap Islam
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Sejarah
-- Khasanah
+author: Adian Husaini
+source: https://www.facebook.com/mustanironline/posts/1339611226178824
 tags:
 - Sejarah
 - Khasanah
-authors: Adian Husaini
-sumber: https://www.facebook.com/mustanironline/posts/1339611226178824
+draft: false
 ---
+
 **Penulis: Adian Husaini**
 
 Oleh: Adian Husaini

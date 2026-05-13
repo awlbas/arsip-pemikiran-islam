@@ -1,14 +1,12 @@
 ---
 title: Kafir Tetaplah Kafir
 date: '2019-03-09'
-draft: false
-series: []
-categories:
-- Jawab
+author: al-Quran. Istilah ini murni digunakan oleh Allah SWT dalam
 tags:
 - Jawab
-authors: al-Quran. Istilah ini murni digunakan oleh Allah SWT dalam
+draft: false
 ---
+
 **Penulis: al-Quran. Istilah ini murni digunakan oleh Allah SWT dalam**
 
 Istilah Muslim dan kafir adalah istilah yang sejak awal digunakan 

@@ -1,14 +1,12 @@
 ---
 title: Identifikasi Terhadap Fakta Serta Realita Aswaja
 date: '2019-02-12'
-draft: false
-series: []
-categories:
-- Hizbut Tahrir
+author: Abulwafa Romli
 tags:
 - Hizbut Tahrir
-authors: Abulwafa Romli
+draft: false
 ---
+
 **Penulis: Abulwafa Romli**
 
 Oleh : Abulwafa Romli

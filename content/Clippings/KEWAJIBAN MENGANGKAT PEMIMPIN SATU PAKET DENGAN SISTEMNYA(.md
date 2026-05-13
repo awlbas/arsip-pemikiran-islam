@@ -1,13 +1,11 @@
 ---
-title: null
-draft: false
-series: []
-categories: null
+title: ''
+source: https://www.facebook.com/utsman.ismail/posts/pfbid037RFuURgdcQgqDTmgRFyFGqDm3RLywT2feY6QYH1xUTMcVbnpgkEUNGzepSkqbjeCl
 tags:
 - tanpa-kategori
-authors: null
-sumber: https://www.facebook.com/utsman.ismail/posts/pfbid037RFuURgdcQgqDTmgRFyFGqDm3RLywT2feY6QYH1xUTMcVbnpgkEUNGzepSkqbjeCl
+draft: false
 ---
+
 (Ngaji Khilafah Kepada Mbah Fadhol Senori. Part III)
 
 Ada sebagian orang mengatakan: "Yang wajib adalah mengangkat imam, bukan menegakkan khilafah". Artinya, menurut mereka, maqalah-maqalah fuqaha dan ulama terkait dengan wujub nashb al-imam (kewajiban mengangkat seorang imam) tidak ada korelasi yg bersifat koheren.

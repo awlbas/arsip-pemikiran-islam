@@ -1,15 +1,13 @@
 ---
 title: Kritis Membaca Buku Sejarah
 date: '2023-09-04'
-draft: false
-series: []
-categories:
-- Sejarah
+author: Admin
+source: https://www.facebook.com/photo/?fbid=10222640761540137&set=a.1833592111978
 tags:
 - Sejarah
-authors: Admin
-sumber: https://www.facebook.com/photo/?fbid=10222640761540137&set=a.1833592111978
+draft: false
 ---
+
 **Penulis: Admin**
 
 Buku-buku sejarah sering sangat mengasyikkan untuk dibaca.  Apalagi bila gagasan yang kita perjuangkan ternyata didukung oleh isi cerita di dalam buku-buku itu.

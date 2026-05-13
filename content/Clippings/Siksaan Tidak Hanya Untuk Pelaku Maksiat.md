@@ -1,14 +1,12 @@
 ---
 title: Siksaan Tidak Hanya Untuk Pelaku Maksiat
 date: '2020-03-16'
-draft: false
-series: []
-categories:
-- Dakwah
+author: K.H. M. Shiddiq al-Jawi
 tags:
 - Dakwah
-authors: K.H. M. Shiddiq al-Jawi
+draft: false
 ---
+
 **Penulis: K.H. M. Shiddiq al-Jawi**
 
 Oleh K.H. M. Shiddiq al-Jawi

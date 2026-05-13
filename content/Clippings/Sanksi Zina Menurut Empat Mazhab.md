@@ -1,15 +1,13 @@
 ---
 title: Sanksi Zina Menurut Empat Mazhab
 date: '2019-07-08'
-draft: false
-series: []
-categories:
-- Fiqih
+author: Admin
+source: https://www.facebook.com/yans.prasetiadi/posts/1651259191750016
 tags:
 - Fiqih
-authors: Admin
-sumber: https://www.facebook.com/yans.prasetiadi/posts/1651259191750016
+draft: false
 ---
+
 **Penulis: Admin**
 
 Para Imam Mazhab sepakat zina merupakan kejahatan besar yang wajib 

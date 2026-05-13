@@ -1,15 +1,13 @@
 ---
 title: Tata Ruang Sigap Bencana
 date: '2020-01-29'
-draft: false
-series: []
-categories:
-- Solusi
+author: Admin
+source: https://www.facebook.com/famhar68/posts/10215297259997188
 tags:
 - Solusi
-authors: Admin
-sumber: https://www.facebook.com/famhar68/posts/10215297259997188
+draft: false
 ---
+
 **Penulis: Admin**
 
 Prof. Dr. Fahmi Amhar

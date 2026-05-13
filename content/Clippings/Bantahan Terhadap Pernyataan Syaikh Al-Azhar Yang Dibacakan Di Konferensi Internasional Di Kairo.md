@@ -2,15 +2,13 @@
 title: Bantahan Terhadap Pernyataan Syaikh Al-Azhar Yang Dibacakan Di Konferensi Internasional
   Di Kairo
 date: '2020-02-17'
-draft: false
-series: []
-categories:
-- Jawab
+author: ‘Abid ‘Abidal al-Barr
+source: https://www.facebook.com/hafidz.abdurrahman.984/posts/2245719005737848
 tags:
 - Jawab
-authors: ‘Abid ‘Abidal al-Barr
-sumber: https://www.facebook.com/hafidz.abdurrahman.984/posts/2245719005737848
+draft: false
 ---
+
 **Penulis: ‘Abid ‘Abidal al-Barr**
 
 Oleh: ‘Abid ‘Abidal al-Barr

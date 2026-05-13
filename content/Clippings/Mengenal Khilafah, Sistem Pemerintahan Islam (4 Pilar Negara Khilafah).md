@@ -1,14 +1,12 @@
 ---
 title: Mengenal Khilafah, Sistem Pemerintahan Islam (4 Pilar Negara Khilafah)
 date: '2019-02-15'
-draft: false
-series: []
-categories:
-- Dalil Khilafah
+author: Ustadz Syamsudin Ramadhan
 tags:
 - Dalil Khilafah
-authors: Ustadz Syamsudin Ramadhan
+draft: false
 ---
+
 **Penulis: Ustadz Syamsudin Ramadhan**
 
 Oleh : Ustadz Syamsudin Ramadhan

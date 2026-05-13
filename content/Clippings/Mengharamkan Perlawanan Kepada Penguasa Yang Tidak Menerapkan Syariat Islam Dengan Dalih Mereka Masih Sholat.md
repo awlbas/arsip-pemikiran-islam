@@ -2,15 +2,13 @@
 title: Mengharamkan "Perlawanan" Kepada Penguasa Yang Tidak Menerapkan Syariat Islam
   Dengan Dalih Mereka Masih Sholat
 date: '2019-12-23'
-draft: false
-series: []
-categories:
-- Jawab
+author: Admin
+source: https://www.facebook.com/ar.rahman.77736/posts/3021178451290738
 tags:
 - Jawab
-authors: Admin
-sumber: https://www.facebook.com/ar.rahman.77736/posts/3021178451290738
+draft: false
 ---
+
 **Penulis: Admin**
 
 Pada suatu hari di saat Syaikhul Islam ibnu Taimiyyah sedang mengobarkan semangat jihad penduduk Syam dalam menghadapi pasukan Mongol dari Yaman di bawah pimpinan Qadzan yg notabene nya mereka semua telah memeluk Islam.

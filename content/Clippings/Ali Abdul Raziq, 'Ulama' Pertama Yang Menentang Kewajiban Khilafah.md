@@ -1,19 +1,15 @@
 ---
 title: Ali Abdul Raziq, 'Ulama' Pertama Yang Menentang Kewajiban Khilafah
 date: '2019-07-16'
-draft: false
-series: []
-categories:
-- Khilafah
-- Sejarah
-- Pemikiran
+author: buku tersebut merupakan seorang lulusan al-Azhar bernama Ali
+source: https://www.facebook.com/joko.prasetyo.52687/posts/10215700241441838
 tags:
 - Khilafah
 - Sejarah
 - Pemikiran
-authors: buku tersebut merupakan seorang lulusan al-Azhar bernama Ali
-sumber: https://www.facebook.com/joko.prasetyo.52687/posts/10215700241441838
+draft: false
 ---
+
 **Penulis: buku tersebut merupakan seorang lulusan al-Azhar bernama Ali**
 
 Ketika Mustafa Kemal secara resmi menghapuskan khilafah pada 3 Maret 

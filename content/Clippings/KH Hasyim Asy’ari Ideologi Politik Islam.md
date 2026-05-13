@@ -1,17 +1,14 @@
 ---
 title: KH Hasyim Asy’ari - Ideologi Politik Islam
 date: '2019-08-12'
-draft: false
-series: []
-categories:
-- Sejarah
-- Indonesia
+author: Admin
+source: https://jejakislam.net/kh-hasyim-asyari-ideologi-politik-islam/
 tags:
 - Sejarah
 - Indonesia
-authors: Admin
-sumber: https://jejakislam.net/kh-hasyim-asyari-ideologi-politik-islam/
+draft: false
 ---
+
 **Penulis: Admin**
 
 Tulisan di bawah ini merupakan pidato pendiri Nahdlatul Ulama, KH Muhammad Hasyim Asy’ari dalam resepsi Muktamar Masyumi pertama di Solo pada 13 Februari 1946 yang saat itu menjadi Ketua Majelis Syuro Masyumi. Transkrip pidato tersebut kemudian dimuat dengan judul “Ideologi Politik Islam” di pembukaan buku “Kumpulan Anggaran Dasar” yang diterbitkan oleh Usaha Penerbitan “Ansor” yang beralamat di Jalan Menara 2, Kudus, Jawa Tengah, pada Juli 1954. Kemudian ditulis ulang dengan penyesuaian ejaan oleh Ayung Notonegoro. Disalin dari NU Online.

@@ -1,15 +1,13 @@
 ---
 title: Komunisme
 date: '2019-05-15'
-draft: false
-series: []
-categories:
-- Komunisme
+author: Dr Hamid Fahmy Zarkasyi
+source: https://www.facebook.com/mustanironline/posts/1376565765816703
 tags:
 - Komunisme
-authors: Dr Hamid Fahmy Zarkasyi
-sumber: https://www.facebook.com/mustanironline/posts/1376565765816703
+draft: false
 ---
+
 **Penulis: Dr Hamid Fahmy Zarkasyi**
 
 Oleh: Dr Hamid Fahmy Zarkasyi 

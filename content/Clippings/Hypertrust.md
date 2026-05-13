@@ -1,15 +1,13 @@
 ---
 title: Hypertrust
 date: '2020-01-20'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: Admin
+source: https://www.facebook.com/pedyanto/posts/10218984849669445
 tags:
 - Nafsiyah
-authors: Admin
-sumber: https://www.facebook.com/pedyanto/posts/10218984849669445
+draft: false
 ---
+
 **Penulis: Admin**
 
 Saya akan ceritakan sebuah kisah tentang para raja dan para ahli sihir. Tentang persaingan antara makhluk ras tanah, api dan cahaya. Lupakan tentang Harry Potter, Fantastic Beasts atau Lord of The Rings. Kisah mereka tidak ada apa-apanya, karena hanya fiksi. Sedangkan kisah ini adalah fakta.

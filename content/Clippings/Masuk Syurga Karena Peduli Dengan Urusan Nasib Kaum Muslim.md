@@ -1,16 +1,13 @@
 ---
 title: Masuk Syurga Karena Peduli Dengan Urusan Nasib Kaum Muslim
 date: '2019-10-15'
-draft: false
-series: []
-categories:
-- Dakwah
-- Nafsiyah
+author: Adi Victoria
 tags:
 - Dakwah
 - Nafsiyah
-authors: Adi Victoria
+draft: false
 ---
+
 **Penulis: Adi Victoria**
 
 Oleh: Adi Victoria

@@ -2,14 +2,13 @@
 title: Konferensi Internasional Al-Azhar Hasilkan 29 Rumusan Pembaharuan Pemikiran
   Islam
 date: '2020-02-05'
-draft: false
-series: []
-categories: []
+author: Admin
+source: https://www.facebook.com/NadirsyahHosen/posts/2510287169219554
 tags:
 - tanpa-kategori
-authors: Admin
-sumber: https://www.facebook.com/NadirsyahHosen/posts/2510287169219554
+draft: false
 ---
+
 **Penulis: Admin**
 
 Jum'at, 31 Januari 2020 13:25 WIB

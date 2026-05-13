@@ -1,17 +1,14 @@
 ---
 title: Perjalanan Mencari Kebenaran
 date: '2019-11-13'
-draft: false
-series: []
-categories:
-- Khasanah
-- Akidah
+author: Admin
+source: https://www.facebook.com/famhar68/posts/10217601264755867
 tags:
 - Khasanah
 - Akidah
-authors: Admin
-sumber: https://www.facebook.com/famhar68/posts/10217601264755867
+draft: false
 ---
+
 **Penulis: Admin**
 
 Eka Pratama Alumni Mesin ITB 2002..

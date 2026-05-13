@@ -2,17 +2,14 @@
 title: Bisyarah Tegaknya Khilafah di Akhir Zaman (Bag. I) - Kritik Atas Asumsi Dasar
   Nadirsyah Hosen
 date: '2019-07-01'
-draft: false
-series: []
-categories:
-- Jawab
-- Dalil Khilafah
+author: Admin
+source: http://www.irfanabunaveed.net/2019/06/bisyarah-tegaknya-khilafah-di-akhir.html
 tags:
 - Jawab
 - Dalil Khilafah
-authors: Admin
-sumber: http://www.irfanabunaveed.net/2019/06/bisyarah-tegaknya-khilafah-di-akhir.html
+draft: false
 ---
+
 **Penulis: Admin**
 
 Khilafah, dijegal

@@ -1,15 +1,13 @@
 ---
 title: Kader Dakwah
 date: '2019-12-03'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: Admin
+source: https://www.facebook.com/yuanaryantID/posts/154203649294528
 tags:
 - Nafsiyah
-authors: Admin
-sumber: https://www.facebook.com/yuanaryantID/posts/154203649294528
+draft: false
 ---
+
 **Penulis: Admin**
 
 Penyebutan “rajul” (bentuk tunggal) atau jamaknya “rijal” (yang artinya laki-laki) mengandung pengertian yang mengisyaratkan kepada tugas mereka yang luhur dan tekadnya yang tinggi. Seseorang disebut "rijal" karena melekat sifat sebagai kesatria.

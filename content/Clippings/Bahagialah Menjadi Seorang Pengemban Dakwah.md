@@ -1,17 +1,14 @@
 ---
 title: Bahagialah Menjadi Seorang Pengemban Dakwah
 date: '2020-01-17'
-draft: false
-series: []
-categories:
-- Dakwah
-- Nafsiyah
+author: Ahmad Khozinudin, SH
+source: https://www.facebook.com/follback.dakwah/posts/1054843321545785
 tags:
 - Dakwah
 - Nafsiyah
-authors: Ahmad Khozinudin, SH
-sumber: https://www.facebook.com/follback.dakwah/posts/1054843321545785
+draft: false
 ---
+
 **Penulis: Ahmad Khozinudin, SH**
 
 Oleh : Ahmad Khozinudin, SH

@@ -1,19 +1,15 @@
 ---
 title: Belajar Dari "Napoleon"
 date: '2020-01-31'
-draft: false
-series: []
-categories:
-- Sekularisme
-- Sejarah
-- Syarah
+author: Dr. Adian Husaini
+source: https://www.facebook.com/mustanironline/posts/1273613072778640
 tags:
 - Sekularisme
 - Sejarah
 - Syarah
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/mustanironline/posts/1273613072778640
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini

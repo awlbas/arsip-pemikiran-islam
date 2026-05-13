@@ -1,17 +1,14 @@
 ---
 title: Tamsil Anjing untuk Penjual Kebenaran
 date: '2019-07-02'
-draft: false
-series: []
-categories:
-- Pemikiran
-- Orientalis
+author: Dr. Adian Husaini
+source: https://www.facebook.com/fansadianhusaini/posts/1822766454491093
 tags:
 - Pemikiran
 - Orientalis
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/fansadianhusaini/posts/1822766454491093
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini 

@@ -1,15 +1,13 @@
 ---
 title: Semangat Kristen Radikal
 date: '2020-01-16'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: Dr. Adian Husaini
+source: https://www.facebook.com/mustanironline/posts/1473567156116563
 tags:
 - Pemikiran
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/mustanironline/posts/1473567156116563
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Penulis: Dr. Adian Husaini

@@ -1,15 +1,13 @@
 ---
 title: Allah Memilih Kita Sebagai Umat Dan Generasi Terbaik
 date: '2019-12-05'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: KH. Hafidz Abdurrahman
+source: https://www.facebook.com/hafidz.abdurrahman.984/posts/2158232624486487
 tags:
 - Nafsiyah
-authors: KH. Hafidz Abdurrahman
-sumber: https://www.facebook.com/hafidz.abdurrahman.984/posts/2158232624486487
+draft: false
 ---
+
 **Penulis: KH. Hafidz Abdurrahman**
 
 Oleh: KH. Hafidz Abdurrahman

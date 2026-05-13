@@ -1,18 +1,14 @@
 ---
 title: Khilafah Memberikan Keadilan Yang Indah Bahkan Terhadap Non-Muslim
 date: '2019-02-13'
-draft: false
-series: []
-categories:
-- Khilafah
-- Hukum
-- Khasanah
+author: Admin
 tags:
 - Khilafah
 - Hukum
 - Khasanah
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Banyak kasus yang bisa dipaparkan guna menggambarkan keadilan Islam. Salah satunya, kasus anak gubernur, Amru bin Ash, di Mesir pada masa Kekhalifahan Umar bin Khattab yang mencambuki anak Qibthi yang beragama Nasrani. Sesuai hukum pidana Islam, Khalifah memberikan pilihan kepada korban, apakah membalas cambuk (qishash) ataukah menerima ganti rugi (diyat) kezaliman tersebut. Anak Qibthi itu memilih qishash. Dan setelah pelaksanaan hukum qishash itu, Khalifah Umar mengatakan, "Hai anak Qibthi, orang itu berani mencambukmu karena dia anak gubernur. Oleh sebab itu, cambuk saja gubernur itu sekalian!". Namun anak Qibthi itu menolaknya.

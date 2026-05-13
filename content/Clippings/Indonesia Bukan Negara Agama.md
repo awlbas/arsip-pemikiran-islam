@@ -1,17 +1,14 @@
 ---
 title: Indonesia Bukan Negara Agama?
 date: '2019-12-05'
-draft: false
-series: []
-categories:
-- Sejarah
-- Indonesia
+author: Dr. Adian Husaini
+source: https://www.facebook.com/fansadianhusaini/posts/2094220387345697
 tags:
 - Sejarah
 - Indonesia
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/fansadianhusaini/posts/2094220387345697
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini

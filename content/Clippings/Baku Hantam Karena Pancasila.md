@@ -1,13 +1,12 @@
 ---
 title: Baku Hantam Karena Pancasila
 date: '2023-06-05'
-draft: false
-series: []
-categories: []
+author: Admin
 tags:
 - tanpa-kategori
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 "Pantja Sila adalah rumusan jang kosong, masih membutuhkan isi. Pantja Sila akan mendjadi perwujudan menurut orang jang akan mengisinja.

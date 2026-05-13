@@ -1,14 +1,12 @@
 ---
 title: Benarkah Nabi Muhammad SAW Mewariskan Sistem Pemerintahan Demokrasi?
 date: '2020-01-29'
-draft: false
-series: []
-categories:
-- Jawab
+author: Wahyudi al Maroky
 tags:
 - Jawab
-authors: Wahyudi al Maroky
+draft: false
 ---
+
 **Penulis: Wahyudi al Maroky**
 
 Oleh Wahyudi al Maroky

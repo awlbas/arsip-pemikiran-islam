@@ -1,13 +1,12 @@
 ---
 title: Rumus 345 Pernikahan
 date: '2023-07-13'
-draft: false
-series: []
-categories: []
+author: Admin
 tags:
 - tanpa-kategori
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 *RUMUS 345 PERNIKAHAN*

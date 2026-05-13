@@ -1,17 +1,14 @@
 ---
 title: Syarat Menjadi Umat Terbaik
 date: '2019-07-02'
-draft: false
-series: []
-categories:
-- Dakwah
-- Nafsiyah
+author: Admin
+source: https://www.facebook.com/yans.prasetiadi/posts/1730184497190818
 tags:
 - Dakwah
 - Nafsiyah
-authors: Admin
-sumber: https://www.facebook.com/yans.prasetiadi/posts/1730184497190818
+draft: false
 ---
+
 **Penulis: Admin**
 
 Berdasarkan al-Quran, umat ini memiliki keistimewaan sebagai umat terbaik. Allah berfirman:

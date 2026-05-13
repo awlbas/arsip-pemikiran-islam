@@ -1,15 +1,13 @@
 ---
 title: Menyikapi Perbedaan
 date: '2019-02-15'
-draft: false
-series: []
-categories:
-- Fiqih
+author: Admin
+source: https://www.youtube.com/watch?v=iRr_3BB7KVE&feature=youtu.be
 tags:
 - Fiqih
-authors: Admin
-sumber: https://www.youtube.com/watch?v=iRr_3BB7KVE&feature=youtu.be
+draft: false
 ---
+
 **Penulis: Admin**
 
 Adanya perbedaan pendapat, madzhab, dan organisasi dalam kehidupan umat Islam merupakan realitas yang tak dapat dapat dipungkiri.

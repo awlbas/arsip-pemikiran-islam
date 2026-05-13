@@ -1,20 +1,15 @@
 ---
 title: Menelisik Jejak Pemikiran Kolonial
 date: '2019-07-22'
-draft: false
-series: []
-categories:
-- Sekularisme
-- Pemikiran
-- Sejarah
-- Indonesia
+author: Admin
 tags:
 - Sekularisme
 - Pemikiran
 - Sejarah
 - Indonesia
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Biasanya dengan mata 

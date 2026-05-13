@@ -1,17 +1,14 @@
 ---
 title: Sang Nabi, Teladan Abadi
 date: '2019-12-05'
-draft: false
-series: []
-categories:
-- Khasanah
-- Nafsiyah
+author: Dr. Adian Husaini
+source: https://www.facebook.com/fansadianhusaini/posts/2167919193309149?__tn__=K-R
 tags:
 - Khasanah
 - Nafsiyah
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/fansadianhusaini/posts/2167919193309149?__tn__=K-R
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini

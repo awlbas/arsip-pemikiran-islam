@@ -1,17 +1,14 @@
 ---
 title: NKRI Adil dan Beradab
 date: '2019-02-27'
-draft: false
-series: []
-categories:
-- Jawab
-- Indonesia
+author: Admin
+source: https://m.facebook.com/story.php?story_fbid=1294311914042089&id=153825841424041
 tags:
 - Jawab
 - Indonesia
-authors: Admin
-sumber: https://m.facebook.com/story.php?story_fbid=1294311914042089&id=153825841424041
+draft: false
 ---
+
 **Penulis: Admin**
 
 Oleh: Dr Adian Husaini, pendiri Pesantren at-Taqwa, Cilodong, Depok, 

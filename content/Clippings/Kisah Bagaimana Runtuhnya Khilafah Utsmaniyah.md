@@ -1,17 +1,14 @@
 ---
 title: Kisah Bagaimana Runtuhnya Khilafah Utsmaniyah
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Khilafah
-- Sejarah
+author: Admin
+source: https://www.facebook.com/ahnafqais.attamimi/posts/1178917378938943
 tags:
 - Khilafah
 - Sejarah
-authors: Admin
-sumber: https://www.facebook.com/ahnafqais.attamimi/posts/1178917378938943
+draft: false
 ---
+
 **Penulis: Admin**
 
 [Ust. Drs. Muhammad Maghfur Wahid, MA]

@@ -2,21 +2,16 @@
 title: Dalam Kekhilafahan, Apakah Percintaan Sesama Jenis Dapat Dilegalkan atau Tidak
   Dilarang Sebagaimana yang Mungkin Terjadi dalam Sistem Demokrasi?
 date: '2019-06-17'
-draft: false
-series: []
-categories:
-- Khilafah
-- Jawab
-- Pemikiran
-- Demokrasi
+author: karena itu, menjaga agama
+source: https://www.facebook.com/titokpriastomo/posts/2585916704754490
 tags:
 - Khilafah
 - Jawab
 - Pemikiran
 - Demokrasi
-authors: karena itu, menjaga agama
-sumber: https://www.facebook.com/titokpriastomo/posts/2585916704754490
+draft: false
 ---
+
 **Penulis: karena itu, menjaga agama**
 
 Prof. Nadirsyah Hosen (NH) melihat bahwa sikap menyalahkan sistem 

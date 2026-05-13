@@ -1,17 +1,14 @@
 ---
 title: Khilafah Ciptaan Ulama?
 date: '2017-12-14'
-draft: false
-series: []
-categories:
-- Khilafah
-- Fiqih
+author: keduanya (ijma’ sahahabat dan qiyas syar’i).
+source: https://web.facebook.com/choirul.anam.94617/posts/1366558446803518
 tags:
 - Khilafah
 - Fiqih
-authors: keduanya (ijma’ sahahabat dan qiyas syar’i).
-sumber: https://web.facebook.com/choirul.anam.94617/posts/1366558446803518
+draft: false
 ---
+
 **Penulis: keduanya (ijma’ sahahabat dan qiyas syar’i).**
 
 Meskipun pembahasan tentang Khilafah dilarang di Indonesia, namun saat

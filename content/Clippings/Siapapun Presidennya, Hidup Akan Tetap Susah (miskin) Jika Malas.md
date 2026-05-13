@@ -1,15 +1,13 @@
 ---
 title: Siapapun Presidennya, Hidup Akan Tetap Susah (miskin) Jika Malas?
 date: '2019-07-04'
-draft: false
-series: []
-categories:
-- Jawab
+author: Admin
+source: https://www.facebook.com/ahnafqais.attamimi/posts/1154096854754329
 tags:
 - Jawab
-authors: Admin
-sumber: https://www.facebook.com/ahnafqais.attamimi/posts/1154096854754329
+draft: false
 ---
+
 **Penulis: Admin**
 
 Postingan seperti di atas santer wira wiri di beranda saya. 

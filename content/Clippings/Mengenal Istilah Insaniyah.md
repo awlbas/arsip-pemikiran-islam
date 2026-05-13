@@ -1,15 +1,13 @@
 ---
 title: Mengenal Istilah "Insaniyah"
 date: '2019-07-04'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: Poetra Sambu
+source: https://www.facebook.com/utsman.ismail/posts/10205365136924925
 tags:
 - Pemikiran
-authors: Poetra Sambu
-sumber: https://www.facebook.com/utsman.ismail/posts/10205365136924925
+draft: false
 ---
+
 **Penulis: Poetra Sambu**
 
 Oleh: Poetra Sambu

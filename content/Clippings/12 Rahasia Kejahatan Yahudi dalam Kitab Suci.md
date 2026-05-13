@@ -1,17 +1,14 @@
 ---
 title: 12 Rahasia Kejahatan Yahudi dalam Kitab Suci
 date: '2017-12-12'
-draft: false
-series: []
-categories:
-- Khasanah
-- Yahudi
+author: Henri Shalahuddi
+source: https://web.facebook.com/fansadianhusaini/posts/1218109534956791
 tags:
 - Khasanah
 - Yahudi
-authors: Henri Shalahuddi
-sumber: https://web.facebook.com/fansadianhusaini/posts/1218109534956791
+draft: false
 ---
+
 **Penulis: Henri Shalahuddi**
 
 **Penulis: Henri Shalahuddi**

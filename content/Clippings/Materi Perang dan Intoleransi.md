@@ -1,14 +1,12 @@
 ---
 title: Materi Perang dan Intoleransi
 date: '2019-12-18'
-draft: false
-series: []
-categories:
-- Jawab
+author: Dr. Henri Shalahuddin
 tags:
 - Jawab
-authors: Dr. Henri Shalahuddin
+draft: false
 ---
+
 **Penulis: Dr. Henri Shalahuddin**
 
 Oleh: Dr. Henri Shalahuddin*

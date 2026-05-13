@@ -1,13 +1,12 @@
 ---
 title: Jalasah Munakh - Momen Indah Para Pengemban Dakwah untuk Berbagi Kisah
 date: '2024-12-18'
-draft: false
-series: []
-categories: []
+author: Admin
 tags:
 - tanpa-kategori
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Di tengah gurun pasir yang luas dan panas, ada sebuah tempat yang menjadi tujuan para pemilik unta, di setiap bulannya. Tempat itu bernama Jalasah Munakh, yang artinya tempat istirahatnya para pemilik unta. Di tempat ini, mereka bisa melepas lelah setelah sebulan menjelajahi padang pasir yang luas, dengan panas yang menyengat dan angin yang berdebu.

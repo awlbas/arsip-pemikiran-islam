@@ -1,17 +1,14 @@
 ---
 title: Penguasa Zhalim Jauh Lebih Baik Dari Fitnah Berkepanjangan
 date: '2019-07-02'
-draft: false
-series: []
-categories:
-- Jawab
-- Dakwah
+author: karena itu,  di sepanjang sejarah Khilafah Islamiyah, kita
+source: https://www.facebook.com/utsman.ismail/posts/10205524119179382
 tags:
 - Jawab
 - Dakwah
-authors: karena itu,  di sepanjang sejarah Khilafah Islamiyah, kita
-sumber: https://www.facebook.com/utsman.ismail/posts/10205524119179382
+draft: false
 ---
+
 **Penulis: karena itu,  di sepanjang sejarah Khilafah Islamiyah, kita**
 
 Demi membela satu rezim, banyak orang menyitir ungkapan (atsar):

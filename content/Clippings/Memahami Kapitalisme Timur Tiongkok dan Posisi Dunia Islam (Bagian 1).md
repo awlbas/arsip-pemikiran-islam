@@ -1,14 +1,13 @@
 ---
 title: Memahami Kapitalisme Timur Tiongkok dan Posisi Dunia Islam (Bagian 1)
 date: '2019-07-01'
-draft: false
-series: []
-categories: []
+author: Fika Komara
+source: https://imune.id/memahami-kapitalisme-timur-tiongkok-dan-posisi-dunia-islam-bagian-1/
 tags:
 - tanpa-kategori
-authors: Fika Komara
-sumber: https://imune.id/memahami-kapitalisme-timur-tiongkok-dan-posisi-dunia-islam-bagian-1/
+draft: false
 ---
+
 **Penulis: Fika Komara**
 
 **Oleh: Fika Komara**

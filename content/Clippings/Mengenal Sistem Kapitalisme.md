@@ -1,17 +1,14 @@
 ---
 title: Mengenal Sistem Kapitalisme
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Pemikiran
-- Kapitalisme
+author: Admin
+source: https://www.facebook.com/hariratul.jannah.37/posts/904182723089430
 tags:
 - Pemikiran
 - Kapitalisme
-authors: Admin
-sumber: https://www.facebook.com/hariratul.jannah.37/posts/904182723089430
+draft: false
 ---
+
 **Penulis: Admin**
 
 Dwi Condro Triyono, Ph.D.  

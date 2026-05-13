@@ -1,15 +1,13 @@
 ---
 title: Rusaknya Multi Akad
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Fiqih
+author: H. Dwi Condro Triono, Ph.D
+source: https://www.facebook.com/dwicondrotriono/posts/2174794332604843
 tags:
 - Fiqih
-authors: H. Dwi Condro Triono, Ph.D
-sumber: https://www.facebook.com/dwicondrotriono/posts/2174794332604843
+draft: false
 ---
+
 **Penulis: H. Dwi Condro Triono, Ph.D**
 
 Oleh: H. Dwi Condro Triono, Ph.D

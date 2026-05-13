@@ -1,15 +1,13 @@
 ---
 title: Dalil Wajibnya Menegakan Khilafah Dari Al-Qur'an
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Dalil Khilafah
+author: Admin
+source: https://www.facebook.com/UstadzAbulwafaRomli/posts/1204533733051553
 tags:
 - Dalil Khilafah
-authors: Admin
-sumber: https://www.facebook.com/UstadzAbulwafaRomli/posts/1204533733051553
+draft: false
 ---
+
 **Penulis: Admin**
 
 Bismillaahir Rohmaanir Rohiim 

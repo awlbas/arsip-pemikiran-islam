@@ -1,15 +1,13 @@
 ---
 title: 10 Tesis Tentang Islam
 date: '2019-07-04'
-draft: false
-series: []
-categories:
-- Khasanah
+author: 10 tesis yang mencengangkan tentang Islam ini adalah seorang
+source: https://www.facebook.com/wahidar01/posts/2495959930433406
 tags:
 - Khasanah
-authors: 10 tesis yang mencengangkan tentang Islam ini adalah seorang
-sumber: https://www.facebook.com/wahidar01/posts/2495959930433406
+draft: false
 ---
+
 **Penulis: 10 tesis yang mencengangkan tentang Islam ini adalah seorang**
 
 Penulis 10 tesis yang mencengangkan tentang Islam ini adalah seorang 

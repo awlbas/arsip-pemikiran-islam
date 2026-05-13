@@ -1,15 +1,13 @@
 ---
 title: Sah Kah NKRI Dalam Pandangan Islam?
 date: '2020-02-17'
-draft: false
-series: []
-categories:
-- Jawab
+author: Irkham Fahmi Al-Anjatani
+source: https://www.facebook.com/FahmiAnjatan/posts/350051755559158
 tags:
 - Jawab
-authors: Irkham Fahmi Al-Anjatani
-sumber: https://www.facebook.com/FahmiAnjatan/posts/350051755559158
+draft: false
 ---
+
 **Penulis: Irkham Fahmi Al-Anjatani**
 
 Oleh: Irkham Fahmi Al-Anjatani

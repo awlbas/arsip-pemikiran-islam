@@ -1,15 +1,13 @@
 ---
 title: Umat Islam Tidak Toleran?
 date: '2019-12-16'
-draft: false
-series: []
-categories:
-- Jawab
+author: Dr. Adian Husaini
+source: https://www.facebook.com/mustanironline/posts/1566258543514090
 tags:
 - Jawab
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/mustanironline/posts/1566258543514090
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini

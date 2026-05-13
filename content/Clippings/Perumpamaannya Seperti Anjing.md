@@ -1,14 +1,12 @@
 ---
 title: Perumpamaannya Seperti Anjing
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Nafsiyah
+author: Admin
 tags:
 - Nafsiyah
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Allah Ta’ala berfirman:

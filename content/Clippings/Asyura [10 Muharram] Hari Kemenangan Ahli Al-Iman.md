@@ -1,14 +1,13 @@
 ---
-title: 'Asyura [10 Muharram] Hari Kemenangan Ahli Al-Iman'
+title: Asyura [10 Muharram] Hari Kemenangan Ahli Al-Iman
 date: '2020-01-20'
+author: KH Hafidz Abdurrahman
+source: https://www.facebook.com/hafidz.abdurrahman.984/posts/2121466274829789
+tags:
+- Nafsiyah
 draft: false
-series: []
-categories:
-  - Nafsiyah
-tags: []
-authors: KH Hafidz Abdurrahman
-sumber: "https://www.facebook.com/hafidz.abdurrahman.984/posts/2121466274829789"
 ---
+
 **Penulis: KH Hafidz Abdurrahman**
 
 Oleh: KH Hafidz Abdurrahman

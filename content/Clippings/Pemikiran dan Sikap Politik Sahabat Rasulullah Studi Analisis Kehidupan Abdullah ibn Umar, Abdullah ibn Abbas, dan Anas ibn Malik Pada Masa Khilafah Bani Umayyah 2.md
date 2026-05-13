@@ -2,15 +2,13 @@
 title: Pemikiran dan Sikap Politik Sahabat Rasulullah - Studi Analisis Kehidupan Abdullah
   ibn Umar, Abdullah ibn Abbas, dan Anas ibn Malik Pada Masa Khilafah Bani Umayyah
   [2]
-date: 2019-02-08
-draft: false
-series: []
-categories:
-- Tarikh
+date: '2019-02-08'
+author: Admin
 tags:
 - Tarikh
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Abdurrahman al-Khaddami al-Jawi

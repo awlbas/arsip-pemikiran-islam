@@ -1,13 +1,12 @@
 ---
 title: Benarkah Khilafah Hanya Cocok Pada Zaman Sahabat Nabi saw?
 date: '2021-11-09'
-draft: false
-series: []
-categories: []
+author: Admin
 tags:
 - tanpa-kategori
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Soal:

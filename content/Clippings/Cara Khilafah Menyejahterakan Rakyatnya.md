@@ -1,16 +1,13 @@
 ---
 title: Cara Khilafah Menyejahterakan Rakyatnya
 date: '2017-12-08'
-draft: false
-series: []
-categories:
-- Khilafah
-- Solusi
+author: Hafidz Abdurrahman
 tags:
 - Khilafah
 - Solusi
-authors: Hafidz Abdurrahman
+draft: false
 ---
+
 **Penulis: Hafidz Abdurrahman**
 
 Oleh: Hafidz Abdurrahman

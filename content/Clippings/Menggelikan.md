@@ -1,16 +1,13 @@
 ---
 title: Menggelikan
 date: '2022-06-17'
-draft: false
-series: []
-categories:
-- Khilafah
-- Dakwah
+author: Ust H.Ismail Yusanto
 tags:
 - Khilafah
 - Dakwah
-authors: Ust H.Ismail Yusanto
+draft: false
 ---
+
 **Penulis: Ust H.Ismail Yusanto**
 
 Oleh: Ust H.Ismail Yusanto

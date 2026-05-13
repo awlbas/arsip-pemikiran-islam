@@ -1,17 +1,14 @@
 ---
 title: Suri Teladan Bagi Kaum Yang Beriman
 date: '2020-01-08'
-draft: false
-series: []
-categories:
-- Khilafah
-- Jawab
+author: Admin
+source: https://www.facebook.com/UstadzAbulwafaRomli/posts/1328095834028675
 tags:
 - Khilafah
 - Jawab
-authors: Admin
-sumber: https://www.facebook.com/UstadzAbulwafaRomli/posts/1328095834028675
+draft: false
 ---
+
 **Penulis: Admin**
 
 Tidak sedikit dari orang-orang yang mengaku beriman serta mengklaim sebagai Ahlussunnah Waljama'ah (Aswaja), dalam kehidupan, bermasyarakat dan bernegara, mereka lebih memilih dan mendahulukan menjadikan para penggagas dan pendiri republik, para penggagas dan pendiri NKRI, Pancasila dan UDD '45, sebagai Suri Teladan yang final dan mutlak wajib diikuti, serta menolak dan menghalang-halangi upaya, gagasan dan solusi lain dalam kehidupan, bermasyarakat dan bernegara.

@@ -1,17 +1,14 @@
 ---
 title: Pengemban Dakwah Jadilah Kesatria
 date: '2020-01-22'
-draft: false
-series: []
-categories:
-- Dakwah
-- Nafsiyah
+author: Admin
+source: https://www.facebook.com/yuanaryantID/posts/104891307559096
 tags:
 - Dakwah
 - Nafsiyah
-authors: Admin
-sumber: https://www.facebook.com/yuanaryantID/posts/104891307559096
+draft: false
 ---
+
 **Penulis: Admin**
 
 (Mengambil Pelajaran dari Lafazh "Rijal"/Laki-laki dalam Beberapa Ayat al-Quran)

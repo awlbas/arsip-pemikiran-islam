@@ -1,17 +1,14 @@
 ---
 title: Kekuatan Ekonomi Dunia Islam
 date: '2019-07-04'
-draft: false
-series: []
-categories:
-- Ekonomi
-- Khasanah
+author: Dr. Fahmi Amhar
+source: http://www.muslimahnews.com/2018/12/16/kekuatan-ekonomi-dunia-islam/?fbclid=IwAR2dpkKiFutOaXYxhlO8bEG0YdyGt5eYK4sLOEeBgBkgghuvEB_RNcMzpNw
 tags:
 - Ekonomi
 - Khasanah
-authors: Dr. Fahmi Amhar
-sumber: http://www.muslimahnews.com/2018/12/16/kekuatan-ekonomi-dunia-islam/?fbclid=IwAR2dpkKiFutOaXYxhlO8bEG0YdyGt5eYK4sLOEeBgBkgghuvEB_RNcMzpNw
+draft: false
 ---
+
 **Penulis: Dr. Fahmi Amhar**
 
 Oleh: Dr. Fahmi Amhar

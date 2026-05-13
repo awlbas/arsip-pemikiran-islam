@@ -1,17 +1,14 @@
 ---
 title: Masjid Dimana Kekhilafahan Mengumandangkan Jihad Terakhir yang Sepi Sambutan
 date: '2019-07-04'
-draft: false
-series: []
-categories:
-- Khilafah
-- Sejarah
+author: Admin
+source: https://www.facebook.com/pompysyaifulrizal/posts/10213507280016291
 tags:
 - Khilafah
 - Sejarah
-authors: Admin
-sumber: https://www.facebook.com/pompysyaifulrizal/posts/10213507280016291
+draft: false
 ---
+
 **Penulis: Admin**
 
 Awalnya begini, saya berusaha untuk adil kepada semua buku di 

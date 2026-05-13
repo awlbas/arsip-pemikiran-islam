@@ -1,13 +1,11 @@
 ---
-title: null
-draft: false
-series: []
-categories: null
+title: ''
+source: https://www.facebook.com/famhar68/posts/pfbid0apV47d78RzCEQewERAaEWd1uGmzyvHMrNiSRcUHDjQsSyECPrzQ5MysMYWYs8KNKl
 tags:
 - tanpa-kategori
-authors: null
-sumber: https://www.facebook.com/famhar68/posts/pfbid0apV47d78RzCEQewERAaEWd1uGmzyvHMrNiSRcUHDjQsSyECPrzQ5MysMYWYs8KNKl
+draft: false
 ---
+
 Beberapa waktu lalu saya menulis tentang bagaimana negara-negara bagian di Amerika Serikat pernah “menang besar” melawan industri rokok lewat sebuah kesepakatan hukum bersejarah di akhir 1990-an. Banyak yang mengira cerita itu sudah selesai, jadi catatan lama dalam buku kesehatan masyarakat. Ternyata tidak. Hari ini, bab baru sedang ditulis—kali ini menyasar industri makanan ultra-proses.
 
 Berdasarkan pemberitaan yang beredar, gugatan ini tidak datang dari satu negara bagian saja, tetapi dimulai dari pemerintah kota dan county, terutama di California. Kota San Francisco, disusul wilayah seperti Los Angeles County dan Santa Clara County, menggugat perusahaan besar seperti Coca-Cola, PepsiCo, Nestlé, Kellogg’s, dan Kraft Heinz. Tuduhannya terdengar familier: produk mereka berkontribusi pada krisis kesehatan masyarakat, terutama obesitas dan penyakit metabolik, sementara risiko tersebut tidak dikomunikasikan secara jujur dan proporsional kepada konsumen.

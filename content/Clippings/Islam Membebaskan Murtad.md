@@ -1,17 +1,14 @@
 ---
 title: Islam Membebaskan Murtad?
 date: '2019-07-18'
-draft: false
-series: []
-categories:
-- Jawab
-- Fiqih
+author: Admin
+source: https://www.facebook.com/mtaufiknt/posts/10215093896366757
 tags:
 - Jawab
 - Fiqih
-authors: Admin
-sumber: https://www.facebook.com/mtaufiknt/posts/10215093896366757
+draft: false
 ---
+
 **Penulis: Admin**
 
 Seseorang, sebut saja Prof. X yang juga Rais Syuriah Ormas Y di 

@@ -1,16 +1,13 @@
 ---
 title: Jilbab Wajib, Tak Ada Ikhtilaf
 date: '2020-01-27'
-draft: false
-series: []
-categories:
-- Jawab
-- Fiqih
+author: Admin
 tags:
 - Jawab
 - Fiqih
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Kewajiban berjilbab bagi Muslimah—yang telah disepakati di kalangan para ulama mu’tabar—kembali dipersoalkan. Kelompok yang menolak kewajiban ini menuding kaum Muslim salah dalam menafsirkan ayat tentang jilbab. “Terlalu tekstual, tidak kontekstual,” kata mereka. Untuk memperkuat penolakan mereka atas kewajiban berjilbab bagi Muslimah ini, mereka lalu menyodorkan realita bahwa di Indonesia banyak tokoh Muslimah yang juga tak berjilbab. Karena itu, simpul mereka, berjilbab untuk para Muslimah tidak wajib. Benarkah demikian?

@@ -1,17 +1,14 @@
 ---
 title: Stalin - Pahlawan Yang Diktator
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Sejarah
-- Komunisme
+author: Admin
+source: https://www.facebook.com/rushside.ridho/posts/10215915181491578
 tags:
 - Sejarah
 - Komunisme
-authors: Admin
-sumber: https://www.facebook.com/rushside.ridho/posts/10215915181491578
+draft: false
 ---
+
 **Penulis: Admin**
 
 Jika ada jutaan nyawa binasa di abad 20, Joseph Stalin adalah salah 

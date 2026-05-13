@@ -1,13 +1,11 @@
 ---
-title: null
-draft: false
-series: []
-categories: null
+title: ''
+source: https://www.facebook.com/yuanaryantID/posts/pfbid0UkPiFvm2tEjHRAQPRACZ39YBjMgNr1KfPu1buVDjX81tVP863LwWqik9aixW89X1l
 tags:
 - tanpa-kategori
-authors: null
-sumber: https://www.facebook.com/yuanaryantID/posts/pfbid0UkPiFvm2tEjHRAQPRACZ39YBjMgNr1KfPu1buVDjX81tVP863LwWqik9aixW89X1l
+draft: false
 ---
+
 Pertama: Enam Argumen Pendukung Gagasan bahwa "Syariat Datang untuk Mewujudkan Kemashlahatan dan Mencegah Kerusakan"
 
 1. Pembagian Kemashlahatan ke dalam Tingkatan:

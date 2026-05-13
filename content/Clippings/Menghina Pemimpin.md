@@ -1,16 +1,13 @@
 ---
 title: Menghina Pemimpin
 date: '2019-02-27'
-draft: false
-series: []
-categories:
-- Jawab
-- Dakwah
+author: Yuana Ryan Tresna
 tags:
 - Jawab
 - Dakwah
-authors: Yuana Ryan Tresna
+draft: false
 ---
+
 **Penulis: Yuana Ryan Tresna**
 
 Oleh: Yuana Ryan Tresna

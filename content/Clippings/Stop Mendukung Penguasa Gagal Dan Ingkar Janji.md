@@ -1,14 +1,12 @@
 ---
 title: Stop Mendukung Penguasa Gagal Dan Ingkar Janji
 date: '2019-02-27'
-draft: false
-series: []
-categories:
-- 2014-2019
+author: Admin
 tags:
 - 2014-2019
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Buletin Kaffah no. 074, 12 Jumadil Awwal 1440 H – 18 Januari 2019 M

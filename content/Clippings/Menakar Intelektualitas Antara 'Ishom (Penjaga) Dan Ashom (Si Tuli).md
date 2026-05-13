@@ -1,17 +1,14 @@
 ---
 title: Menakar Intelektualitas Antara 'Ishom (Penjaga) Dan Ashom (Si Tuli)
 date: '2019-07-02'
-draft: false
-series: []
-categories:
-- Jawab
-- Dalil Khilafah
+author: Utsman Zahid as Sidany
+source: https://www.facebook.com/utsman.ismail/posts/10205495949635161
 tags:
 - Jawab
 - Dalil Khilafah
-authors: Utsman Zahid as Sidany
-sumber: https://www.facebook.com/utsman.ismail/posts/10205495949635161
+draft: false
 ---
+
 **Penulis: Utsman Zahid as Sidany**
 
 Oleh: Utsman Zahid as Sidany 

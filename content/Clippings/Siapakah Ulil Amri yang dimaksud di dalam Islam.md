@@ -1,17 +1,14 @@
 ---
 title: Siapakah Ulil Amri yang dimaksud di dalam Islam?
 date: '2019-07-10'
-draft: false
-series: []
-categories:
-- Fiqih
-- Dalil Khilafah
+author: Admin
+source: https://www.facebook.com/idnbertauhid/posts/768083750232181
 tags:
 - Fiqih
 - Dalil Khilafah
-authors: Admin
-sumber: https://www.facebook.com/idnbertauhid/posts/768083750232181
+draft: false
 ---
+
 **Penulis: Admin**
 
 Al Mawardi berkata, “Imamah (sebutan lain untuk ulil amri) adalah 

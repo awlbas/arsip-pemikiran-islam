@@ -1,13 +1,12 @@
 ---
 title: Pasir Laut
 date: '2023-06-12'
-draft: false
-series: []
-categories: []
+author: Admin
 tags:
 - tanpa-kategori
-authors: Admin
+draft: false
 ---
+
 **Penulis: Admin**
 
 Prof. Dr.-Ing. Fahmi Amhar

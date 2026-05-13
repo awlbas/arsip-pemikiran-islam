@@ -1,15 +1,13 @@
 ---
 title: HOS Tjokroaminoto, Sang Pejuang Khilfah
 date: '2019-07-03'
-draft: false
-series: []
-categories:
-- Sejarah
+author: Admin
+source: https://www.facebook.com/rojulun.sholihun.9/posts/2327774640607551
 tags:
 - Sejarah
-authors: Admin
-sumber: https://www.facebook.com/rojulun.sholihun.9/posts/2327774640607551
+draft: false
 ---
+
 **Penulis: Admin**
 
 Kaum Muslim saat ini, sedikit sekali yang tahu bahwa ternyata 

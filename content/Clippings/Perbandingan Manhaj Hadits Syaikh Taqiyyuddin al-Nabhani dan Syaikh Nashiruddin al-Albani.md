@@ -1,13 +1,11 @@
 ---
-title: null
-draft: false
-series: []
-categories: null
+title: ''
+source: https://www.facebook.com/septian.anto/posts/pfbid038JofbKZMeCsgkR9tDfZdCLPVwEeUr4iegEkpRPaTXkFRx8Zq4MnNEkBXiHZu4mTWl
 tags:
 - tanpa-kategori
-authors: null
-sumber: https://www.facebook.com/septian.anto/posts/pfbid038JofbKZMeCsgkR9tDfZdCLPVwEeUr4iegEkpRPaTXkFRx8Zq4MnNEkBXiHZu4mTWl
+draft: false
 ---
+
 Pertama, secara manhaj, manhaj Hadits Syaikh al-Albani itu berbeda dengan Syaikh Taqiyyuddin al-Nabhani. Syaikh al-Albani sangat ketat (tasyaddud) dan seakan tidak memahami tujuan tadwin sunnah dalam kitab Sunan, sampai-sampai Sunan Arba'ah saja dibagi dua: Silsilah Shahihah dan Silsilah Dha'ifah. Namun kadang beliau juga mengalami tanaqudh dalam manhaj ketika menghukumi Hadits lain yang semisal.
 
 Saya berusaha memahami bolak balik kitab al-Syakhshiyyah al-Islamiyyah Juz 1 & 3 baik dalam dirasah khusus maupun dalam halqah murakkazah awal sampai akhir. Dapat disimpulkan bahwa manhaj yang ditempuh Syaikh Taqiyyuddin dalam Hadits adalah manhajnya fuqaha dan para A'imah Sunan Arba'ah. Bisa lihat pandangan beliau -Syaikh Taqiyyuddin- dalam masalah tahsin Hadits berdasarkan kaidah: "telah digunakan oleh fuqaha (mutaqaddimin)." Juga dalam pengakuan atas kehujjahan hadits Mursal, yang selaras dengan Imam Malik dan Imam Ahmad, namun berbeda dengan jumhur ahli hadits.

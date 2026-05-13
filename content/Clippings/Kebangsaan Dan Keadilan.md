@@ -1,15 +1,13 @@
 ---
 title: Kebangsaan Dan Keadilan
 date: '2019-12-17'
-draft: false
-series: []
-categories:
-- Pemikiran
+author: Dr. Syamsuddin Arif - Direktur Eksekutif INSISTS
+source: https://www.facebook.com/mustanironline/posts/1496070373866241
 tags:
 - Pemikiran
-authors: Dr. Syamsuddin Arif - Direktur Eksekutif INSISTS
-sumber: https://www.facebook.com/mustanironline/posts/1496070373866241
+draft: false
 ---
+
 **Penulis: Dr. Syamsuddin Arif - Direktur Eksekutif INSISTS**
 
 Oleh:

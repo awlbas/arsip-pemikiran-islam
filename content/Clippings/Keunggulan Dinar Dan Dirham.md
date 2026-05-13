@@ -1,21 +1,16 @@
 ---
 title: Keunggulan Dinar Dan Dirham
 date: '2020-02-19'
-draft: false
-series: []
-categories:
-- Ekonomi
-- Fiqih
-- Solusi
-- Khasanah
+author: KH. M. SHIDDIQ AL JAWI
+source: https://www.facebook.com/mshiddiqaljawi/posts/916611848524374
 tags:
 - Ekonomi
 - Fiqih
 - Solusi
 - Khasanah
-authors: KH. M. SHIDDIQ AL JAWI
-sumber: https://www.facebook.com/mshiddiqaljawi/posts/916611848524374
+draft: false
 ---
+
 **Penulis: KH. M. SHIDDIQ AL JAWI**
 
 *OLEH : KH. M. SHIDDIQ AL JAWI*

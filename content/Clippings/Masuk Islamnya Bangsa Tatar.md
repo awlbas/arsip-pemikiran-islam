@@ -1,17 +1,14 @@
 ---
 title: Masuk Islamnya Bangsa Tatar
 date: '2019-12-06'
-draft: false
-series: []
-categories:
-- Sejarah
-- Khasanah
+author: KH Hafidz Abdurrahman
+source: https://www.facebook.com/hafidz.abdurrahman.984/posts/2157007874608962
 tags:
 - Sejarah
 - Khasanah
-authors: KH Hafidz Abdurrahman
-sumber: https://www.facebook.com/hafidz.abdurrahman.984/posts/2157007874608962
+draft: false
 ---
+
 **Penulis: KH Hafidz Abdurrahman**
 
 Oleh: KH Hafidz Abdurrahman

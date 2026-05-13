@@ -1,9 +1,11 @@
 ---
-draft: No
+title: ''
 date: '2025-11-12'
-last edited time: 27 Desember 2025 06.22
-tags: My Note
+tags:
+- My Note
+draft: false
 ---
+
 Perubahan sesuatu yang sulit, sering kita mengasumsikan bahwa manusia seperti gundu, apabila kita paksa, maka mereka akan mengikutinya, tapi kebanyakan justru berkebalikan, mereka justru melawan, seperti sales yang memaksa untuk membeli dan kita tinggal, ataupun kita memberi saran kepada bos dan dibalas “nanti saya pertimbankan”.
 
 Di dalam bidang kimia ada istilah perubahan atau reaksi, air yang menguap, alga dan plankton menjadi minyak, tapi itu membutuhkan proses yang lambat dan menyakitkan. kemudian para chemist untuk mempercepat perubahan biasanya menggunakan satu komponen bukan untuk mendorong tapi menurunkan barier untuk mempermudah, menghilangkan halangan atau memfasilitasi terjadinya perubahan, inilah yang disebut catalyst.

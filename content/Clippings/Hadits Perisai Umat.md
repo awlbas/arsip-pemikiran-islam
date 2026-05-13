@@ -1,15 +1,13 @@
 ---
 title: Hadits Perisai Umat
 date: '2020-01-21'
-draft: false
-series: []
-categories:
-- Dalil Khilafah
+author: Admin
+source: https://www.facebook.com/yuanaryantID/posts/108583720523188
 tags:
 - Dalil Khilafah
-authors: Admin
-sumber: https://www.facebook.com/yuanaryantID/posts/108583720523188
+draft: false
 ---
+
 **Penulis: Admin**
 
 Penindasan dan pembantaian yang dialami kaum muslim di beberapa belahan dunia ini, telah mengingatkan kita pada sabda Rasulullah ﷺ,

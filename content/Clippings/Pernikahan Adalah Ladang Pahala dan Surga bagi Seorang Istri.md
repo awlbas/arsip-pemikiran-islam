@@ -1,14 +1,13 @@
 ---
 title: Pernikahan Adalah Ladang Pahala dan Surga bagi Seorang Istri
 date: '2023-06-08'
-draft: false
-series: []
-categories: []
+author: Najmah Saiidah
+source: https://muslimahnews.net/2023/06/07/20809/
 tags:
 - tanpa-kategori
-authors: Najmah Saiidah
-sumber: https://muslimahnews.net/2023/06/07/20809/
+draft: false
 ---
+
 **Penulis: Najmah Saiidah**
 
 Penulis: Najmah Saiidah

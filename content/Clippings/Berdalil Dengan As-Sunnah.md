@@ -1,15 +1,13 @@
 ---
 title: Berdalil Dengan As-Sunnah
 date: '2019-07-18'
-draft: false
-series: []
-categories:
-- Ushul Fiqih
+author: karena itu, nas-nas syariah, termasuk as-Sunnah,
+source: https://www.facebook.com/majalahalwaie/posts/309041713151529
 tags:
 - Ushul Fiqih
-authors: karena itu, nas-nas syariah, termasuk as-Sunnah,
-sumber: https://www.facebook.com/majalahalwaie/posts/309041713151529
+draft: false
 ---
+
 **Penulis: karena itu, nas-nas syariah, termasuk as-Sunnah,**
 
 As-Sunnah adalah ucapan, perbuatan atau pengakuan Rasul saw. 

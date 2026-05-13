@@ -1,15 +1,14 @@
 ---
 title: Disertasi Sampah Dan Bahaya Logika Mantik Dalam Pengambilan Hukum
 date: '2020-01-21'
+author: KH Hafidz Abdurrahman
+source: https://www.facebook.com/bdwi.54/posts/10215302674667626
+tags:
+- Jawab
+- Ushul Fiqih
 draft: false
-series: []
-categories:
-  - Jawab
-  - Ushul Fiqih
-tags: []
-authors: KH Hafidz Abdurrahman
-sumber: "https://www.facebook.com/bdwi.54/posts/10215302674667626"
 ---
+
 **Penulis: KH Hafidz Abdurrahman**
 
 Oleh: KH Hafidz Abdurrahman

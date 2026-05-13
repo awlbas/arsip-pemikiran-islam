@@ -1,17 +1,14 @@
 ---
 title: Pancasila Menolak Ilmu Sekuler
 date: '2020-01-30'
-draft: false
-series: []
-categories:
-- Sekularisme
-- Pemikiran
+author: Dr. Adian Husaini
+source: https://www.facebook.com/mustanironline/posts/1283882845084996
 tags:
 - Sekularisme
 - Pemikiran
-authors: Dr. Adian Husaini
-sumber: https://www.facebook.com/mustanironline/posts/1283882845084996
+draft: false
 ---
+
 **Penulis: Dr. Adian Husaini**
 
 Oleh: Dr. Adian Husaini

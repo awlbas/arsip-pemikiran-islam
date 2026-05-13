@@ -1,14 +1,12 @@
 ---
 title: Pemilu Dalam Negara Khilafah
 date: '2019-05-15'
-draft: false
-series: []
-categories:
-- Khilafah
+author: Hafidz Abdurrahman
 tags:
 - Khilafah
-authors: Hafidz Abdurrahman
+draft: false
 ---
+
 **Penulis: Hafidz Abdurrahman**
 
 Oleh: Hafidz Abdurrahman

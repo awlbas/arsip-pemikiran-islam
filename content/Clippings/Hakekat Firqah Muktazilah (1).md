@@ -1,19 +1,15 @@
 ---
 title: Hakekat Firqah Muktazilah (1)
 date: '2019-08-01'
-draft: false
-series: []
-categories:
-- Jawab
-- Akidah
-- Hizbut Tahrir
+author: Admin
+source: http://www.abulwafaromli.com/2019/02/hakekat-muktazilah-1.html
 tags:
 - Jawab
 - Akidah
 - Hizbut Tahrir
-authors: Admin
-sumber: http://www.abulwafaromli.com/2019/02/hakekat-muktazilah-1.html
+draft: false
 ---
+
 **Penulis: Admin**
 
 Bismillâhir Rohmânir Rohîm

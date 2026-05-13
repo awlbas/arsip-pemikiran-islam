@@ -1,19 +1,15 @@
 ---
 title: Hakekat Firqah Muktazilah (2)
 date: '2019-08-01'
-draft: false
-series: []
-categories:
-- Jawab
-- Akidah
-- Hizbut Tahrir
+author: Allah, lalu dia mendapat petunjuk".
+source: http://www.abulwafaromli.com/2019/02/hakekat-firqah-mu-2.html
 tags:
 - Jawab
 - Akidah
 - Hizbut Tahrir
-authors: Allah, lalu dia mendapat petunjuk".
-sumber: http://www.abulwafaromli.com/2019/02/hakekat-firqah-mu-2.html
+draft: false
 ---
+
 **Penulis: Allah, lalu dia mendapat petunjuk".**
 
 Bismillaahir Rohmaanir Rohiim
