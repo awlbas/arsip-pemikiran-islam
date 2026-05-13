@@ -21,6 +21,19 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    // Feed terbaru hanya di halaman depan
+    Component.ConditionalRender({
+      component: Component.RecentNotes({
+        title: "Artikel Terbaru",
+        limit: 20,
+        showTags: true,
+        filter: (f) =>
+          !f.slug?.startsWith("Index/") &&
+          f.slug !== "index" &&
+          f.frontmatter?.draft !== true,
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
   ],
   left: [
     Component.DesktopOnly(Component.PageTitle()),
@@ -40,6 +53,21 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    // Widget terbaru di sidebar kanan semua halaman
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(
+        Component.RecentNotes({
+          title: "Terbaru",
+          limit: 8,
+          showTags: false,
+          filter: (f) =>
+            !f.slug?.startsWith("Index/") &&
+            f.slug !== "index" &&
+            f.frontmatter?.draft !== true,
+        }),
+      ),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
   ],
 }
 
