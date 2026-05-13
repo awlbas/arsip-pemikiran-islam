@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "id-ID",
-    baseUrl: "arsip-pemikiran-islam.pages.dev",
+    baseUrl: "awlbas.github.io/arsip-pemikiran-islam",
     ignorePatterns: ["private", "templates", "Templates", ".obsidian", "Works"],
     defaultDateType: "modified",
     theme: {
