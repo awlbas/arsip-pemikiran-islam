@@ -84,10 +84,7 @@ export const AlgoliaIndex: QuartzEmitterPlugin = () => {
         },
       })
 
-      // Push in batches of 100
-      for (let i = 0; i < records.length; i += 100) {
-        await client.saveObjects({ indexName: INDEX_NAME, objects: records.slice(i, i + 100) })
-      }
+      await client.replaceAllObjects({ indexName: INDEX_NAME, objects: records })
 
       console.log(`[AlgoliaIndex] Indexed ${records.length} chunks from content`)
     },
