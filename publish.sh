@@ -1,6 +1,11 @@
 #!/bin/bash
 set -e
 
+# Pastikan PATH lengkap saat dijalankan dari Obsidian
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && source "$NVM_DIR/nvm.sh"
+export PATH="/usr/bin:/usr/local/bin:$PATH"
+
 VAULT="/mnt/f9b042d9-2ae1-4331-b0b6-e79d1da06e10/synologydrive/obsidian"
 QUARTZ="/home/aldi/Apps/quartz"
 
