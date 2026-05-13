@@ -1,11 +1,11 @@
 ---
-title:
-date:
+title: null
 draft: false
 series: []
-categories:
-tags: []
-authors:
+categories: null
+tags:
+- tanpa-kategori
+authors: null
 sumber: https://www.facebook.com/permalink.php?story_fbid=pfbid02ETNo3nPUX5qgdqMSUQRVBUKMikSv8JEqjWTpHSTmirMCAMxU2Msi1v6z6yxhDxWgl&id=61566049576529
 ---
 Jika kita menengok sejarah peradaban manusia, satu hal akan terlihat jelas: pengorbanan manusia bukanlah hal asing bagi dunia kuno. Hampir semua peradaban musyrik mengenalnya. Dari Amerika hingga Asia, dari Afrika hingga Eropa, manusia pernah dipersembahkan atas nama para dewa.

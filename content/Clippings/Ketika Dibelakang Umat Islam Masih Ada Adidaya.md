@@ -1,6 +1,5 @@
 ---
 title: null
-date: null
 draft: false
 series: []
 categories:

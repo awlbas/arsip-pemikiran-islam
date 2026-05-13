@@ -4,7 +4,8 @@ date: '2022-06-08'
 draft: false
 series: []
 categories: []
-tags: []
+tags:
+- tanpa-kategori
 authors: Abulwafa Romli
 ---
 **Penulis: Abulwafa Romli**

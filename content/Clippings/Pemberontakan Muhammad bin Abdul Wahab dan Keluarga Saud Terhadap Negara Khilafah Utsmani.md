@@ -1,12 +1,12 @@
 ---
-title:
-date:
+title: null
 draft: false
 series: []
-categories:
-tags: []
-authors:
-sumber:
+categories: null
+tags:
+- tanpa-kategori
+authors: null
+sumber: null
 ---
 Tulisan bantahan Syaikh Utsman Bakhasy (Hizbut Tahrir) atas tulisan tanggapan pengasuh situs “Al Islam Sual wa Jawab” (islamqa.info), yang diasuh oleh Syaikh Muhammad Shalih al-Munajid (Ulama Salafi)
 

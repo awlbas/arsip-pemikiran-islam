@@ -1,11 +1,11 @@
 ---
-title:
-date:
+title: null
 draft: false
 series: []
-categories:
-tags: []
-authors:
+categories: null
+tags:
+- tanpa-kategori
+authors: null
 sumber: https://www.facebook.com/septian.anto/posts/pfbid038JofbKZMeCsgkR9tDfZdCLPVwEeUr4iegEkpRPaTXkFRx8Zq4MnNEkBXiHZu4mTWl
 ---
 Pertama, secara manhaj, manhaj Hadits Syaikh al-Albani itu berbeda dengan Syaikh Taqiyyuddin al-Nabhani. Syaikh al-Albani sangat ketat (tasyaddud) dan seakan tidak memahami tujuan tadwin sunnah dalam kitab Sunan, sampai-sampai Sunan Arba'ah saja dibagi dua: Silsilah Shahihah dan Silsilah Dha'ifah. Namun kadang beliau juga mengalami tanaqudh dalam manhaj ketika menghukumi Hadits lain yang semisal.

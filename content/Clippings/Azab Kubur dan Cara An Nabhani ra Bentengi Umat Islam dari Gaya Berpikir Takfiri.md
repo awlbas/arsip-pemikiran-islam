@@ -1,11 +1,11 @@
 ---
-title:
-date:
+title: null
 draft: false
 series: []
-categories:
-tags: []
-authors:
+categories: null
+tags:
+- tanpa-kategori
+authors: null
 sumber: https://www.facebook.com/watch/?ref=saved&v=1643764633065566
 ---
 1. Membaca Pemikiran Akidah Imam Muhammad Taqiyyuddin An Nabhani ra dan murid-muridnya ha harusnya gunakan teori Qot’i dan Dzonni, sebagaimana kita membaca Pemikiran Ulama Aswaja (Asyairoh Maturidiyah). Tanpa gunakan teori Qot’i dan Dzonni kita bisa terpapar gaya pemikiran Kelompok Takfiri, baik takfiri dari salafi maupun takfiri dari asyari. Kelompok Ahbasy adalah di antara Kelompok Takfiri yang banyak mengajarkan kitab-kitab Asyairoh.

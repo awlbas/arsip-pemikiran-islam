@@ -1,12 +1,12 @@
 ---
-title:
-date:
+title: null
 draft: false
 series: []
-categories:
-tags: []
-authors:
-sumber:
+categories: null
+tags:
+- tanpa-kategori
+authors: null
+sumber: null
 ---
 Sebagian orang bersikap negatif kepada orang lain dengan alasan melanggar muru'ah. Apa muru'ah itu?, apa standarnya? ini perlu dicermati, karena jika mengacu kepada contoh-contoh di kitab-kitab ulama terdahulu, hampir semua orang tidak ada yang selamat muru'ahnya. Pernah bertemu orang sepuh yang mencela teman-teman yang shalat pakai celana panjang (tidak sarungan), dia sebut itu orang-orang fasiq...
 

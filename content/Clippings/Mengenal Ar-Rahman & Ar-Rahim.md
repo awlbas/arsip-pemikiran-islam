@@ -4,9 +4,10 @@ date: '2020-01-30'
 draft: false
 series: []
 categories: []
-tags: []
+tags:
+- tanpa-kategori
 authors: Abdul Wahab Ahmad
-sumber: "https://www.facebook.com/wahabjember/posts/10205262360554750"
+sumber: https://www.facebook.com/wahabjember/posts/10205262360554750
 ---
 **Penulis: Abdul Wahab Ahmad**
 

@@ -4,7 +4,8 @@ date: '2022-02-22'
 draft: false
 series: []
 categories: []
-tags: []
+tags:
+- tanpa-kategori
 authors: Abdul Wahab Ahmad
 ---
 **Penulis: Abdul Wahab Ahmad**

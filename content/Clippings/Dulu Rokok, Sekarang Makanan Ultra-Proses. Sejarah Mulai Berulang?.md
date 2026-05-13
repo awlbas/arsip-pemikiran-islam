@@ -1,11 +1,11 @@
 ---
-title:
-date:
+title: null
 draft: false
 series: []
-categories:
-tags: []
-authors:
+categories: null
+tags:
+- tanpa-kategori
+authors: null
 sumber: https://www.facebook.com/famhar68/posts/pfbid0apV47d78RzCEQewERAaEWd1uGmzyvHMrNiSRcUHDjQsSyECPrzQ5MysMYWYs8KNKl
 ---
 Beberapa waktu lalu saya menulis tentang bagaimana negara-negara bagian di Amerika Serikat pernah “menang besar” melawan industri rokok lewat sebuah kesepakatan hukum bersejarah di akhir 1990-an. Banyak yang mengira cerita itu sudah selesai, jadi catatan lama dalam buku kesehatan masyarakat. Ternyata tidak. Hari ini, bab baru sedang ditulis—kali ini menyasar industri makanan ultra-proses.

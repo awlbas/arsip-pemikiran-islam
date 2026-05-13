@@ -4,9 +4,10 @@ date: '2023-07-13'
 draft: false
 series: []
 categories: []
-tags: []
+tags:
+- tanpa-kategori
 authors: Admin
-sumber: "https://www.facebook.com/ramaneranu/posts/pfbid0HXwUHrkFNwgNVPQQbu87MopAJrsf671B2EfTas5vXCNUWH3AjFjuRHt2e2N4FVVal"
+sumber: https://www.facebook.com/ramaneranu/posts/pfbid0HXwUHrkFNwgNVPQQbu87MopAJrsf671B2EfTas5vXCNUWH3AjFjuRHt2e2N4FVVal
 ---
 **Penulis: Admin**
 

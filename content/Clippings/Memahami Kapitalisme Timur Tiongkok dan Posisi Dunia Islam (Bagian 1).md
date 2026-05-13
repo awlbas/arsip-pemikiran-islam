@@ -4,9 +4,10 @@ date: '2019-07-01'
 draft: false
 series: []
 categories: []
-tags: []
+tags:
+- tanpa-kategori
 authors: Fika Komara
-sumber: "https://imune.id/memahami-kapitalisme-timur-tiongkok-dan-posisi-dunia-islam-bagian-1/"
+sumber: https://imune.id/memahami-kapitalisme-timur-tiongkok-dan-posisi-dunia-islam-bagian-1/
 ---
 **Penulis: Fika Komara**
 

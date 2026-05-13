@@ -1,5 +1,7 @@
 ---
 url: https://youtu.be/2N-LtDeW4ek?si=ikjtXuhM9Yx0lTJ2
+tags:
+- tanpa-kategori
 ---
 **[Pembawa Acara]:**
 

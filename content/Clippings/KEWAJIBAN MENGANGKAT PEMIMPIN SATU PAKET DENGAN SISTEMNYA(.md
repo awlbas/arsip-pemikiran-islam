@@ -1,11 +1,11 @@
 ---
-title:
-date:
+title: null
 draft: false
 series: []
-categories:
-tags: []
-authors:
+categories: null
+tags:
+- tanpa-kategori
+authors: null
 sumber: https://www.facebook.com/utsman.ismail/posts/pfbid037RFuURgdcQgqDTmgRFyFGqDm3RLywT2feY6QYH1xUTMcVbnpgkEUNGzepSkqbjeCl
 ---
 (Ngaji Khilafah Kepada Mbah Fadhol Senori. Part III)

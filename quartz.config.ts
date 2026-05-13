@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "DM Sans",
-        body: "Merriweather",
+        header: "Plus Jakarta Sans",
+        body: "Plus Jakarta Sans",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -88,6 +88,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
+      Plugin.AlgoliaIndex(),
     ],
   },
 }

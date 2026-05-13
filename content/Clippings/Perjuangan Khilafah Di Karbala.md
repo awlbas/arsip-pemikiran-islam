@@ -4,9 +4,10 @@ date: '2023-09-04'
 draft: false
 series: []
 categories: []
-tags: []
+tags:
+- tanpa-kategori
 authors: Admin
-sumber: "https://www.facebook.com/utsman.ismail/posts/pfbid0xZ2EfEnDfZEpVNR5UWYjaBETfWUJkxagBJHohbGoLfUKqzUtXZbqktyg6rGK6u2sl"
+sumber: https://www.facebook.com/utsman.ismail/posts/pfbid0xZ2EfEnDfZEpVNR5UWYjaBETfWUJkxagBJHohbGoLfUKqzUtXZbqktyg6rGK6u2sl
 ---
 **Penulis: Admin**
 

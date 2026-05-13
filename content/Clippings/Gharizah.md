@@ -1,11 +1,11 @@
 ---
-title:
-date:
+title: null
 draft: false
 series: []
-categories:
-tags: []
-authors:
+categories: null
+tags:
+- tanpa-kategori
+authors: null
 sumber: https://www.facebook.com/utsman.zahid.as.sidany/posts/pfbid0TNtMGgPoWeYfBS3z2XbnJrvjRmbbVHhH4vWMqWyF5jQkUNCFRUTG58Q4aym7gyLzl
 ---
 Lagi pada rame bahas gharizah..

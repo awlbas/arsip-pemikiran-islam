@@ -5,7 +5,20 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    // Feed terbaru dengan excerpt — muncul setelah konten index.md
+    Component.ConditionalRender({
+      component: Component.RecentFeed({
+        title: "Artikel Terbaru",
+        limit: 20,
+        filter: (f) =>
+          !f.slug?.startsWith("Index/") &&
+          f.slug !== "index" &&
+          f.frontmatter?.draft !== true,
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+  ],
   footer: Component.Footer({
     links: {},
   }),
@@ -21,28 +34,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    // Feed terbaru dengan excerpt hanya di halaman depan
-    Component.ConditionalRender({
-      component: Component.RecentFeed({
-        title: "Artikel Terbaru",
-        limit: 20,
-        filter: (f) =>
-          !f.slug?.startsWith("Index/") &&
-          f.slug !== "index" &&
-          f.frontmatter?.draft !== true,
-      }),
-      condition: (page) => page.fileData.slug === "index",
-    }),
   ],
   left: [
     Component.DesktopOnly(Component.PageTitle()),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
-        {
-          Component: Component.PagefindSearch(),
-          grow: true,
-        },
+        { Component: Component.PagefindSearch(), grow: true },
         { Component: Component.Darkmode() },
         { Component: Component.ReaderMode() },
       ],
@@ -52,7 +50,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-    // Widget terbaru di sidebar kanan semua halaman
+    // Widget terbaru di sidebar kanan semua halaman kecuali homepage
     Component.ConditionalRender({
       component: Component.DesktopOnly(
         Component.RecentNotes({

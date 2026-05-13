@@ -2,10 +2,11 @@
 title: Apa yang Membuat Anda Indonesia?
 source: https://www.youtube.com/watch?v=JGC6s5xtRiY
 author: Anhar Gonggong
-published:
-created:
-description:
+published: null
+created: null
+description: null
 tags:
+- tanpa-kategori
 ---
 ### BAGIAN 1: RINGKASAN EKSEKUTIF (SUMMARY)
 

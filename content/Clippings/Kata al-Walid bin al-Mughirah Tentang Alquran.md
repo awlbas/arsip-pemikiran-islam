@@ -4,9 +4,10 @@ date: '2023-07-06'
 draft: false
 series: []
 categories: []
-tags: []
+tags:
+- tanpa-kategori
 authors: Admin
-sumber: "https://kisahmuslim.com/5824-kata-al-walid-bin-al-mughirah-tentang-alquran.html?fbclid=IwAR1X_Btk5z7IAz8eDXpEUD-cRqr98m4MccG4AxINmOOKZOMbM5G7jbL9FoU"
+sumber: https://kisahmuslim.com/5824-kata-al-walid-bin-al-mughirah-tentang-alquran.html?fbclid=IwAR1X_Btk5z7IAz8eDXpEUD-cRqr98m4MccG4AxINmOOKZOMbM5G7jbL9FoU
 ---
 **Penulis: Admin**
 

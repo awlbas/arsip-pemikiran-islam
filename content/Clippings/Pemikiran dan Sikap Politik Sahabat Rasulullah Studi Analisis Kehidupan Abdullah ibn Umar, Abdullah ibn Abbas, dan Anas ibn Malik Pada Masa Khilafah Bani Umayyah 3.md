@@ -1,10 +1,13 @@
 ---
-title: Pemikiran dan Sikap Politik Sahabat Rasulullah - Studi Analisis Kehidupan Abdullah ibn Umar, Abdullah ibn Abbas, dan Anas ibn Malik Pada Masa Khilafah Bani Umayyah [3]
+title: Pemikiran dan Sikap Politik Sahabat Rasulullah - Studi Analisis Kehidupan Abdullah
+  ibn Umar, Abdullah ibn Abbas, dan Anas ibn Malik Pada Masa Khilafah Bani Umayyah
+  [3]
 date: 2019-02-08
 draft: false
 series: []
 categories: []
-tags: []
+tags:
+- tanpa-kategori
 authors: Admin
 ---
 **Penulis: Admin**

@@ -99,10 +99,14 @@ export default ((userOpts?: Partial<Options>) => {
       margin-bottom: 0.25rem;
       color: var(--dark);
       text-decoration: none;
+      background: none !important;
+      padding: 0 !important;
+      border-radius: 0 !important;
     }
 
     .feed-title:hover {
       color: var(--secondary);
+      background: none !important;
     }
 
     .feed-date {
@@ -124,6 +128,7 @@ export default ((userOpts?: Partial<Options>) => {
       flex-wrap: wrap;
       gap: 0.4rem;
       margin-top: 0.5rem;
+      font-size: 0.75rem;
     }
   `
 

@@ -1,6 +1,6 @@
 ---
 draft: No
-date: 7 November 2025
+date: '2025-11-07'
 last edited time: 27 Desember 2025 06.22
 tags: My Note, Politik Luar Negeri
 ---

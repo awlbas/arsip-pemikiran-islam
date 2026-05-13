@@ -4,9 +4,10 @@ date: '2023-06-12'
 draft: false
 series: []
 categories: []
-tags: []
+tags:
+- tanpa-kategori
 authors: Admin
-sumber: "https://www.facebook.com/faridmaruf.jogja/posts/pfbid02ua6PUrVYbFKyFFqmAbEb67uBZ3FeubgvPsY5NRTDAF2g62fxNUaaSPeKtLXqyztFl"
+sumber: https://www.facebook.com/faridmaruf.jogja/posts/pfbid02ua6PUrVYbFKyFFqmAbEb67uBZ3FeubgvPsY5NRTDAF2g62fxNUaaSPeKtLXqyztFl
 ---
 **Penulis: Admin**
 

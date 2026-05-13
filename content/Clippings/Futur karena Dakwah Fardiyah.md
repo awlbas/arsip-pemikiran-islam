@@ -4,7 +4,8 @@ date: '2023-06-26'
 draft: false
 series: []
 categories: []
-tags: []
+tags:
+- tanpa-kategori
 authors: Ustaz Iwan Januar
 ---
 **Penulis: Ustaz Iwan Januar**

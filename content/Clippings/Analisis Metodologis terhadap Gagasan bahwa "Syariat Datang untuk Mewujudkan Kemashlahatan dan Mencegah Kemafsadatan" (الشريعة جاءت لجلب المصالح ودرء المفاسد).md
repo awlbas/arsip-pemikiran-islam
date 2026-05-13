@@ -1,11 +1,11 @@
 ---
-title:
-date:
+title: null
 draft: false
 series: []
-categories:
-tags: []
-authors:
+categories: null
+tags:
+- tanpa-kategori
+authors: null
 sumber: https://www.facebook.com/yuanaryantID/posts/pfbid0UkPiFvm2tEjHRAQPRACZ39YBjMgNr1KfPu1buVDjX81tVP863LwWqik9aixW89X1l
 ---
 Pertama: Enam Argumen Pendukung Gagasan bahwa "Syariat Datang untuk Mewujudkan Kemashlahatan dan Mencegah Kerusakan"

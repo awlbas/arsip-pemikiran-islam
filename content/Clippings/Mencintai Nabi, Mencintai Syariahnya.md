@@ -4,9 +4,10 @@ date: '2019-11-19'
 draft: false
 series: []
 categories: []
-tags: []
+tags:
+- tanpa-kategori
 authors: Admin
-sumber: "https://www.facebook.com/yuanaryantID/posts/145453853502841"
+sumber: https://www.facebook.com/yuanaryantID/posts/145453853502841
 ---
 **Penulis: Admin**
 

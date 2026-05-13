@@ -1,3 +1,14 @@
+.content-source {
+  margin-top: 0.25rem;
+  font-size: 0.82rem;
+  color: var(--gray);
+
+  a {
+    color: var(--secondary);
+    word-break: break-all;
+  }
+}
+
 .content-meta {
   margin-top: 0;
   color: var(--darkgray);

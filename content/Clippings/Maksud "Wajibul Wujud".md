@@ -1,11 +1,11 @@
 ---
-title:
-date:
+title: null
 draft: false
 series: []
-categories:
-tags: []
-authors:
+categories: null
+tags:
+- tanpa-kategori
+authors: null
 sumber: https://www.facebook.com/azizi.fathoni.5/posts/pfbid037GQruFBzFWcxcK4hYYfrrDbMstuMBKLT1v8jXK3A7E5EgvfQPfyaByH1zUeqPYu6l
 ---
 Asy Syaikh Al Mujahid Taqiyuddin An Nabhani rahimahuLLaah menyatakan dalam kitabnya, Nizhamul Islam:

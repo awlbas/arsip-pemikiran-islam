@@ -42,10 +42,19 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(<span>{displayedTime}</span>)
       }
 
+      const source = fileData.frontmatter?.source as string | undefined
+
       return (
-        <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
-          {segments}
-        </p>
+        <>
+          <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
+            {segments}
+          </p>
+          {source && (
+            <p class="content-source">
+              Sumber: <a href={source} target="_blank" rel="noopener noreferrer">{source}</a>
+            </p>
+          )}
+        </>
       )
     } else {
       return null

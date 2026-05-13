@@ -1,11 +1,11 @@
 ---
-title:
-date:
+title: null
 draft: false
 series: []
-categories:
-tags: []
-authors:
+categories: null
+tags:
+- tanpa-kategori
+authors: null
 sumber: https://www.facebook.com/ramaneranu/posts/pfbid0LzzTiF798Gf9gCZ3Fgpid7Rv23eknfTXsFU9yxYwpW8XdEr7b2WcQ8FaBt6RgGYSl
 ---
 Ada empat hal yg berbeda; 1. Gharizah; 2. Mazh-harul Gharizah; 3. Kecenderungan (mail); dan 4. Perbuatan untuk memenuhi tuntutan gharizah.

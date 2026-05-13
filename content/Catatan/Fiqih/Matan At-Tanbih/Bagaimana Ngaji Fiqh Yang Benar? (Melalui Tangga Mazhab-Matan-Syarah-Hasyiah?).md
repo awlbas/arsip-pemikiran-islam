@@ -1,6 +1,6 @@
 ---
 draft: No
-date: 12 November 2025
+date: '2025-11-12'
 last edited time: 27 Desember 2025 06.22
 tags: My Note
 ---

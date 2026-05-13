@@ -4,9 +4,10 @@ date: '2023-07-14'
 draft: false
 series: []
 categories: []
-tags: []
+tags:
+- tanpa-kategori
 authors: Admin
-sumber: "https://www.facebook.com/photo/?fbid=1692634087883816&set=a.140310439782863"
+sumber: https://www.facebook.com/photo/?fbid=1692634087883816&set=a.140310439782863
 ---
 **Penulis: Admin**
 
