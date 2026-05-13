@@ -1,3 +1,30 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Typography: Merriweather body + DM Sans heading
+article {
+  font-size: 1.05rem;
+  line-height: 1.9;
+
+  p {
+    margin-bottom: 1.25em;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.35;
+    margin-top: 1.75em;
+    margin-bottom: 0.5em;
+  }
+}
+
+// Lebar konten lebih sempit agar mata tidak terlalu jauh bergerak
+.center {
+  max-width: 680px;
+}
+
+// Spacing paragraf lebih lapang di mobile
+@media (max-width: 800px) {
+  article {
+    font-size: 1rem;
+    line-height: 1.85;
+  }
+}

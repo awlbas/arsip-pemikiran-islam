@@ -21,12 +21,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    // Feed terbaru hanya di halaman depan
+    // Feed terbaru dengan excerpt hanya di halaman depan
     Component.ConditionalRender({
-      component: Component.RecentNotes({
+      component: Component.RecentFeed({
         title: "Artikel Terbaru",
         limit: 20,
-        showTags: true,
         filter: (f) =>
           !f.slug?.startsWith("Index/") &&
           f.slug !== "index" &&
