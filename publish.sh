@@ -16,6 +16,7 @@ rsync -a --delete \
   --exclude="Templates" \
   --exclude="*.py" \
   --exclude="Clippings_backup_*" \
+  --exclude="frontmatter_backup_*" \
   "$VAULT/" "$QUARTZ/content/"
 
 echo "📦 Commit dan push ke GitHub..."

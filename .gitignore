@@ -12,3 +12,6 @@ content/Works/
 content/Clippings_backup_*/
 ALGOLIA_ADMIN_KEY=453956eb05cec26f36d12a04eab87ee1
 .env
+__pycache__/
+*.pyc
+normalize_frontmatter.py
