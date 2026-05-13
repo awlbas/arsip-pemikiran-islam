@@ -1,3 +1,12 @@
+---
+title: Istiqomah Kunci Kekuatan Iman
+date: '2026-05-11'
+tags:
+- Nafsiyah
+- Iman
+draft: false
+---
+
 - istiqomah tidak harus selalu naik, tapi terus dalam kondisi keimanan dan ketaatan terhadap syariat
 - naiknya kualitas dan kuantitas amal kita menurut para ulama merupakan salah satu tanda di terimanya amal kita. *"Termasuk balasan kebaikan adalah kebaikan yang dikerjakan sesudahnya"*
 - para ulama mengatakan tanda bahwa solat fardhu diterima adalah membuat ringan untuk mengerjakan salat sunnah rawatib

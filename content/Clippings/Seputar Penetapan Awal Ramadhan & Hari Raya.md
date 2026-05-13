@@ -1,3 +1,12 @@
+---
+title: Seputar Penetapan Awal Ramadhan & Hari Raya
+date: '2026-02-27'
+tags:
+- Fikih
+- Ibadah
+draft: false
+---
+
 واتفقوا على أنه إذا رؤى الهلال في بلد رؤية فاشية؛ فإنه يجب الصوم على سائر أهل الدنيا
 
 “Dan mereka (empat Imam madzhab, yakni Imam Abu Hanifah, Imam Malik, Imam Syafi'iy dan Imam Ahmad) telah sepakat : bahwa ketika bulan sabit telah terlihat di suatu negeri pada saat malam, maka wajib puasa atas seluruh penduduk dunia. (Ibnu Hubairoh (w. 560 h), Al-Ijma’ ‘Inda Aimmati Ahlis Sunnah al Arba’ah (Riyadh: Maktabah al-’Ubaikan, 2003), hlm. 77). Semakna dg yang dinyatakan oleh Syaikh Abd al-Wahhâb al- Sya'rôni (w. 973 H), Al-Mîzân, juz 2 hal 273).

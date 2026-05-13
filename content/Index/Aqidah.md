@@ -11,7 +11,7 @@ Catatan dan referensi seputar aqidah Islam — tauhid, keimanan, dan landasan ke
 
 ## Catatan
 
-- [[Why Should We Start]]
+- [[Catatan/Private/NgeSlow/Why Should We Start]]
 
 ## Referensi Artikel (12)
 
